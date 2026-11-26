@@ -1,0 +1,2001 @@
+incident_id,report_date,division,crime_category,victim_type,loss_amount,report_channel,status,severity_level,reporting_delay_days
+CW-00001,2025-05-02,Central,Identity Misuse,Business,832.18,Walk-in,Closed,Low,19
+CW-00002,2025-04-18,Eastern,Identity Misuse,Business,2978.35,Online,Under Review,High,20
+CW-00003,2026-02-23,Western,Social Engineering,Individual,4693.57,Online,Open,Low,5
+CW-00004,2025-03-30,Western,Social Engineering,Business,4808.07,Email,Closed,Medium,30
+CW-00005,2026-12-17,Northern,Social Engineering,Individual,2463.32,Online,Closed,Medium,29
+CW-00006,2025-07-03,Eastern,Online Fraud,Business,3033.33,Phone,Under Review,Low,17
+CW-00007,2026-01-01,Western,Social Engineering,Business,967.67,Online,Closed,Low,20
+CW-00008,2025-03-25,Western,Social Engineering,Business,2257.37,Phone,Under Review,Low,3
+CW-00009,2026-05-22,Western,Phishing,Business,3607.7,Email,Under Review,Low,30
+CW-00010,2026-12-10,Central,Investment Scam,Business,2757.05,Walk-in,Open,Medium,7
+CW-00011,2025-09-01,Eastern,Social Engineering,Individual,2986.13,Online,Open,Critical,27
+CW-00012,2025-12-10,Eastern,Identity Misuse,Individual,1922.38,Online,Closed,High,0
+CW-00013,2026-01-18,Western,Phishing,Individual,1155.5,Walk-in,Closed,Medium,4
+CW-00014,2025-04-20,Eastern,Identity Misuse,Individual,2332.02,Online,Closed,Low,11
+CW-00015,2026-04-09,Central,Investment Scam,Business,1330.45,Walk-in,Open,High,2
+CW-00016,2026-08-04,Central,Identity Misuse,Individual,1234.16,Email,Closed,Medium,27
+CW-00017,2025-04-09,Western,Investment Scam,Individual,3809.06,Online,Open,Low,3
+CW-00018,2026-12-18,Western,Social Engineering,Business,5930.84,Phone,Open,Low,18
+CW-00019,2026-11-04,Eastern,Social Engineering,Business,3943.96,Email,Under Review,Low,27
+CW-00020,2026-04-24,Western,Online Fraud,Individual,2185.46,Online,Closed,Medium,6
+CW-00021,2026-10-02,Central,Identity Misuse,Individual,2690.52,Phone,Open,Medium,12
+CW-00022,2025-09-02,Eastern,Identity Misuse,Business,625.83,Email,Open,Medium,11
+CW-00023,2026-06-06,Eastern,Social Engineering,Business,4130.09,Online,Open,Critical,25
+CW-00024,2026-12-16,Western,Phishing,Business,4007.48,Phone,Closed,Low,16
+CW-00025,2025-08-13,Northern,Phishing,Individual,3009.73,Email,Closed,Medium,0
+CW-00026,2025-08-14,Northern,Online Fraud,Individual,2488.93,Phone,Open,Medium,23
+CW-00027,2025-08-07,Northern,Online Fraud,Individual,1014.2,Online,Closed,Medium,21
+CW-00028,2026-03-04,Northern,Identity Misuse,Business,1650.55,Email,Closed,Low,25
+CW-00029,2026-10-08,Western,Online Fraud,Individual,1325.12,Walk-in,Closed,High,6
+CW-00030,2026-09-09,Eastern,Phishing,Business,2016.91,Online,Open,Low,6
+CW-00031,2025-11-29,Eastern,Investment Scam,Individual,2279.58,Online,Closed,High,29
+CW-00032,2025-07-29,Eastern,Online Fraud,Business,2770.93,Email,Closed,Critical,2
+CW-00033,2026-03-01,Eastern,Social Engineering,Business,2762.25,Phone,Closed,Medium,5
+CW-00034,2026-11-15,Central,Social Engineering,Individual,674.72,Phone,Open,Low,3
+CW-00035,2026-05-26,Northern,Identity Misuse,Individual,3127.18,Walk-in,Closed,Medium,7
+CW-00036,2025-02-04,Western,Investment Scam,Individual,0.0,Phone,Closed,Medium,13
+CW-00037,2025-11-02,Central,Social Engineering,Individual,390.39,Online,Closed,Medium,29
+CW-00038,2025-07-27,Eastern,Online Fraud,Business,2448.21,Email,Under Review,Critical,16
+CW-00039,2026-01-13,Northern,Social Engineering,Individual,2308.59,Phone,Open,Medium,5
+CW-00040,2026-12-01,Eastern,Investment Scam,Individual,3012.39,Email,Closed,Low,0
+CW-00041,2025-12-06,Central,Phishing,Individual,778.42,Walk-in,Closed,Low,17
+CW-00042,2025-04-14,Central,Identity Misuse,Business,4584.4,Email,Closed,Low,0
+CW-00043,2026-06-24,Western,Online Fraud,Business,2535.9,Online,Open,Low,2
+CW-00044,2026-06-09,Eastern,Social Engineering,Individual,3807.87,Walk-in,Closed,Low,13
+CW-00045,2027-01-27,Western,Identity Misuse,Individual,2724.75,Online,Under Review,High,30
+CW-00046,2025-03-05,Eastern,Investment Scam,Individual,2711.36,Email,Open,Low,10
+CW-00047,2026-09-16,Northern,Social Engineering,Business,2568.36,Walk-in,Closed,Medium,4
+CW-00048,2026-10-30,Western,Social Engineering,Business,1522.6,Phone,Closed,High,12
+CW-00049,2026-09-21,Northern,Phishing,Individual,5171.94,Online,Under Review,Critical,25
+CW-00050,2025-05-05,Western,Online Fraud,Business,1483.88,Online,Open,Medium,29
+CW-00051,2025-07-14,Eastern,Investment Scam,Business,724.64,Phone,Open,Low,6
+CW-00052,2025-08-12,Northern,Online Fraud,Business,2843.46,Phone,Under Review,High,4
+CW-00053,2025-08-07,Western,Phishing,Business,1676.12,Phone,Under Review,Medium,15
+CW-00054,2026-06-27,Central,Social Engineering,Business,4145.19,Email,Closed,Low,21
+CW-00055,2026-11-15,Eastern,Online Fraud,Business,1027.74,Email,Closed,Critical,25
+CW-00056,2025-07-05,Eastern,Social Engineering,Business,3193.16,Walk-in,Open,Medium,26
+CW-00057,2026-12-02,Central,Social Engineering,Individual,3252.14,Walk-in,Open,Low,10
+CW-00058,2026-09-12,Western,Investment Scam,Individual,4090.96,Phone,Closed,Low,13
+CW-00059,2025-04-07,Central,Phishing,Business,1566.64,Online,Under Review,Medium,7
+CW-00060,2026-03-12,Eastern,Online Fraud,Individual,1966.77,Online,Open,Medium,23
+CW-00061,2026-04-25,Eastern,Identity Misuse,Individual,1577.13,Online,Closed,Medium,23
+CW-00062,2026-11-23,Eastern,Investment Scam,Business,3074.2,Online,Closed,High,29
+CW-00063,2025-08-07,Central,Online Fraud,Individual,4458.22,Phone,Open,High,2
+CW-00064,2025-06-29,Eastern,Investment Scam,Individual,2531.51,Walk-in,Open,Low,3
+CW-00065,2027-01-18,Eastern,Social Engineering,Individual,1220.11,Online,Closed,Medium,30
+CW-00066,2026-04-17,Central,Online Fraud,Individual,2478.58,Online,Open,Medium,3
+CW-00067,2026-03-04,Western,Investment Scam,Individual,2036.36,Phone,Closed,Low,30
+CW-00068,2025-04-09,Eastern,Online Fraud,Individual,3705.72,Phone,Closed,Medium,25
+CW-00069,2025-06-26,Central,Phishing,Individual,1793.44,Online,Under Review,Critical,9
+CW-00070,2026-05-23,Central,Social Engineering,Individual,2848.07,Walk-in,Closed,Critical,12
+CW-00071,2025-05-15,Western,Social Engineering,Individual,0.0,Walk-in,Closed,Low,3
+CW-00072,2026-06-21,Western,Identity Misuse,Individual,1972.69,Online,Under Review,Medium,6
+CW-00073,2025-03-18,Eastern,Investment Scam,Individual,4406.71,Online,Under Review,Medium,19
+CW-00074,2026-06-08,Central,Online Fraud,Business,3656.29,Online,Under Review,High,16
+CW-00075,2026-11-28,Central,Investment Scam,Business,2836.14,Online,Closed,Medium,12
+CW-00076,2026-04-03,Northern,Online Fraud,Individual,2518.89,Phone,Closed,Medium,17
+CW-00077,2026-01-29,Western,Identity Misuse,Business,3050.36,Phone,Under Review,Medium,21
+CW-00078,2026-11-19,Eastern,Phishing,Business,2814.25,Email,Under Review,Low,20
+CW-00079,2025-11-29,Eastern,Social Engineering,Individual,3012.63,Online,Open,High,17
+CW-00080,2026-07-14,Central,Phishing,Individual,5314.26,Email,Open,Medium,2
+CW-00081,2026-04-04,Eastern,Phishing,Individual,4269.16,Email,Closed,Low,9
+CW-00082,2025-11-08,Central,Identity Misuse,Individual,1796.24,Online,Open,Low,30
+CW-00083,2025-04-17,Northern,Online Fraud,Individual,2507.87,Online,Open,Critical,2
+CW-00084,2026-04-21,Central,Investment Scam,Business,2570.47,Online,Under Review,Low,18
+CW-00085,2026-11-28,Eastern,Online Fraud,Individual,0.0,Walk-in,Closed,Low,12
+CW-00086,2025-03-06,Central,Identity Misuse,Individual,2097.61,Online,Closed,Low,11
+CW-00087,2025-07-30,Central,Phishing,Individual,1849.52,Email,Under Review,Low,4
+CW-00088,2025-04-25,Western,Identity Misuse,Individual,1986.54,Walk-in,Under Review,Low,17
+CW-00089,2025-06-15,Eastern,Social Engineering,Business,3972.32,Online,Open,Low,0
+CW-00090,2025-07-19,Western,Online Fraud,Business,2996.05,Email,Open,Critical,16
+CW-00091,2025-02-23,Central,Identity Misuse,Individual,2315.63,Online,Closed,Low,1
+CW-00092,2025-04-15,Western,Social Engineering,Business,2387.04,Email,Open,High,10
+CW-00093,2025-08-09,Central,Phishing,Individual,1704.61,Online,Under Review,Low,26
+CW-00094,2026-06-01,Central,Social Engineering,Business,1310.69,Phone,Under Review,Low,4
+CW-00095,2027-01-12,Northern,Online Fraud,Business,3271.88,Walk-in,Under Review,Low,12
+CW-00096,2025-03-17,Central,Phishing,Business,4306.95,Online,Open,Medium,28
+CW-00097,2026-12-07,Northern,Phishing,Business,1560.21,Online,Under Review,Low,14
+CW-00098,2025-11-26,Northern,Identity Misuse,Individual,0.0,Walk-in,Under Review,High,18
+CW-00099,2026-06-04,Western,Phishing,Business,90.33,Online,Closed,Low,12
+CW-00100,2026-12-21,Central,Online Fraud,Individual,2805.2,Phone,Under Review,Medium,6
+CW-00101,2026-07-07,Central,Social Engineering,Individual,4083.0,Online,Under Review,Low,16
+CW-00102,2025-05-12,Western,Online Fraud,Business,3480.45,Walk-in,Under Review,Low,21
+CW-00103,2026-06-21,Western,Phishing,Individual,402.15,Phone,Open,Low,19
+CW-00104,2026-06-02,Eastern,Identity Misuse,Business,3344.45,Phone,Under Review,Low,15
+CW-00105,2025-06-08,Northern,Identity Misuse,Individual,2905.69,Walk-in,Under Review,Low,22
+CW-00106,2025-03-19,Northern,Online Fraud,Business,2424.64,Email,Under Review,Medium,3
+CW-00107,2026-03-18,Northern,Identity Misuse,Business,4362.96,Online,Under Review,Critical,1
+CW-00108,2026-12-25,Eastern,Online Fraud,Business,2371.36,Walk-in,Open,Medium,0
+CW-00109,2025-11-21,Central,Identity Misuse,Individual,6675.67,Online,Under Review,Low,5
+CW-00110,2025-01-14,Northern,Phishing,Business,83.49,Phone,Open,Medium,4
+CW-00111,2026-08-19,Northern,Investment Scam,Individual,3294.71,Email,Under Review,Medium,0
+CW-00112,2026-09-28,Central,Investment Scam,Business,4662.35,Email,Under Review,Low,30
+CW-00113,2026-01-21,Central,Phishing,Business,3502.15,Email,Under Review,Low,10
+CW-00114,2025-12-22,Northern,Online Fraud,Individual,2216.19,Phone,Under Review,High,7
+CW-00115,2025-06-18,Northern,Identity Misuse,Business,0.0,Online,Under Review,Low,4
+CW-00116,2025-10-30,Northern,Identity Misuse,Individual,3041.17,Phone,Open,High,7
+CW-00117,2025-05-23,Central,Online Fraud,Individual,3530.25,Online,Closed,Medium,0
+CW-00118,2025-07-22,Northern,Identity Misuse,Business,0.0,Phone,Closed,High,5
+CW-00119,2025-11-04,Western,Identity Misuse,Business,3955.12,Online,Under Review,Low,19
+CW-00120,2026-06-10,Northern,Phishing,Individual,3581.16,Phone,Under Review,Medium,4
+CW-00121,2025-08-28,Eastern,Social Engineering,Business,7261.66,Online,Closed,Medium,12
+CW-00122,2026-11-17,Northern,Identity Misuse,Individual,2773.36,Email,Under Review,Low,1
+CW-00123,2025-03-29,Northern,Phishing,Business,0.0,Walk-in,Under Review,Critical,19
+CW-00124,2026-02-25,Central,Phishing,Individual,4744.07,Online,Closed,High,25
+CW-00125,2026-11-25,Eastern,Social Engineering,Business,3221.51,Email,Closed,Low,11
+CW-00126,2026-09-26,Western,Online Fraud,Business,2835.83,Walk-in,Open,Low,30
+CW-00127,2025-11-14,Northern,Online Fraud,Business,1558.87,Email,Under Review,High,21
+CW-00128,2025-01-31,Western,Identity Misuse,Business,1756.92,Walk-in,Open,Low,30
+CW-00129,2025-11-13,Western,Social Engineering,Individual,3778.37,Walk-in,Under Review,Low,8
+CW-00130,2025-08-24,Western,Identity Misuse,Individual,0.0,Email,Closed,Low,26
+CW-00131,2025-07-19,Eastern,Online Fraud,Individual,4058.24,Walk-in,Under Review,Low,21
+CW-00132,2026-04-30,Northern,Online Fraud,Business,1452.68,Online,Open,Medium,16
+CW-00133,2026-01-04,Northern,Investment Scam,Business,6360.04,Online,Under Review,High,27
+CW-00134,2027-01-22,Eastern,Investment Scam,Individual,2588.83,Online,Open,Medium,29
+CW-00135,2026-03-18,Western,Online Fraud,Business,2852.22,Phone,Open,Medium,18
+CW-00136,2026-11-27,Northern,Social Engineering,Individual,5227.03,Email,Open,Low,18
+CW-00137,2026-10-14,Western,Identity Misuse,Business,4622.45,Walk-in,Under Review,High,9
+CW-00138,2025-01-08,Central,Identity Misuse,Business,2687.57,Walk-in,Closed,Medium,0
+CW-00139,2025-12-15,Central,Investment Scam,Individual,2714.82,Email,Under Review,High,21
+CW-00140,2025-04-11,Eastern,Identity Misuse,Business,3967.44,Email,Open,Low,13
+CW-00141,2025-01-16,Northern,Online Fraud,Individual,2995.48,Phone,Under Review,Critical,9
+CW-00142,2026-12-29,Northern,Phishing,Individual,3805.01,Phone,Closed,Medium,19
+CW-00143,2026-02-19,Central,Investment Scam,Business,1559.03,Online,Closed,Critical,19
+CW-00144,2026-01-22,Central,Phishing,Business,4377.48,Email,Closed,High,23
+CW-00145,2025-05-24,Western,Identity Misuse,Individual,2961.7,Online,Open,Low,16
+CW-00146,2025-10-15,Western,Social Engineering,Business,0.0,Phone,Open,Low,10
+CW-00147,2027-01-01,Northern,Phishing,Business,2793.77,Phone,Under Review,Medium,4
+CW-00148,2025-06-07,Western,Social Engineering,Individual,1032.44,Online,Under Review,Low,5
+CW-00149,2025-02-20,Northern,Identity Misuse,Business,3567.43,Online,Closed,Medium,24
+CW-00150,2026-03-02,Central,Social Engineering,Business,500.88,Phone,Under Review,Low,25
+CW-00151,2025-12-29,Northern,Investment Scam,Business,2162.49,Email,Open,High,0
+CW-00152,2025-09-05,Western,Investment Scam,Business,4311.39,Online,Under Review,Low,21
+CW-00153,2025-06-15,Northern,Social Engineering,Individual,3061.88,Phone,Open,Low,18
+CW-00154,2025-11-08,Central,Online Fraud,Individual,926.76,Walk-in,Under Review,Medium,16
+CW-00155,2025-05-28,Central,Social Engineering,Business,2038.32,Walk-in,Closed,Critical,17
+CW-00156,2025-01-26,Central,Online Fraud,Individual,1511.65,Email,Under Review,Critical,9
+CW-00157,2025-12-12,Northern,Investment Scam,Individual,4429.4,Phone,Open,Critical,7
+CW-00158,2025-10-09,Northern,Phishing,Individual,4093.31,Online,Under Review,Low,14
+CW-00159,2025-01-22,Central,Phishing,Individual,0.0,Walk-in,Open,High,6
+CW-00160,2026-11-26,Western,Identity Misuse,Individual,2080.75,Online,Under Review,High,7
+CW-00161,2026-01-13,Northern,Phishing,Individual,392.26,Email,Open,Low,6
+CW-00162,2025-06-27,Western,Social Engineering,Individual,3251.55,Walk-in,Open,Medium,7
+CW-00163,2026-02-18,Central,Investment Scam,Business,2172.84,Walk-in,Under Review,Critical,17
+CW-00164,2025-09-30,Central,Investment Scam,Business,3993.79,Email,Closed,Low,22
+CW-00165,2025-02-27,Central,Investment Scam,Business,5948.35,Email,Closed,Low,29
+CW-00166,2026-01-13,Central,Online Fraud,Business,1955.74,Online,Closed,Medium,19
+CW-00167,2026-02-09,Western,Social Engineering,Business,0.0,Email,Closed,Critical,29
+CW-00168,2025-03-06,Northern,Social Engineering,Business,688.91,Walk-in,Closed,Critical,4
+CW-00169,2025-02-09,Central,Phishing,Individual,2354.35,Email,Open,Medium,29
+CW-00170,2025-09-12,Western,Phishing,Individual,2581.48,Phone,Open,Low,12
+CW-00171,2026-05-23,Eastern,Investment Scam,Individual,626.24,Online,Closed,Medium,2
+CW-00172,2026-08-22,Western,Identity Misuse,Business,3357.22,Phone,Under Review,Critical,26
+CW-00173,2025-01-05,Western,Investment Scam,Business,0.0,Walk-in,Open,High,2
+CW-00174,2025-12-07,Central,Online Fraud,Individual,1182.44,Walk-in,Closed,Low,9
+CW-00175,2025-05-18,Western,Identity Misuse,Individual,2568.39,Online,Open,High,14
+CW-00176,2026-09-02,Eastern,Investment Scam,Business,1553.51,Phone,Open,Critical,17
+CW-00177,2025-12-12,Eastern,Phishing,Business,40.91,Phone,Closed,High,23
+CW-00178,2025-04-02,Northern,Identity Misuse,Business,3193.82,Online,Open,High,0
+CW-00179,2025-12-31,Western,Social Engineering,Individual,1107.6,Online,Closed,Critical,20
+CW-00180,2025-02-22,Western,Phishing,Business,3391.55,Walk-in,Open,High,22
+CW-00181,2025-03-26,Western,Investment Scam,Individual,1326.86,Online,Under Review,Low,3
+CW-00182,2025-09-06,Eastern,Phishing,Business,1577.47,Email,Open,High,16
+CW-00183,2025-12-10,Western,Phishing,Individual,2357.06,Email,Closed,Critical,18
+CW-00184,2025-10-08,Eastern,Social Engineering,Business,2918.53,Email,Closed,Low,3
+CW-00185,2026-06-29,Central,Phishing,Business,4292.57,Walk-in,Under Review,High,21
+CW-00186,2026-12-19,Central,Social Engineering,Business,215.22,Walk-in,Closed,Medium,14
+CW-00187,2026-04-11,Central,Identity Misuse,Individual,2303.44,Walk-in,Closed,Medium,6
+CW-00188,2026-06-23,Western,Phishing,Individual,0.0,Email,Open,Low,1
+CW-00189,2026-05-10,Northern,Investment Scam,Individual,3751.13,Walk-in,Under Review,Low,6
+CW-00190,2026-04-30,Northern,Online Fraud,Business,1757.94,Email,Open,Critical,26
+CW-00191,2025-03-30,Northern,Online Fraud,Individual,2431.62,Email,Under Review,Low,5
+CW-00192,2025-06-28,Central,Social Engineering,Business,2865.01,Walk-in,Closed,Critical,16
+CW-00193,2026-03-30,Central,Investment Scam,Individual,2262.02,Phone,Closed,Medium,24
+CW-00194,2026-12-17,Eastern,Phishing,Individual,720.04,Email,Under Review,Medium,23
+CW-00195,2025-07-31,Central,Social Engineering,Business,462.59,Online,Closed,Medium,6
+CW-00196,2026-06-05,Western,Identity Misuse,Business,2025.85,Online,Open,Low,20
+CW-00197,2025-10-30,Eastern,Phishing,Business,4322.73,Email,Under Review,Critical,29
+CW-00198,2025-08-20,Eastern,Online Fraud,Individual,3613.13,Email,Open,Medium,18
+CW-00199,2026-04-23,Western,Social Engineering,Business,4275.12,Phone,Open,Medium,15
+CW-00200,2026-08-31,Western,Phishing,Business,1508.94,Walk-in,Under Review,Medium,19
+CW-00201,2025-05-24,Western,Social Engineering,Individual,2815.85,Online,Closed,Medium,1
+CW-00202,2026-07-24,Eastern,Phishing,Business,3820.44,Phone,Under Review,Medium,17
+CW-00203,2026-01-24,Northern,Social Engineering,Business,4476.09,Phone,Closed,Medium,6
+CW-00204,2026-12-10,Western,Identity Misuse,Business,2796.4,Phone,Closed,Medium,9
+CW-00205,2026-07-03,Northern,Phishing,Individual,3284.25,Walk-in,Closed,Low,12
+CW-00206,2027-01-14,Central,Online Fraud,Individual,1639.45,Walk-in,Under Review,Medium,21
+CW-00207,2026-04-18,Western,Online Fraud,Individual,4136.57,Walk-in,Under Review,High,28
+CW-00208,2026-02-12,Eastern,Social Engineering,Business,2333.9,Phone,Under Review,High,4
+CW-00209,2026-09-08,Eastern,Phishing,Individual,4853.06,Walk-in,Under Review,High,8
+CW-00210,2025-10-31,Northern,Identity Misuse,Business,184.69,Phone,Open,Low,9
+CW-00211,2025-09-11,Eastern,Investment Scam,Individual,3623.95,Email,Under Review,Low,17
+CW-00212,2026-06-23,Western,Investment Scam,Individual,1424.07,Phone,Open,Medium,13
+CW-00213,2026-06-13,Central,Online Fraud,Business,766.65,Walk-in,Open,Critical,27
+CW-00214,2025-03-09,Central,Investment Scam,Individual,2978.84,Online,Open,Low,2
+CW-00215,2025-10-24,Western,Identity Misuse,Business,2615.23,Phone,Under Review,Low,10
+CW-00216,2025-06-01,Eastern,Identity Misuse,Business,575.51,Online,Open,Low,19
+CW-00217,2025-11-04,Northern,Investment Scam,Individual,2017.55,Online,Closed,High,24
+CW-00218,2026-10-08,Central,Social Engineering,Business,5615.12,Phone,Under Review,Low,26
+CW-00219,2025-11-08,Western,Investment Scam,Individual,2303.63,Online,Closed,Low,19
+CW-00220,2026-12-05,Eastern,Phishing,Business,947.57,Online,Under Review,Critical,13
+CW-00221,2025-05-07,Central,Phishing,Individual,2299.63,Walk-in,Closed,Medium,1
+CW-00222,2026-03-09,Eastern,Investment Scam,Business,4128.8,Email,Under Review,Low,5
+CW-00223,2026-01-17,Western,Investment Scam,Individual,1418.81,Phone,Open,Critical,7
+CW-00224,2025-06-25,Central,Phishing,Individual,3225.84,Phone,Under Review,Medium,1
+CW-00225,2025-06-19,Eastern,Online Fraud,Business,2797.43,Email,Open,Medium,25
+CW-00226,2025-10-29,Western,Investment Scam,Business,2110.59,Online,Open,Low,15
+CW-00227,2025-08-09,Western,Online Fraud,Individual,4007.71,Online,Open,Medium,1
+CW-00228,2026-05-14,Eastern,Phishing,Individual,2121.43,Phone,Under Review,Critical,10
+CW-00229,2025-01-24,Western,Phishing,Individual,2053.65,Walk-in,Open,Low,5
+CW-00230,2026-04-24,Central,Online Fraud,Business,4563.56,Phone,Closed,Medium,24
+CW-00231,2026-09-21,Central,Online Fraud,Business,560.28,Phone,Closed,Medium,24
+CW-00232,2026-09-27,Western,Phishing,Business,1598.54,Online,Closed,Medium,13
+CW-00233,2025-12-09,Western,Social Engineering,Individual,2634.41,Walk-in,Closed,Low,15
+CW-00234,2025-12-14,Western,Phishing,Business,727.91,Walk-in,Closed,Low,5
+CW-00235,2026-02-21,Northern,Investment Scam,Business,2693.96,Walk-in,Closed,Low,10
+CW-00236,2025-06-11,Northern,Phishing,Business,3070.07,Online,Open,Low,21
+CW-00237,2026-07-21,Northern,Social Engineering,Individual,1256.61,Phone,Under Review,Low,28
+CW-00238,2026-08-15,Western,Online Fraud,Business,2745.22,Walk-in,Closed,Medium,3
+CW-00239,2026-08-15,Central,Online Fraud,Business,1266.07,Phone,Open,Low,6
+CW-00240,2026-11-25,Northern,Identity Misuse,Individual,2274.49,Walk-in,Under Review,High,9
+CW-00241,2027-01-23,Central,Phishing,Individual,910.91,Online,Open,Critical,27
+CW-00242,2025-06-16,Central,Phishing,Individual,3216.33,Online,Under Review,High,15
+CW-00243,2026-10-01,Northern,Phishing,Individual,2859.22,Online,Closed,Medium,27
+CW-00244,2026-12-04,Northern,Social Engineering,Business,1326.97,Online,Closed,Medium,16
+CW-00245,2026-11-08,Central,Identity Misuse,Business,3338.11,Online,Under Review,Medium,15
+CW-00246,2026-04-15,Central,Phishing,Business,715.08,Walk-in,Closed,Medium,29
+CW-00247,2026-07-29,Central,Online Fraud,Individual,3084.94,Phone,Under Review,Critical,21
+CW-00248,2026-09-26,Eastern,Investment Scam,Individual,4306.1,Email,Closed,Medium,13
+CW-00249,2026-01-14,Western,Online Fraud,Individual,2551.13,Phone,Open,Low,26
+CW-00250,2025-06-29,Eastern,Phishing,Individual,1345.04,Phone,Open,Medium,20
+CW-00251,2025-12-13,Western,Social Engineering,Business,0.0,Phone,Under Review,Critical,5
+CW-00252,2026-05-22,Northern,Online Fraud,Individual,1556.61,Email,Under Review,Low,30
+CW-00253,2026-10-17,Eastern,Social Engineering,Individual,0.0,Walk-in,Closed,Low,22
+CW-00254,2026-06-20,Eastern,Social Engineering,Individual,1751.05,Online,Under Review,Medium,19
+CW-00255,2026-02-27,Eastern,Online Fraud,Individual,3255.6,Phone,Open,Low,17
+CW-00256,2026-05-18,Western,Investment Scam,Business,3373.59,Online,Open,Low,22
+CW-00257,2026-04-04,Northern,Social Engineering,Business,5733.61,Walk-in,Under Review,Critical,10
+CW-00258,2025-06-13,Eastern,Investment Scam,Business,802.82,Phone,Closed,Low,21
+CW-00259,2026-11-26,Central,Identity Misuse,Business,3352.66,Email,Under Review,Low,17
+CW-00260,2026-02-11,Western,Identity Misuse,Business,3399.39,Walk-in,Under Review,Critical,2
+CW-00261,2025-10-17,Western,Online Fraud,Individual,6197.32,Phone,Under Review,Low,24
+CW-00262,2026-05-06,Western,Online Fraud,Individual,2049.79,Online,Under Review,Low,8
+CW-00263,2026-07-05,Eastern,Investment Scam,Business,1881.89,Email,Open,Critical,14
+CW-00264,2026-07-03,Central,Social Engineering,Individual,2952.54,Phone,Open,Low,17
+CW-00265,2025-06-06,Northern,Identity Misuse,Individual,1467.0,Walk-in,Under Review,Low,27
+CW-00266,2025-03-11,Central,Identity Misuse,Individual,2406.01,Walk-in,Open,Low,14
+CW-00267,2025-07-22,Northern,Social Engineering,Individual,2740.86,Online,Open,Medium,13
+CW-00268,2025-08-28,Eastern,Social Engineering,Business,2504.57,Walk-in,Under Review,Low,19
+CW-00269,2026-10-20,Western,Investment Scam,Individual,744.83,Phone,Closed,High,30
+CW-00270,2026-08-25,Western,Phishing,Business,0.0,Walk-in,Open,Low,4
+CW-00271,2026-09-03,Western,Phishing,Business,281.63,Online,Under Review,Low,20
+CW-00272,2025-08-21,Western,Investment Scam,Individual,2775.04,Email,Open,Low,20
+CW-00273,2026-12-11,Northern,Investment Scam,Business,1469.63,Phone,Under Review,Low,10
+CW-00274,2026-08-24,Northern,Online Fraud,Individual,1812.68,Email,Open,Medium,7
+CW-00275,2025-01-30,Central,Online Fraud,Individual,2937.17,Online,Open,High,9
+CW-00276,2026-08-11,Central,Phishing,Business,1403.98,Phone,Open,High,28
+CW-00277,2027-01-03,Central,Online Fraud,Business,4016.29,Online,Open,Medium,7
+CW-00278,2025-01-20,Eastern,Online Fraud,Individual,2304.23,Walk-in,Open,Low,12
+CW-00279,2026-02-14,Eastern,Online Fraud,Individual,0.0,Walk-in,Under Review,Critical,2
+CW-00280,2026-03-26,Northern,Identity Misuse,Business,2778.65,Walk-in,Closed,Medium,14
+CW-00281,2026-01-06,Eastern,Phishing,Business,2544.67,Online,Closed,High,21
+CW-00282,2026-01-19,Central,Phishing,Individual,1228.03,Phone,Closed,Low,24
+CW-00283,2026-01-20,Western,Online Fraud,Individual,2459.26,Walk-in,Under Review,Low,3
+CW-00284,2026-11-18,Northern,Phishing,Business,3361.46,Online,Open,Critical,11
+CW-00285,2025-11-11,Western,Identity Misuse,Business,3335.23,Walk-in,Open,Low,27
+CW-00286,2025-05-29,Central,Phishing,Business,2184.44,Email,Under Review,Critical,25
+CW-00287,2025-07-09,Western,Online Fraud,Business,3619.28,Email,Open,Medium,18
+CW-00288,2025-06-10,Western,Investment Scam,Business,1959.71,Email,Under Review,High,12
+CW-00289,2026-10-31,Eastern,Identity Misuse,Business,2989.41,Phone,Open,High,22
+CW-00290,2026-07-15,Northern,Social Engineering,Individual,2545.47,Phone,Closed,Medium,20
+CW-00291,2026-03-06,Eastern,Investment Scam,Business,5950.62,Email,Closed,Low,23
+CW-00292,2025-02-10,Central,Social Engineering,Individual,4113.15,Online,Open,Low,22
+CW-00293,2026-01-22,Eastern,Online Fraud,Business,2186.47,Phone,Under Review,Low,25
+CW-00294,2025-01-30,Eastern,Identity Misuse,Individual,1224.22,Phone,Open,Low,20
+CW-00295,2026-02-16,Eastern,Phishing,Business,2968.74,Phone,Under Review,High,19
+CW-00296,2026-04-06,Eastern,Identity Misuse,Business,2979.0,Walk-in,Closed,Low,24
+CW-00297,2025-08-03,Western,Social Engineering,Individual,5090.45,Email,Under Review,Medium,4
+CW-00298,2026-05-05,Eastern,Investment Scam,Business,1900.55,Phone,Under Review,Low,21
+CW-00299,2025-03-10,Eastern,Online Fraud,Individual,2543.57,Walk-in,Open,Medium,12
+CW-00300,2025-03-15,Eastern,Phishing,Business,4112.97,Phone,Closed,Low,19
+CW-00301,2025-03-19,Central,Identity Misuse,Business,4101.4,Phone,Under Review,Low,18
+CW-00302,2026-12-23,Eastern,Investment Scam,Business,3772.49,Phone,Closed,High,18
+CW-00303,2026-05-13,Northern,Social Engineering,Individual,4770.17,Walk-in,Open,Critical,17
+CW-00304,2025-06-26,Western,Social Engineering,Business,3446.22,Email,Closed,Low,16
+CW-00305,2026-12-25,Western,Social Engineering,Individual,2955.67,Phone,Under Review,Low,14
+CW-00306,2026-09-27,Western,Investment Scam,Business,434.96,Online,Closed,Low,16
+CW-00307,2026-03-04,Western,Phishing,Individual,1463.02,Email,Open,Medium,2
+CW-00308,2026-12-09,Eastern,Phishing,Business,0.0,Phone,Closed,Critical,4
+CW-00309,2026-10-26,Central,Social Engineering,Business,2088.66,Email,Open,Critical,23
+CW-00310,2026-02-23,Western,Social Engineering,Individual,1001.03,Walk-in,Closed,Critical,11
+CW-00311,2026-10-03,Eastern,Phishing,Individual,1710.88,Email,Under Review,Critical,9
+CW-00312,2026-04-06,Eastern,Phishing,Individual,2478.97,Walk-in,Closed,Low,20
+CW-00313,2026-02-20,Eastern,Identity Misuse,Business,4239.69,Email,Under Review,High,17
+CW-00314,2025-11-30,Western,Investment Scam,Individual,1934.63,Walk-in,Under Review,Low,20
+CW-00315,2025-11-19,Northern,Online Fraud,Individual,77.3,Online,Open,Low,18
+CW-00316,2027-01-08,Western,Online Fraud,Individual,4247.11,Phone,Closed,Medium,30
+CW-00317,2026-11-23,Central,Phishing,Business,2056.69,Phone,Open,Medium,28
+CW-00318,2026-05-14,Western,Online Fraud,Business,2728.47,Online,Open,Critical,5
+CW-00319,2025-05-16,Western,Phishing,Business,2315.23,Walk-in,Under Review,Low,24
+CW-00320,2025-11-17,Northern,Phishing,Individual,4178.89,Email,Closed,High,27
+CW-00321,2025-02-07,Central,Social Engineering,Business,4242.9,Phone,Closed,Low,6
+CW-00322,2025-08-15,Western,Social Engineering,Business,1347.45,Phone,Closed,Critical,14
+CW-00323,2026-12-06,Eastern,Phishing,Individual,3824.66,Online,Under Review,Medium,25
+CW-00324,2026-11-29,Northern,Online Fraud,Individual,2383.24,Phone,Closed,High,19
+CW-00325,2025-11-13,Eastern,Social Engineering,Business,2113.69,Online,Open,Medium,10
+CW-00326,2026-07-29,Northern,Phishing,Business,1405.82,Email,Under Review,High,8
+CW-00327,2026-02-03,Northern,Identity Misuse,Business,2540.98,Email,Open,Low,12
+CW-00328,2026-06-08,Eastern,Social Engineering,Business,575.23,Walk-in,Open,Medium,4
+CW-00329,2026-01-22,Northern,Online Fraud,Business,1210.99,Online,Closed,Medium,21
+CW-00330,2026-07-16,Central,Phishing,Business,4213.58,Email,Under Review,Critical,29
+CW-00331,2026-08-16,Eastern,Identity Misuse,Individual,4281.08,Online,Under Review,Low,22
+CW-00332,2026-10-09,Central,Social Engineering,Individual,6384.35,Online,Under Review,Medium,2
+CW-00333,2025-08-26,Eastern,Online Fraud,Individual,2915.06,Online,Open,Low,27
+CW-00334,2025-05-22,Eastern,Phishing,Business,3598.21,Online,Under Review,Low,11
+CW-00335,2026-11-25,Western,Online Fraud,Individual,4923.06,Online,Closed,Medium,19
+CW-00336,2026-11-09,Central,Social Engineering,Individual,2016.52,Phone,Closed,Low,16
+CW-00337,2025-11-04,Central,Phishing,Business,1115.3,Email,Open,High,19
+CW-00338,2026-11-01,Northern,Social Engineering,Business,3255.73,Online,Closed,Low,30
+CW-00339,2025-07-30,Northern,Online Fraud,Individual,4686.93,Email,Open,High,20
+CW-00340,2025-08-12,Northern,Online Fraud,Business,1726.5,Walk-in,Closed,Medium,17
+CW-00341,2026-08-27,Eastern,Social Engineering,Individual,0.0,Phone,Closed,Low,1
+CW-00342,2026-09-04,Central,Phishing,Business,3771.13,Walk-in,Under Review,High,16
+CW-00343,2025-04-06,Northern,Identity Misuse,Business,3765.12,Online,Closed,Medium,13
+CW-00344,2025-04-09,Eastern,Online Fraud,Business,3242.82,Walk-in,Closed,Medium,26
+CW-00345,2025-05-05,Central,Investment Scam,Business,2164.8,Email,Open,Medium,5
+CW-00346,2025-04-12,Northern,Investment Scam,Individual,1976.02,Online,Closed,High,13
+CW-00347,2025-02-13,Northern,Social Engineering,Business,3142.47,Phone,Under Review,High,3
+CW-00348,2025-06-06,Northern,Investment Scam,Business,3848.7,Online,Under Review,Medium,30
+CW-00349,2026-08-12,Western,Investment Scam,Individual,661.1,Online,Closed,Medium,13
+CW-00350,2025-08-17,Central,Social Engineering,Individual,3679.14,Online,Under Review,High,28
+CW-00351,2025-03-13,Central,Social Engineering,Business,4711.08,Online,Closed,High,7
+CW-00352,2026-09-18,Eastern,Investment Scam,Individual,1971.98,Phone,Open,High,21
+CW-00353,2025-06-03,Northern,Social Engineering,Business,3590.98,Walk-in,Under Review,Low,22
+CW-00354,2025-07-07,Northern,Online Fraud,Individual,1488.67,Email,Closed,Medium,26
+CW-00355,2025-08-26,Western,Online Fraud,Individual,1582.35,Email,Closed,Low,24
+CW-00356,2026-04-18,Central,Investment Scam,Individual,2444.44,Walk-in,Under Review,Medium,24
+CW-00357,2026-12-02,Central,Online Fraud,Business,1772.55,Walk-in,Open,Medium,12
+CW-00358,2027-01-03,Western,Identity Misuse,Business,3663.17,Phone,Open,Low,29
+CW-00359,2026-07-19,Central,Online Fraud,Business,4057.36,Walk-in,Open,Low,16
+CW-00360,2026-12-15,Western,Identity Misuse,Individual,2629.55,Online,Closed,Low,10
+CW-00361,2025-01-08,Eastern,Identity Misuse,Business,3015.77,Online,Open,Low,7
+CW-00362,2025-11-22,Northern,Social Engineering,Business,3653.35,Online,Open,Medium,25
+CW-00363,2026-01-07,Central,Online Fraud,Individual,1934.51,Email,Under Review,High,29
+CW-00364,2026-03-13,Central,Identity Misuse,Individual,3363.67,Email,Open,Low,17
+CW-00365,2026-01-31,Northern,Online Fraud,Individual,5173.12,Phone,Under Review,High,18
+CW-00366,2025-10-06,Western,Identity Misuse,Business,902.22,Online,Open,Low,13
+CW-00367,2025-03-30,Northern,Investment Scam,Business,4423.15,Phone,Under Review,Low,5
+CW-00368,2025-09-27,Northern,Online Fraud,Individual,2675.3,Online,Closed,Low,2
+CW-00369,2025-08-30,Central,Online Fraud,Individual,4071.91,Email,Closed,Low,29
+CW-00370,2025-04-03,Western,Phishing,Business,1996.91,Email,Under Review,Low,20
+CW-00371,2025-08-10,Eastern,Online Fraud,Individual,2382.59,Email,Closed,Medium,27
+CW-00372,2026-11-03,Northern,Social Engineering,Individual,1981.59,Email,Open,Low,4
+CW-00373,2025-06-15,Central,Phishing,Business,4410.46,Walk-in,Open,Low,18
+CW-00374,2026-08-03,Eastern,Phishing,Business,1752.6,Email,Under Review,Medium,4
+CW-00375,2026-02-08,Central,Phishing,Individual,827.88,Phone,Closed,Low,16
+CW-00376,2026-01-24,Western,Identity Misuse,Business,2646.51,Phone,Closed,Low,26
+CW-00377,2025-10-01,Western,Investment Scam,Business,3545.43,Email,Under Review,High,29
+CW-00378,2026-02-01,Central,Identity Misuse,Individual,1999.27,Phone,Open,Low,28
+CW-00379,2025-10-08,Central,Investment Scam,Individual,5098.77,Phone,Open,High,3
+CW-00380,2026-07-09,Eastern,Investment Scam,Individual,5846.95,Phone,Open,Medium,1
+CW-00381,2026-01-29,Central,Social Engineering,Individual,0.0,Email,Closed,Low,11
+CW-00382,2026-05-10,Northern,Phishing,Individual,3621.87,Email,Closed,High,12
+CW-00383,2025-05-06,Western,Online Fraud,Business,655.68,Online,Open,Medium,27
+CW-00384,2025-07-04,Northern,Identity Misuse,Individual,3245.05,Phone,Closed,Low,21
+CW-00385,2026-07-24,Western,Investment Scam,Business,1957.36,Online,Open,High,11
+CW-00386,2026-06-13,Central,Identity Misuse,Individual,2920.18,Phone,Under Review,Medium,5
+CW-00387,2025-08-21,Northern,Online Fraud,Business,1606.51,Walk-in,Open,Low,5
+CW-00388,2026-04-28,Central,Identity Misuse,Business,4561.66,Email,Closed,Medium,18
+CW-00389,2026-01-02,Eastern,Online Fraud,Business,2207.64,Online,Open,High,2
+CW-00390,2025-06-26,Western,Identity Misuse,Individual,4200.66,Online,Open,Critical,30
+CW-00391,2027-01-01,Northern,Phishing,Business,2618.5,Email,Under Review,Medium,30
+CW-00392,2025-07-24,Central,Identity Misuse,Business,4119.32,Phone,Open,High,1
+CW-00393,2025-06-30,Western,Phishing,Individual,2314.41,Online,Open,Low,18
+CW-00394,2025-05-28,Eastern,Investment Scam,Business,1965.29,Email,Open,High,7
+CW-00395,2026-11-09,Western,Online Fraud,Business,2255.4,Phone,Closed,Low,2
+CW-00396,2025-12-28,Northern,Social Engineering,Individual,1382.65,Online,Under Review,Low,7
+CW-00397,2025-04-19,Western,Phishing,Business,2295.33,Phone,Under Review,High,26
+CW-00398,2025-07-17,Northern,Social Engineering,Business,73.25,Walk-in,Closed,High,14
+CW-00399,2026-10-23,Northern,Identity Misuse,Business,2103.23,Online,Open,Medium,29
+CW-00400,2026-03-25,Central,Identity Misuse,Individual,0.0,Walk-in,Open,High,12
+CW-00401,2025-02-16,Northern,Phishing,Business,2828.85,Email,Under Review,Low,16
+CW-00402,2026-03-01,Eastern,Investment Scam,Business,4433.9,Walk-in,Under Review,Medium,13
+CW-00403,2025-09-29,Northern,Phishing,Business,0.0,Phone,Under Review,High,12
+CW-00404,2027-01-02,Northern,Online Fraud,Individual,2457.87,Online,Under Review,High,16
+CW-00405,2025-04-27,Western,Online Fraud,Individual,1049.4,Phone,Open,Critical,21
+CW-00406,2025-07-03,Northern,Online Fraud,Individual,6156.65,Walk-in,Closed,Medium,27
+CW-00407,2026-11-16,Eastern,Social Engineering,Business,2260.61,Online,Under Review,Low,11
+CW-00408,2026-11-26,Central,Phishing,Individual,3917.46,Phone,Open,Low,4
+CW-00409,2027-01-22,Northern,Phishing,Individual,3283.37,Online,Open,Critical,23
+CW-00410,2026-06-23,Eastern,Online Fraud,Business,1275.39,Online,Open,Medium,16
+CW-00411,2027-01-04,Central,Phishing,Individual,3111.89,Email,Open,Medium,11
+CW-00412,2026-05-28,Eastern,Identity Misuse,Business,2312.54,Online,Closed,High,17
+CW-00413,2025-08-02,Central,Social Engineering,Individual,1253.25,Phone,Closed,High,4
+CW-00414,2025-04-22,Northern,Investment Scam,Individual,4625.57,Phone,Open,Low,12
+CW-00415,2025-09-23,Western,Identity Misuse,Business,1984.88,Online,Open,Low,3
+CW-00416,2025-08-27,Central,Online Fraud,Business,5447.04,Phone,Under Review,Medium,12
+CW-00417,2025-03-03,Western,Investment Scam,Individual,2764.73,Walk-in,Open,High,9
+CW-00418,2026-09-22,Eastern,Social Engineering,Business,2623.49,Online,Closed,High,16
+CW-00419,2026-02-09,Western,Online Fraud,Business,0.0,Online,Under Review,High,27
+CW-00420,2026-06-06,Western,Identity Misuse,Individual,2007.2,Phone,Open,Low,20
+CW-00421,2025-05-20,Eastern,Investment Scam,Individual,2652.78,Email,Open,Low,6
+CW-00422,2026-06-27,Northern,Investment Scam,Business,4823.53,Online,Closed,High,15
+CW-00423,2025-11-11,Eastern,Identity Misuse,Business,3505.33,Email,Open,Low,8
+CW-00424,2026-10-13,Northern,Investment Scam,Individual,3515.45,Online,Under Review,Medium,7
+CW-00425,2025-08-07,Eastern,Social Engineering,Business,2727.43,Walk-in,Open,Medium,14
+CW-00426,2026-03-20,Northern,Social Engineering,Business,2538.14,Online,Open,Low,10
+CW-00427,2026-05-13,Western,Online Fraud,Business,1809.39,Walk-in,Closed,Critical,6
+CW-00428,2026-04-08,Eastern,Social Engineering,Individual,3797.12,Walk-in,Open,Low,7
+CW-00429,2026-07-23,Eastern,Social Engineering,Individual,2995.1,Phone,Under Review,Low,5
+CW-00430,2025-01-24,Eastern,Online Fraud,Individual,3429.89,Email,Under Review,Medium,19
+CW-00431,2026-03-24,Western,Investment Scam,Business,1705.09,Phone,Under Review,High,26
+CW-00432,2025-08-11,Western,Investment Scam,Individual,2836.94,Phone,Closed,Low,13
+CW-00433,2025-04-10,Eastern,Investment Scam,Individual,1241.97,Walk-in,Open,Medium,7
+CW-00434,2026-11-10,Western,Online Fraud,Business,3104.23,Email,Closed,Medium,11
+CW-00435,2026-12-23,Western,Online Fraud,Business,1864.34,Walk-in,Closed,Low,26
+CW-00436,2025-06-08,Eastern,Social Engineering,Individual,73.96,Online,Closed,Low,5
+CW-00437,2025-10-10,Northern,Investment Scam,Business,2372.67,Email,Closed,Low,10
+CW-00438,2026-03-09,Central,Identity Misuse,Business,635.01,Email,Under Review,High,6
+CW-00439,2025-04-07,Central,Investment Scam,Business,1676.28,Email,Under Review,High,11
+CW-00440,2027-01-07,Eastern,Phishing,Individual,4404.52,Email,Closed,Low,9
+CW-00441,2025-06-28,Central,Identity Misuse,Business,1305.74,Online,Under Review,Low,24
+CW-00442,2026-10-30,Northern,Online Fraud,Business,3008.49,Online,Open,Medium,1
+CW-00443,2026-02-28,Western,Identity Misuse,Individual,2650.78,Phone,Open,High,20
+CW-00444,2025-05-24,Eastern,Investment Scam,Individual,3381.6,Phone,Open,Low,28
+CW-00445,2025-03-24,Central,Social Engineering,Business,1294.04,Online,Open,Low,25
+CW-00446,2026-08-07,Eastern,Identity Misuse,Business,3619.13,Walk-in,Open,Medium,4
+CW-00447,2025-10-27,Northern,Investment Scam,Business,3818.76,Phone,Open,Medium,18
+CW-00448,2025-06-03,Western,Social Engineering,Individual,2271.7,Phone,Open,Medium,22
+CW-00449,2026-07-22,Northern,Social Engineering,Business,2516.71,Walk-in,Closed,High,15
+CW-00450,2025-03-11,Central,Social Engineering,Business,3564.46,Online,Under Review,High,30
+CW-00451,2025-11-10,Central,Investment Scam,Business,3052.73,Walk-in,Under Review,Medium,24
+CW-00452,2026-12-06,Central,Online Fraud,Business,2230.73,Phone,Under Review,Low,24
+CW-00453,2026-10-19,Northern,Investment Scam,Individual,3992.47,Phone,Closed,Low,7
+CW-00454,2025-02-25,Northern,Social Engineering,Individual,2256.21,Online,Open,High,18
+CW-00455,2025-12-01,Western,Investment Scam,Individual,1219.09,Online,Under Review,Low,29
+CW-00456,2025-03-09,Eastern,Investment Scam,Business,1114.71,Online,Open,Low,21
+CW-00457,2025-08-16,Western,Online Fraud,Individual,3475.68,Email,Closed,High,26
+CW-00458,2025-04-28,Central,Online Fraud,Individual,245.38,Email,Open,Critical,16
+CW-00459,2025-03-30,Eastern,Identity Misuse,Business,2845.11,Walk-in,Open,High,1
+CW-00460,2026-08-17,Northern,Online Fraud,Individual,3246.61,Online,Open,Low,1
+CW-00461,2025-12-25,Central,Identity Misuse,Individual,4087.31,Walk-in,Open,Critical,19
+CW-00462,2025-03-22,Northern,Phishing,Individual,3906.34,Email,Under Review,Low,16
+CW-00463,2025-03-03,Northern,Phishing,Individual,2409.57,Email,Closed,Medium,19
+CW-00464,2025-07-05,Central,Online Fraud,Individual,3182.19,Walk-in,Under Review,Low,18
+CW-00465,2025-09-26,Northern,Identity Misuse,Business,3130.82,Online,Closed,Low,29
+CW-00466,2025-06-01,Eastern,Identity Misuse,Individual,2045.57,Online,Closed,Low,1
+CW-00467,2026-01-12,Western,Identity Misuse,Individual,2604.62,Phone,Open,Low,2
+CW-00468,2025-10-21,Central,Online Fraud,Individual,1540.35,Online,Under Review,Medium,11
+CW-00469,2025-02-28,Western,Phishing,Business,4356.36,Walk-in,Under Review,Low,0
+CW-00470,2026-11-13,Central,Investment Scam,Business,758.69,Phone,Closed,Medium,3
+CW-00471,2026-07-02,Northern,Investment Scam,Business,2459.07,Phone,Open,Low,22
+CW-00472,2026-07-28,Eastern,Online Fraud,Individual,2099.12,Phone,Under Review,Medium,4
+CW-00473,2026-12-01,Northern,Identity Misuse,Individual,2374.84,Email,Under Review,Low,11
+CW-00474,2026-08-14,Western,Phishing,Individual,325.53,Walk-in,Closed,Low,5
+CW-00475,2026-05-15,Eastern,Identity Misuse,Individual,2795.99,Email,Closed,Medium,5
+CW-00476,2026-03-10,Western,Identity Misuse,Business,1280.91,Walk-in,Closed,Medium,20
+CW-00477,2026-05-11,Western,Online Fraud,Individual,3483.4,Online,Open,Low,15
+CW-00478,2025-10-13,Northern,Identity Misuse,Business,195.21,Walk-in,Open,Low,20
+CW-00479,2026-10-01,Central,Investment Scam,Business,426.31,Walk-in,Open,Medium,29
+CW-00480,2025-03-24,Western,Social Engineering,Individual,4811.18,Online,Under Review,Low,0
+CW-00481,2025-10-04,Western,Online Fraud,Business,2464.67,Walk-in,Closed,Low,15
+CW-00482,2026-03-12,Northern,Social Engineering,Individual,2238.47,Walk-in,Open,Medium,27
+CW-00483,2025-10-02,Central,Identity Misuse,Individual,4329.26,Online,Closed,Low,27
+CW-00484,2025-06-14,Eastern,Social Engineering,Individual,4054.3,Email,Closed,Low,14
+CW-00485,2026-01-05,Northern,Phishing,Business,1040.33,Phone,Under Review,Medium,4
+CW-00486,2026-06-29,Western,Phishing,Business,0.0,Phone,Closed,High,17
+CW-00487,2026-04-18,Central,Identity Misuse,Business,0.0,Walk-in,Under Review,Low,30
+CW-00488,2026-05-18,Central,Online Fraud,Individual,2638.81,Phone,Closed,Medium,9
+CW-00489,2026-01-31,Eastern,Online Fraud,Business,1869.41,Phone,Closed,Medium,27
+CW-00490,2026-11-14,Western,Social Engineering,Individual,4543.93,Online,Closed,Low,3
+CW-00491,2025-03-25,Eastern,Identity Misuse,Business,1464.42,Phone,Closed,Low,21
+CW-00492,2025-01-16,Western,Phishing,Individual,2506.14,Online,Under Review,Low,13
+CW-00493,2026-10-23,Western,Social Engineering,Individual,3784.09,Walk-in,Closed,Low,16
+CW-00494,2025-03-10,Eastern,Social Engineering,Business,3936.68,Walk-in,Under Review,Medium,0
+CW-00495,2025-11-01,Northern,Phishing,Business,2666.02,Phone,Closed,Critical,28
+CW-00496,2026-07-15,Western,Online Fraud,Business,2688.55,Phone,Closed,Low,13
+CW-00497,2025-08-29,Central,Identity Misuse,Individual,398.99,Phone,Open,Medium,28
+CW-00498,2026-04-21,Northern,Identity Misuse,Business,2521.5,Online,Closed,Medium,11
+CW-00499,2025-10-26,Central,Investment Scam,Business,944.47,Walk-in,Open,Low,14
+CW-00500,2026-09-28,Western,Investment Scam,Business,3615.72,Email,Under Review,Low,20
+CW-00501,2025-11-14,Central,Identity Misuse,Business,2078.47,Phone,Closed,Low,29
+CW-00502,2026-11-13,Western,Social Engineering,Individual,3137.45,Phone,Closed,Low,8
+CW-00503,2025-05-25,Western,Social Engineering,Business,4032.07,Walk-in,Open,Medium,18
+CW-00504,2025-01-21,Western,Phishing,Individual,5632.66,Online,Under Review,Low,2
+CW-00505,2025-06-11,Central,Phishing,Individual,979.16,Online,Open,Low,21
+CW-00506,2025-11-14,Western,Online Fraud,Individual,2628.53,Online,Open,High,23
+CW-00507,2026-04-02,Western,Online Fraud,Individual,2050.49,Online,Closed,Low,6
+CW-00508,2026-02-05,Central,Investment Scam,Individual,2424.69,Email,Under Review,Low,14
+CW-00509,2025-02-15,Eastern,Online Fraud,Business,2162.75,Phone,Open,Medium,21
+CW-00510,2026-09-30,Northern,Investment Scam,Individual,4938.2,Walk-in,Under Review,Medium,8
+CW-00511,2025-06-08,Western,Online Fraud,Business,492.76,Email,Closed,Low,20
+CW-00512,2025-03-02,Western,Phishing,Individual,2369.2,Online,Under Review,Medium,12
+CW-00513,2025-09-04,Western,Investment Scam,Individual,1546.96,Email,Closed,High,26
+CW-00514,2026-11-01,Eastern,Social Engineering,Individual,715.5,Phone,Closed,High,26
+CW-00515,2026-02-28,Western,Online Fraud,Individual,2902.8,Online,Open,Medium,10
+CW-00516,2026-01-15,Western,Phishing,Business,4769.51,Online,Closed,Medium,12
+CW-00517,2026-12-16,Central,Identity Misuse,Individual,652.8,Phone,Open,Low,11
+CW-00518,2026-02-26,Northern,Identity Misuse,Individual,4461.23,Email,Under Review,High,22
+CW-00519,2026-05-20,Western,Phishing,Business,5213.96,Phone,Closed,Low,20
+CW-00520,2025-09-20,Western,Social Engineering,Business,2172.93,Email,Closed,Low,26
+CW-00521,2026-09-10,Western,Phishing,Business,0.0,Phone,Open,Low,25
+CW-00522,2026-06-03,Northern,Identity Misuse,Business,0.0,Online,Open,Medium,14
+CW-00523,2025-06-25,Western,Investment Scam,Individual,211.11,Walk-in,Open,High,20
+CW-00524,2026-02-14,Northern,Social Engineering,Business,3426.81,Online,Open,Medium,22
+CW-00525,2026-12-08,Western,Investment Scam,Individual,3970.14,Email,Under Review,Medium,30
+CW-00526,2026-01-27,Eastern,Investment Scam,Individual,3033.83,Email,Open,High,26
+CW-00527,2025-09-22,Northern,Online Fraud,Business,6174.19,Email,Open,Low,7
+CW-00528,2026-04-30,Central,Identity Misuse,Business,735.55,Walk-in,Under Review,Low,26
+CW-00529,2025-11-20,Northern,Phishing,Individual,3080.21,Walk-in,Closed,Medium,20
+CW-00530,2025-05-14,Northern,Online Fraud,Business,4136.47,Online,Open,High,9
+CW-00531,2026-11-15,Western,Investment Scam,Individual,4977.32,Walk-in,Closed,Critical,1
+CW-00532,2026-12-23,Central,Identity Misuse,Individual,5310.88,Walk-in,Open,Critical,27
+CW-00533,2025-05-02,Eastern,Online Fraud,Business,2400.79,Phone,Closed,Medium,9
+CW-00534,2027-01-15,Northern,Identity Misuse,Individual,1520.36,Email,Open,Low,23
+CW-00535,2026-08-24,Central,Online Fraud,Business,1386.27,Email,Closed,Medium,30
+CW-00536,2026-10-24,Eastern,Phishing,Individual,1772.04,Online,Open,Critical,7
+CW-00537,2026-03-29,Western,Online Fraud,Individual,2231.28,Email,Under Review,Medium,19
+CW-00538,2025-06-17,Eastern,Phishing,Business,597.98,Online,Open,Medium,2
+CW-00539,2026-04-08,Northern,Social Engineering,Business,4942.22,Online,Under Review,Low,25
+CW-00540,2026-10-21,Eastern,Identity Misuse,Individual,3633.89,Email,Open,Critical,19
+CW-00541,2025-06-24,Northern,Online Fraud,Individual,1595.19,Online,Closed,Medium,20
+CW-00542,2025-10-05,Northern,Investment Scam,Business,1545.21,Phone,Closed,Medium,14
+CW-00543,2025-10-11,Central,Phishing,Business,3240.48,Phone,Under Review,Medium,16
+CW-00544,2026-07-25,Northern,Social Engineering,Business,0.0,Phone,Under Review,Low,1
+CW-00545,2026-05-19,Northern,Investment Scam,Business,3314.94,Online,Under Review,Low,19
+CW-00546,2026-10-18,Eastern,Online Fraud,Business,673.11,Online,Open,Low,6
+CW-00547,2025-05-06,Western,Social Engineering,Individual,3776.6,Phone,Open,Medium,25
+CW-00548,2025-09-30,Eastern,Identity Misuse,Business,4750.86,Email,Under Review,High,7
+CW-00549,2025-03-28,Northern,Phishing,Individual,1005.49,Phone,Open,Low,22
+CW-00550,2025-04-14,Western,Identity Misuse,Business,3974.68,Email,Open,High,15
+CW-00551,2025-10-12,Northern,Investment Scam,Individual,2524.82,Online,Open,Medium,14
+CW-00552,2026-03-09,Northern,Social Engineering,Individual,1971.92,Online,Closed,High,5
+CW-00553,2026-03-21,Eastern,Identity Misuse,Individual,3888.1,Online,Open,High,6
+CW-00554,2026-02-12,Central,Online Fraud,Business,2547.67,Phone,Under Review,Medium,18
+CW-00555,2025-06-08,Northern,Online Fraud,Individual,1161.51,Phone,Open,Low,27
+CW-00556,2026-02-18,Central,Phishing,Business,3103.13,Phone,Open,Medium,2
+CW-00557,2025-09-11,Western,Online Fraud,Business,4326.94,Walk-in,Closed,Low,7
+CW-00558,2026-01-14,Central,Social Engineering,Individual,1730.21,Walk-in,Open,Low,30
+CW-00559,2027-01-20,Eastern,Social Engineering,Individual,4523.99,Online,Open,Low,25
+CW-00560,2026-04-26,Northern,Investment Scam,Individual,4992.16,Email,Under Review,Low,0
+CW-00561,2025-05-11,Western,Identity Misuse,Business,3144.44,Online,Open,High,22
+CW-00562,2026-12-17,Northern,Phishing,Business,4547.72,Phone,Closed,Medium,15
+CW-00563,2025-01-30,Central,Phishing,Individual,4196.48,Email,Closed,Medium,17
+CW-00564,2026-05-01,Northern,Online Fraud,Business,3625.42,Phone,Closed,Low,19
+CW-00565,2026-02-07,Western,Online Fraud,Individual,4299.46,Online,Closed,High,19
+CW-00566,2026-12-29,Eastern,Social Engineering,Individual,2172.02,Online,Under Review,Critical,8
+CW-00567,2025-04-08,Western,Social Engineering,Individual,619.45,Walk-in,Closed,Medium,26
+CW-00568,2025-09-30,Eastern,Phishing,Individual,3194.0,Online,Open,High,0
+CW-00569,2026-07-27,Western,Phishing,Business,4800.78,Walk-in,Closed,Low,5
+CW-00570,2025-06-16,Western,Identity Misuse,Individual,2706.77,Email,Closed,Medium,18
+CW-00571,2025-06-19,Western,Social Engineering,Business,4573.96,Email,Under Review,Low,23
+CW-00572,2025-10-29,Western,Investment Scam,Business,4990.06,Phone,Open,High,3
+CW-00573,2025-10-01,Western,Identity Misuse,Business,1442.44,Email,Closed,High,27
+CW-00574,2025-08-13,Eastern,Online Fraud,Individual,1844.11,Email,Under Review,Critical,15
+CW-00575,2026-06-02,Central,Social Engineering,Individual,2627.81,Phone,Under Review,Low,26
+CW-00576,2025-04-08,Eastern,Phishing,Individual,0.0,Walk-in,Open,Low,25
+CW-00577,2025-10-25,Central,Identity Misuse,Business,1907.56,Walk-in,Under Review,High,15
+CW-00578,2026-03-29,Eastern,Social Engineering,Individual,3363.01,Email,Closed,Low,19
+CW-00579,2025-09-27,Western,Identity Misuse,Business,4027.86,Email,Under Review,Low,24
+CW-00580,2026-05-15,Western,Investment Scam,Individual,2936.72,Phone,Under Review,Low,19
+CW-00581,2025-11-22,Central,Online Fraud,Business,3867.04,Email,Closed,Low,24
+CW-00582,2025-04-18,Central,Social Engineering,Individual,2658.63,Phone,Closed,Medium,17
+CW-00583,2026-07-23,Western,Online Fraud,Business,2315.94,Online,Open,Medium,17
+CW-00584,2025-03-23,Central,Investment Scam,Individual,2640.06,Online,Closed,Medium,26
+CW-00585,2026-04-01,Eastern,Identity Misuse,Business,1954.43,Walk-in,Under Review,High,7
+CW-00586,2026-04-18,Western,Social Engineering,Business,3216.03,Phone,Open,Low,28
+CW-00587,2026-12-19,Eastern,Phishing,Individual,242.69,Online,Closed,Medium,20
+CW-00588,2025-07-19,Western,Phishing,Individual,2688.98,Walk-in,Open,Low,9
+CW-00589,2026-09-15,Eastern,Online Fraud,Individual,723.54,Phone,Open,Low,12
+CW-00590,2026-03-10,Northern,Investment Scam,Individual,2795.99,Phone,Open,Low,5
+CW-00591,2026-03-11,Eastern,Identity Misuse,Business,3004.11,Phone,Closed,Medium,20
+CW-00592,2026-06-21,Western,Identity Misuse,Business,5435.76,Phone,Under Review,Low,5
+CW-00593,2025-09-19,Western,Investment Scam,Individual,1055.9,Walk-in,Closed,Critical,13
+CW-00594,2026-03-11,Northern,Identity Misuse,Business,2190.08,Email,Closed,Medium,16
+CW-00595,2026-03-19,Eastern,Investment Scam,Individual,442.49,Online,Closed,Low,11
+CW-00596,2025-05-26,Western,Investment Scam,Business,1435.84,Walk-in,Closed,Low,5
+CW-00597,2025-07-21,Eastern,Social Engineering,Individual,2648.6,Phone,Closed,Low,15
+CW-00598,2025-06-08,Northern,Identity Misuse,Individual,224.04,Online,Closed,Low,23
+CW-00599,2026-08-29,Eastern,Identity Misuse,Individual,4555.61,Walk-in,Under Review,High,23
+CW-00600,2026-11-06,Central,Investment Scam,Individual,4644.19,Walk-in,Under Review,High,17
+CW-00601,2025-07-14,Central,Phishing,Individual,0.0,Walk-in,Under Review,Low,22
+CW-00602,2025-06-09,Eastern,Phishing,Business,824.22,Online,Open,Critical,14
+CW-00603,2025-01-21,Eastern,Identity Misuse,Individual,4761.45,Online,Under Review,High,15
+CW-00604,2025-11-08,Central,Social Engineering,Business,1461.77,Email,Closed,Low,21
+CW-00605,2026-06-07,Eastern,Social Engineering,Individual,0.0,Walk-in,Open,Low,8
+CW-00606,2027-01-02,Central,Investment Scam,Individual,449.9,Email,Closed,Medium,18
+CW-00607,2025-09-17,Eastern,Online Fraud,Business,1239.29,Online,Open,Medium,23
+CW-00608,2025-05-11,Western,Phishing,Individual,2162.88,Walk-in,Closed,High,15
+CW-00609,2025-08-14,Northern,Online Fraud,Business,1040.15,Online,Under Review,Critical,12
+CW-00610,2025-12-12,Central,Identity Misuse,Business,1054.43,Walk-in,Open,High,15
+CW-00611,2026-10-23,Central,Social Engineering,Individual,2366.15,Email,Open,Medium,5
+CW-00612,2026-10-29,Northern,Identity Misuse,Individual,2443.64,Walk-in,Closed,High,25
+CW-00613,2026-12-18,Northern,Social Engineering,Business,757.1,Walk-in,Open,Low,14
+CW-00614,2026-06-08,Western,Social Engineering,Business,2036.64,Phone,Open,Medium,4
+CW-00615,2026-10-04,Northern,Phishing,Individual,2483.59,Online,Open,Low,29
+CW-00616,2025-08-30,Western,Social Engineering,Individual,1513.77,Online,Under Review,Low,14
+CW-00617,2025-07-10,Northern,Social Engineering,Individual,1811.36,Email,Under Review,Medium,26
+CW-00618,2025-05-30,Western,Social Engineering,Business,1458.1,Online,Closed,Medium,4
+CW-00619,2026-10-25,Western,Investment Scam,Business,996.67,Walk-in,Under Review,Low,10
+CW-00620,2025-09-10,Central,Social Engineering,Individual,1371.35,Email,Under Review,Low,14
+CW-00621,2026-10-10,Central,Phishing,Business,1934.95,Phone,Open,Low,10
+CW-00622,2025-05-18,Northern,Phishing,Business,2190.53,Walk-in,Closed,Medium,3
+CW-00623,2025-08-07,Northern,Investment Scam,Business,528.78,Phone,Under Review,Low,30
+CW-00624,2025-06-08,Western,Investment Scam,Individual,5149.98,Walk-in,Open,Low,15
+CW-00625,2025-12-10,Northern,Phishing,Individual,1071.53,Phone,Closed,Low,3
+CW-00626,2025-05-06,Western,Identity Misuse,Business,1484.51,Phone,Closed,Critical,18
+CW-00627,2025-07-25,Northern,Phishing,Individual,5000.84,Email,Under Review,Medium,11
+CW-00628,2025-02-18,Western,Social Engineering,Individual,4784.86,Email,Open,Medium,19
+CW-00629,2025-11-01,Central,Investment Scam,Business,1287.67,Online,Under Review,Low,7
+CW-00630,2026-07-12,Eastern,Phishing,Individual,3564.89,Walk-in,Open,Critical,24
+CW-00631,2025-07-04,Central,Phishing,Business,1873.14,Online,Under Review,Low,25
+CW-00632,2026-12-08,Northern,Social Engineering,Business,0.0,Online,Closed,Medium,19
+CW-00633,2026-03-05,Northern,Phishing,Individual,1869.46,Walk-in,Open,Medium,21
+CW-00634,2025-05-11,Eastern,Investment Scam,Business,4386.54,Phone,Under Review,High,6
+CW-00635,2027-01-11,Western,Phishing,Business,2699.66,Online,Under Review,Medium,13
+CW-00636,2026-01-14,Central,Online Fraud,Individual,2301.64,Email,Under Review,Medium,23
+CW-00637,2026-11-06,Northern,Identity Misuse,Individual,4280.1,Phone,Closed,Low,12
+CW-00638,2026-12-22,Eastern,Online Fraud,Individual,4654.5,Walk-in,Under Review,Low,11
+CW-00639,2026-07-26,Eastern,Online Fraud,Individual,2374.91,Online,Open,High,14
+CW-00640,2026-10-04,Western,Identity Misuse,Individual,0.0,Online,Closed,Low,26
+CW-00641,2026-05-09,Western,Investment Scam,Individual,4498.28,Walk-in,Under Review,Medium,18
+CW-00642,2026-06-18,Central,Online Fraud,Business,2839.89,Email,Closed,Low,26
+CW-00643,2026-08-12,Northern,Investment Scam,Business,4415.45,Phone,Open,Low,23
+CW-00644,2027-01-04,Eastern,Investment Scam,Business,3007.04,Walk-in,Open,Medium,28
+CW-00645,2026-11-10,Northern,Social Engineering,Business,133.45,Walk-in,Closed,Medium,4
+CW-00646,2025-05-08,Central,Identity Misuse,Individual,3206.72,Online,Open,Low,26
+CW-00647,2025-03-07,Central,Investment Scam,Business,1390.97,Email,Under Review,Medium,14
+CW-00648,2026-10-14,Northern,Identity Misuse,Individual,1417.32,Email,Open,Low,25
+CW-00649,2025-08-14,Northern,Identity Misuse,Business,1373.95,Walk-in,Under Review,Low,15
+CW-00650,2026-06-12,Western,Identity Misuse,Individual,2432.86,Email,Under Review,Low,5
+CW-00651,2026-01-13,Eastern,Online Fraud,Individual,3017.61,Phone,Closed,Low,9
+CW-00652,2025-09-30,Central,Social Engineering,Individual,4429.75,Email,Under Review,High,6
+CW-00653,2026-10-24,Northern,Investment Scam,Individual,960.45,Phone,Closed,Critical,10
+CW-00654,2025-01-20,Western,Identity Misuse,Business,4345.0,Phone,Open,Low,13
+CW-00655,2026-06-09,Northern,Online Fraud,Business,2288.17,Online,Under Review,Low,27
+CW-00656,2025-12-30,Northern,Social Engineering,Individual,4510.42,Online,Closed,Medium,16
+CW-00657,2025-08-23,Western,Phishing,Individual,1436.47,Email,Under Review,Low,18
+CW-00658,2025-04-21,Western,Online Fraud,Business,5429.89,Online,Open,Low,24
+CW-00659,2026-03-23,Eastern,Investment Scam,Business,0.0,Online,Open,Medium,6
+CW-00660,2026-06-16,Eastern,Identity Misuse,Business,963.96,Phone,Open,Low,16
+CW-00661,2025-07-05,Central,Identity Misuse,Business,4158.85,Phone,Closed,Medium,8
+CW-00662,2026-07-11,Central,Phishing,Business,1654.08,Email,Open,Low,13
+CW-00663,2026-08-08,Northern,Social Engineering,Individual,3258.38,Email,Under Review,Low,26
+CW-00664,2025-07-23,Eastern,Social Engineering,Business,4733.67,Email,Under Review,Low,1
+CW-00665,2025-09-18,Central,Online Fraud,Individual,3339.37,Email,Under Review,Medium,6
+CW-00666,2026-09-28,Central,Online Fraud,Business,1279.7,Online,Under Review,High,29
+CW-00667,2026-10-21,Northern,Online Fraud,Business,1487.6,Walk-in,Under Review,Medium,29
+CW-00668,2025-07-12,Western,Identity Misuse,Individual,1895.39,Walk-in,Under Review,Low,21
+CW-00669,2026-03-22,Central,Social Engineering,Individual,2103.04,Walk-in,Under Review,Low,25
+CW-00670,2025-05-06,Eastern,Phishing,Business,455.38,Walk-in,Under Review,Medium,28
+CW-00671,2026-06-11,Central,Identity Misuse,Business,2333.47,Email,Closed,Medium,24
+CW-00672,2025-10-17,Central,Investment Scam,Individual,2681.88,Online,Under Review,Low,25
+CW-00673,2026-03-28,Northern,Phishing,Individual,3146.68,Online,Closed,Medium,9
+CW-00674,2026-02-14,Western,Investment Scam,Individual,1547.06,Walk-in,Closed,Low,14
+CW-00675,2025-05-21,Northern,Social Engineering,Individual,5043.58,Email,Open,Medium,19
+CW-00676,2025-12-19,Central,Phishing,Individual,5345.93,Phone,Open,Medium,20
+CW-00677,2025-01-10,Northern,Online Fraud,Individual,3467.75,Phone,Open,Low,9
+CW-00678,2025-06-25,Northern,Investment Scam,Individual,3617.49,Online,Under Review,Critical,5
+CW-00679,2026-07-22,Eastern,Phishing,Individual,829.72,Walk-in,Open,Medium,13
+CW-00680,2026-05-10,Central,Social Engineering,Business,5155.25,Online,Under Review,Low,27
+CW-00681,2026-06-17,Eastern,Investment Scam,Individual,607.87,Phone,Closed,Low,15
+CW-00682,2025-07-24,Eastern,Investment Scam,Business,3261.01,Walk-in,Open,Medium,30
+CW-00683,2025-05-29,Northern,Investment Scam,Business,2567.83,Email,Open,Medium,2
+CW-00684,2027-01-18,Eastern,Identity Misuse,Business,2576.8,Email,Closed,Low,22
+CW-00685,2026-11-30,Northern,Social Engineering,Individual,1674.07,Phone,Open,Medium,0
+CW-00686,2025-11-27,Eastern,Social Engineering,Business,5616.52,Walk-in,Open,Low,21
+CW-00687,2025-09-15,Northern,Investment Scam,Business,1627.33,Email,Closed,Medium,22
+CW-00688,2026-01-16,Central,Identity Misuse,Business,739.18,Walk-in,Closed,Low,29
+CW-00689,2025-11-15,Northern,Identity Misuse,Individual,1694.92,Walk-in,Under Review,Low,6
+CW-00690,2025-12-18,Northern,Online Fraud,Individual,3574.17,Online,Open,High,5
+CW-00691,2025-04-07,Eastern,Investment Scam,Individual,0.0,Phone,Open,Low,7
+CW-00692,2025-02-05,Western,Online Fraud,Business,1591.98,Phone,Open,Medium,8
+CW-00693,2025-10-04,Western,Investment Scam,Individual,3460.81,Walk-in,Open,Medium,28
+CW-00694,2026-11-13,Western,Online Fraud,Business,2684.62,Online,Open,Low,18
+CW-00695,2025-01-04,Central,Investment Scam,Individual,2843.61,Online,Under Review,Medium,3
+CW-00696,2027-01-17,Eastern,Identity Misuse,Individual,4111.48,Online,Under Review,Low,24
+CW-00697,2026-04-01,Western,Online Fraud,Individual,4902.92,Phone,Open,Low,17
+CW-00698,2026-08-04,Western,Phishing,Business,5020.74,Online,Under Review,Low,30
+CW-00699,2026-01-24,Northern,Social Engineering,Individual,1880.51,Phone,Open,Low,8
+CW-00700,2026-09-27,Eastern,Investment Scam,Individual,3677.69,Online,Closed,Medium,24
+CW-00701,2026-09-09,Eastern,Phishing,Individual,1039.93,Email,Closed,Low,12
+CW-00702,2026-01-09,Western,Investment Scam,Individual,4010.7,Walk-in,Open,Low,8
+CW-00703,2025-07-06,Central,Social Engineering,Individual,3673.2,Email,Closed,Low,23
+CW-00704,2026-08-17,Northern,Investment Scam,Individual,1313.65,Online,Under Review,Low,22
+CW-00705,2025-08-07,Northern,Online Fraud,Individual,2357.04,Online,Open,Medium,22
+CW-00706,2025-02-07,Northern,Social Engineering,Business,3125.39,Walk-in,Under Review,Low,25
+CW-00707,2025-04-26,Northern,Social Engineering,Business,633.74,Email,Closed,Medium,17
+CW-00708,2025-11-29,Eastern,Online Fraud,Business,4996.47,Walk-in,Open,Low,15
+CW-00709,2026-07-23,Western,Online Fraud,Individual,2314.4,Walk-in,Open,Low,22
+CW-00710,2025-05-12,Eastern,Identity Misuse,Business,3186.71,Phone,Closed,High,21
+CW-00711,2026-12-16,Central,Identity Misuse,Business,1652.53,Email,Under Review,Critical,12
+CW-00712,2025-11-10,Central,Online Fraud,Business,3134.82,Email,Closed,Medium,29
+CW-00713,2025-05-24,Western,Social Engineering,Individual,1252.18,Phone,Closed,High,29
+CW-00714,2025-12-12,Eastern,Identity Misuse,Individual,2336.15,Online,Open,High,18
+CW-00715,2025-07-17,Eastern,Social Engineering,Individual,2402.97,Email,Closed,High,7
+CW-00716,2026-04-14,Northern,Social Engineering,Individual,2609.31,Online,Closed,High,5
+CW-00717,2026-12-21,Eastern,Investment Scam,Individual,2155.51,Email,Open,Critical,30
+CW-00718,2025-01-22,Northern,Identity Misuse,Business,0.0,Phone,Closed,High,19
+CW-00719,2025-12-13,Northern,Online Fraud,Business,1642.38,Phone,Under Review,High,30
+CW-00720,2025-12-15,Western,Identity Misuse,Individual,2998.91,Phone,Closed,Low,14
+CW-00721,2026-02-20,Northern,Investment Scam,Individual,2367.13,Phone,Under Review,Low,29
+CW-00722,2025-12-24,Central,Phishing,Business,2696.34,Phone,Closed,High,24
+CW-00723,2027-01-02,Central,Identity Misuse,Business,0.0,Online,Under Review,Medium,28
+CW-00724,2026-09-17,Central,Identity Misuse,Individual,404.4,Email,Under Review,Medium,28
+CW-00725,2026-09-27,Central,Phishing,Individual,2626.49,Phone,Under Review,Medium,10
+CW-00726,2025-11-25,Eastern,Identity Misuse,Individual,4976.85,Online,Open,Medium,4
+CW-00727,2026-11-29,Central,Identity Misuse,Business,0.0,Phone,Closed,High,1
+CW-00728,2025-09-21,Central,Phishing,Individual,2661.56,Online,Closed,Medium,13
+CW-00729,2025-08-07,Eastern,Investment Scam,Business,2691.31,Online,Under Review,Low,3
+CW-00730,2025-09-12,Western,Phishing,Individual,2165.24,Phone,Under Review,Low,27
+CW-00731,2026-09-29,Eastern,Phishing,Business,1461.62,Walk-in,Open,Medium,12
+CW-00732,2025-04-06,Northern,Identity Misuse,Business,0.0,Phone,Under Review,Medium,17
+CW-00733,2025-04-04,Western,Phishing,Individual,1280.48,Online,Under Review,Low,23
+CW-00734,2026-01-26,Central,Phishing,Business,3734.92,Online,Closed,Low,28
+CW-00735,2025-11-12,Eastern,Identity Misuse,Business,4002.74,Phone,Open,Critical,18
+CW-00736,2026-01-27,Eastern,Identity Misuse,Business,1753.64,Walk-in,Open,Low,23
+CW-00737,2026-10-02,Western,Investment Scam,Business,2895.89,Online,Closed,Low,29
+CW-00738,2026-02-28,Western,Online Fraud,Business,5037.4,Phone,Closed,Low,22
+CW-00739,2025-05-13,Western,Identity Misuse,Business,1058.89,Phone,Closed,High,23
+CW-00740,2026-04-27,Central,Online Fraud,Individual,704.88,Online,Closed,High,5
+CW-00741,2026-06-23,Northern,Investment Scam,Business,2511.82,Online,Under Review,Medium,11
+CW-00742,2025-10-24,Northern,Social Engineering,Individual,2011.58,Walk-in,Closed,High,24
+CW-00743,2026-04-10,Western,Identity Misuse,Business,1731.39,Online,Under Review,Medium,13
+CW-00744,2025-12-06,Western,Investment Scam,Business,1153.02,Phone,Closed,Low,0
+CW-00745,2025-02-14,Northern,Phishing,Individual,1925.77,Online,Closed,Low,0
+CW-00746,2025-07-08,Central,Phishing,Individual,2314.41,Phone,Open,Medium,4
+CW-00747,2026-10-08,Western,Investment Scam,Business,3435.92,Online,Under Review,Medium,15
+CW-00748,2026-12-04,Northern,Identity Misuse,Business,4450.74,Email,Closed,High,22
+CW-00749,2026-09-09,Central,Social Engineering,Business,2781.9,Phone,Under Review,Medium,0
+CW-00750,2025-06-02,Central,Online Fraud,Business,3508.45,Walk-in,Closed,Medium,27
+CW-00751,2027-01-09,Eastern,Online Fraud,Business,4136.29,Online,Under Review,Medium,23
+CW-00752,2026-03-19,Northern,Social Engineering,Business,1805.59,Walk-in,Open,Low,1
+CW-00753,2025-08-30,Western,Phishing,Individual,3176.16,Email,Closed,Low,27
+CW-00754,2025-02-22,Eastern,Online Fraud,Individual,3561.44,Email,Open,High,12
+CW-00755,2026-01-11,Eastern,Online Fraud,Business,2979.29,Walk-in,Open,Medium,24
+CW-00756,2025-10-10,Eastern,Social Engineering,Individual,4980.43,Online,Under Review,Low,9
+CW-00757,2025-01-30,Central,Social Engineering,Business,6516.97,Walk-in,Closed,Low,16
+CW-00758,2025-08-07,Northern,Social Engineering,Individual,2597.04,Walk-in,Closed,Low,14
+CW-00759,2026-07-16,Western,Phishing,Business,2403.88,Online,Closed,Low,24
+CW-00760,2025-10-11,Central,Social Engineering,Individual,3304.44,Email,Closed,High,11
+CW-00761,2025-03-12,Western,Identity Misuse,Business,4590.18,Email,Open,High,22
+CW-00762,2025-05-25,Central,Phishing,Business,3565.82,Email,Under Review,Medium,16
+CW-00763,2026-05-29,Western,Social Engineering,Business,788.06,Phone,Under Review,Medium,27
+CW-00764,2025-07-05,Central,Investment Scam,Business,3485.59,Walk-in,Closed,Critical,25
+CW-00765,2026-04-05,Western,Social Engineering,Business,5896.39,Phone,Under Review,Medium,1
+CW-00766,2026-11-19,Eastern,Social Engineering,Business,3523.14,Phone,Under Review,Critical,27
+CW-00767,2025-04-01,Northern,Online Fraud,Business,3125.8,Email,Closed,Critical,12
+CW-00768,2025-07-13,Eastern,Phishing,Business,1549.79,Email,Under Review,Medium,11
+CW-00769,2026-11-16,Central,Investment Scam,Business,3042.68,Online,Closed,Low,11
+CW-00770,2026-05-10,Northern,Social Engineering,Individual,4126.64,Online,Closed,Low,15
+CW-00771,2026-11-04,Central,Identity Misuse,Individual,687.73,Walk-in,Open,Medium,26
+CW-00772,2025-09-30,Central,Online Fraud,Business,2122.63,Online,Open,High,2
+CW-00773,2026-03-05,Western,Investment Scam,Individual,870.06,Phone,Under Review,Medium,7
+CW-00774,2025-08-27,Central,Phishing,Business,1155.83,Online,Open,High,1
+CW-00775,2026-06-09,Central,Phishing,Business,3349.34,Phone,Open,Low,9
+CW-00776,2025-01-28,Western,Phishing,Business,2951.54,Email,Open,Medium,16
+CW-00777,2026-04-16,Northern,Social Engineering,Individual,120.85,Email,Open,High,24
+CW-00778,2026-05-03,Eastern,Social Engineering,Individual,1505.53,Phone,Open,Medium,19
+CW-00779,2026-03-31,Central,Investment Scam,Business,3326.18,Email,Closed,Medium,17
+CW-00780,2025-06-03,Western,Investment Scam,Business,2207.99,Phone,Under Review,Critical,25
+CW-00781,2026-01-18,Central,Identity Misuse,Business,2225.76,Email,Open,Medium,5
+CW-00782,2025-03-27,Northern,Online Fraud,Individual,1816.87,Phone,Open,Medium,29
+CW-00783,2025-11-20,Western,Online Fraud,Business,2746.91,Online,Closed,High,26
+CW-00784,2025-03-17,Eastern,Investment Scam,Individual,2437.39,Email,Closed,Medium,19
+CW-00785,2025-08-02,Western,Online Fraud,Individual,2408.35,Phone,Open,Medium,1
+CW-00786,2026-10-13,Eastern,Investment Scam,Business,1671.91,Email,Open,Low,29
+CW-00787,2026-03-28,Northern,Phishing,Business,3560.57,Online,Open,Low,16
+CW-00788,2025-08-02,Western,Identity Misuse,Business,6622.97,Walk-in,Closed,Low,4
+CW-00789,2025-06-12,Western,Investment Scam,Individual,3810.44,Online,Under Review,Medium,23
+CW-00790,2025-01-31,Central,Identity Misuse,Business,2454.4,Email,Closed,Low,18
+CW-00791,2025-09-23,Western,Identity Misuse,Business,2343.49,Phone,Under Review,Low,11
+CW-00792,2025-11-03,Eastern,Social Engineering,Business,3089.96,Walk-in,Under Review,High,25
+CW-00793,2026-07-12,Central,Investment Scam,Individual,3419.59,Online,Open,Low,14
+CW-00794,2026-10-26,Eastern,Social Engineering,Business,1207.89,Walk-in,Closed,Medium,9
+CW-00795,2026-12-11,Eastern,Identity Misuse,Business,1831.08,Online,Open,Medium,0
+CW-00796,2025-09-10,Northern,Investment Scam,Individual,2669.71,Walk-in,Under Review,High,16
+CW-00797,2025-03-16,Eastern,Investment Scam,Business,2411.85,Online,Open,Low,7
+CW-00798,2026-06-12,Western,Social Engineering,Business,1742.47,Email,Closed,Low,4
+CW-00799,2025-08-26,Northern,Phishing,Individual,852.07,Phone,Under Review,Low,12
+CW-00800,2026-07-05,Eastern,Online Fraud,Business,4630.76,Online,Closed,Low,6
+CW-00801,2026-01-26,Western,Investment Scam,Individual,249.67,Email,Under Review,Critical,14
+CW-00802,2025-10-30,Eastern,Phishing,Business,1331.74,Online,Closed,Medium,22
+CW-00803,2025-11-22,Northern,Identity Misuse,Business,1485.64,Online,Under Review,Low,17
+CW-00804,2026-03-31,Central,Phishing,Individual,858.45,Email,Under Review,Critical,30
+CW-00805,2026-09-24,Western,Phishing,Individual,1817.81,Email,Closed,Low,4
+CW-00806,2026-11-26,Western,Phishing,Individual,940.29,Phone,Under Review,High,9
+CW-00807,2025-05-28,Northern,Online Fraud,Business,2135.41,Email,Closed,High,16
+CW-00808,2025-09-26,Northern,Identity Misuse,Individual,2503.43,Phone,Closed,Critical,30
+CW-00809,2026-02-09,Eastern,Online Fraud,Individual,1825.49,Email,Under Review,Low,25
+CW-00810,2026-02-26,Western,Online Fraud,Business,5097.85,Phone,Open,Critical,2
+CW-00811,2026-10-14,Eastern,Investment Scam,Business,3437.72,Phone,Closed,Low,16
+CW-00812,2025-04-08,Northern,Social Engineering,Business,3068.82,Online,Open,Low,14
+CW-00813,2025-02-18,Northern,Investment Scam,Business,2580.13,Email,Closed,Medium,12
+CW-00814,2025-01-31,Eastern,Investment Scam,Business,529.77,Walk-in,Under Review,High,24
+CW-00815,2025-03-05,Eastern,Phishing,Individual,5220.11,Email,Closed,Medium,9
+CW-00816,2025-08-08,Central,Investment Scam,Business,1985.68,Online,Open,Low,27
+CW-00817,2025-04-04,Central,Social Engineering,Individual,2392.91,Walk-in,Under Review,Low,25
+CW-00818,2026-09-30,Central,Identity Misuse,Individual,3586.9,Email,Under Review,Low,29
+CW-00819,2025-04-10,Central,Online Fraud,Individual,4145.95,Walk-in,Under Review,Medium,5
+CW-00820,2026-05-22,Central,Social Engineering,Individual,151.53,Email,Open,Medium,21
+CW-00821,2027-01-04,Central,Identity Misuse,Business,3531.85,Phone,Open,Low,24
+CW-00822,2026-07-08,Central,Investment Scam,Business,4961.09,Online,Closed,Low,2
+CW-00823,2026-11-27,Western,Investment Scam,Business,3696.77,Walk-in,Open,Low,12
+CW-00824,2025-12-06,Northern,Phishing,Business,0.0,Walk-in,Open,Low,18
+CW-00825,2025-10-15,Western,Social Engineering,Individual,2986.69,Online,Closed,Medium,30
+CW-00826,2026-03-08,Western,Online Fraud,Individual,0.0,Phone,Open,Low,3
+CW-00827,2025-11-26,Western,Investment Scam,Business,2897.8,Phone,Open,High,23
+CW-00828,2026-12-18,Northern,Online Fraud,Individual,1530.53,Walk-in,Open,High,2
+CW-00829,2026-12-29,Northern,Identity Misuse,Individual,4395.65,Online,Open,High,28
+CW-00830,2026-06-20,Northern,Identity Misuse,Business,1005.38,Phone,Closed,Medium,14
+CW-00831,2025-06-10,Western,Identity Misuse,Business,4085.52,Phone,Closed,High,15
+CW-00832,2026-03-05,Western,Identity Misuse,Individual,2798.19,Online,Closed,High,27
+CW-00833,2025-08-18,Northern,Identity Misuse,Business,1374.46,Email,Closed,Critical,30
+CW-00834,2026-03-12,Eastern,Phishing,Individual,630.6,Phone,Under Review,Low,27
+CW-00835,2026-03-08,Western,Social Engineering,Individual,139.83,Online,Closed,Medium,28
+CW-00836,2025-05-24,Western,Phishing,Business,668.38,Email,Closed,Medium,11
+CW-00837,2026-08-23,Western,Social Engineering,Business,1829.11,Online,Closed,High,14
+CW-00838,2026-05-24,Northern,Phishing,Business,4524.37,Phone,Under Review,Critical,6
+CW-00839,2025-07-27,Western,Social Engineering,Individual,273.92,Phone,Under Review,Critical,29
+CW-00840,2026-08-30,Eastern,Investment Scam,Business,2187.3,Online,Closed,Low,28
+CW-00841,2025-01-13,Northern,Online Fraud,Business,1864.6,Phone,Open,Low,9
+CW-00842,2027-01-13,Eastern,Social Engineering,Business,451.57,Walk-in,Closed,High,20
+CW-00843,2025-07-02,Western,Identity Misuse,Individual,1783.81,Online,Under Review,High,15
+CW-00844,2026-11-03,Central,Social Engineering,Business,46.02,Online,Closed,Medium,5
+CW-00845,2026-08-31,Western,Social Engineering,Business,4070.01,Walk-in,Closed,High,19
+CW-00846,2025-09-11,Western,Social Engineering,Business,3640.32,Online,Closed,Critical,27
+CW-00847,2026-12-06,Eastern,Investment Scam,Business,0.0,Phone,Open,Low,12
+CW-00848,2026-06-26,Northern,Investment Scam,Business,1113.56,Phone,Under Review,High,25
+CW-00849,2026-08-09,Northern,Identity Misuse,Individual,0.0,Online,Closed,Medium,7
+CW-00850,2026-03-18,Western,Online Fraud,Business,2375.71,Walk-in,Closed,Critical,1
+CW-00851,2026-02-04,Central,Identity Misuse,Business,3474.15,Phone,Open,Medium,5
+CW-00852,2026-02-01,Eastern,Investment Scam,Individual,3372.67,Email,Open,Medium,28
+CW-00853,2025-08-31,Northern,Phishing,Business,0.0,Walk-in,Under Review,Medium,4
+CW-00854,2025-11-13,Northern,Online Fraud,Business,2488.63,Phone,Under Review,Low,17
+CW-00855,2026-10-31,Western,Investment Scam,Individual,3125.46,Email,Open,Low,1
+CW-00856,2026-11-14,Central,Identity Misuse,Business,2145.35,Phone,Open,Low,23
+CW-00857,2025-05-14,Western,Investment Scam,Individual,3363.86,Phone,Open,High,6
+CW-00858,2025-06-18,Northern,Identity Misuse,Individual,2275.85,Email,Open,High,15
+CW-00859,2025-07-04,Eastern,Identity Misuse,Business,2981.31,Online,Under Review,Medium,6
+CW-00860,2026-02-15,Central,Phishing,Individual,2253.16,Email,Closed,Medium,0
+CW-00861,2025-05-03,Northern,Identity Misuse,Individual,2312.24,Walk-in,Closed,Low,0
+CW-00862,2025-08-27,Eastern,Investment Scam,Business,3770.32,Phone,Open,High,29
+CW-00863,2025-07-12,Central,Phishing,Business,2893.1,Online,Closed,Critical,5
+CW-00864,2026-11-22,Western,Investment Scam,Business,0.0,Phone,Open,High,2
+CW-00865,2025-12-17,Northern,Social Engineering,Business,1357.86,Walk-in,Open,Low,5
+CW-00866,2025-10-05,Northern,Investment Scam,Business,1938.2,Email,Closed,Medium,19
+CW-00867,2026-04-09,Western,Phishing,Business,885.94,Online,Closed,Low,26
+CW-00868,2026-09-21,Northern,Investment Scam,Business,2823.73,Walk-in,Under Review,High,20
+CW-00869,2026-04-16,Eastern,Phishing,Business,0.0,Email,Open,Low,23
+CW-00870,2026-11-06,Central,Social Engineering,Business,1357.97,Online,Under Review,Medium,9
+CW-00871,2026-02-19,Eastern,Investment Scam,Business,1018.1,Walk-in,Under Review,Critical,8
+CW-00872,2026-05-28,Central,Identity Misuse,Business,2596.56,Online,Under Review,Medium,8
+CW-00873,2025-08-15,Northern,Investment Scam,Individual,2980.45,Online,Closed,Medium,7
+CW-00874,2026-06-29,Central,Identity Misuse,Individual,3497.13,Walk-in,Under Review,Medium,8
+CW-00875,2026-11-17,Central,Identity Misuse,Business,5300.84,Phone,Under Review,High,21
+CW-00876,2026-08-23,Eastern,Investment Scam,Business,4364.85,Walk-in,Open,Low,1
+CW-00877,2025-05-16,Central,Online Fraud,Individual,3483.96,Email,Under Review,Medium,19
+CW-00878,2026-04-17,Northern,Phishing,Individual,3535.4,Email,Closed,Medium,23
+CW-00879,2025-08-10,Northern,Online Fraud,Business,4700.31,Walk-in,Closed,Critical,15
+CW-00880,2026-02-10,Northern,Phishing,Business,3308.92,Walk-in,Open,Low,9
+CW-00881,2025-08-09,Northern,Identity Misuse,Business,3245.73,Online,Closed,Low,6
+CW-00882,2026-04-03,Eastern,Phishing,Individual,2058.54,Email,Open,Low,3
+CW-00883,2025-02-27,Eastern,Social Engineering,Individual,3300.55,Walk-in,Open,Low,2
+CW-00884,2025-11-24,Eastern,Identity Misuse,Individual,6538.57,Email,Open,Low,21
+CW-00885,2026-11-10,Eastern,Social Engineering,Individual,591.41,Email,Closed,Low,3
+CW-00886,2025-11-02,Western,Investment Scam,Individual,1554.19,Email,Closed,Low,21
+CW-00887,2026-05-07,Central,Investment Scam,Business,4135.73,Walk-in,Open,Critical,13
+CW-00888,2026-05-28,Eastern,Phishing,Individual,4299.81,Online,Closed,High,18
+CW-00889,2026-09-01,Eastern,Social Engineering,Individual,0.0,Walk-in,Open,High,15
+CW-00890,2025-04-25,Northern,Online Fraud,Individual,0.0,Online,Under Review,High,9
+CW-00891,2025-04-27,Central,Online Fraud,Individual,4589.77,Walk-in,Under Review,High,17
+CW-00892,2025-06-20,Central,Social Engineering,Business,3759.02,Phone,Open,Low,14
+CW-00893,2025-09-03,Northern,Identity Misuse,Individual,2248.66,Phone,Open,Medium,15
+CW-00894,2025-10-01,Western,Online Fraud,Individual,2784.11,Phone,Open,Low,19
+CW-00895,2026-04-07,Eastern,Social Engineering,Individual,2646.7,Online,Under Review,Critical,0
+CW-00896,2026-07-19,Western,Online Fraud,Business,2273.97,Walk-in,Under Review,Low,8
+CW-00897,2025-01-31,Western,Online Fraud,Individual,2118.84,Phone,Closed,Medium,2
+CW-00898,2026-07-09,Central,Social Engineering,Individual,1505.64,Walk-in,Closed,Low,18
+CW-00899,2026-04-11,Central,Social Engineering,Business,3813.29,Email,Under Review,Low,21
+CW-00900,2026-08-29,Western,Social Engineering,Business,3542.71,Email,Closed,Low,25
+CW-00901,2025-06-15,Western,Identity Misuse,Individual,2646.94,Email,Open,Low,4
+CW-00902,2025-08-01,Central,Phishing,Business,1992.94,Online,Under Review,Low,25
+CW-00903,2026-01-14,Western,Investment Scam,Business,1982.25,Phone,Closed,High,25
+CW-00904,2026-07-03,Western,Online Fraud,Individual,3233.88,Online,Closed,High,7
+CW-00905,2025-10-26,Central,Identity Misuse,Individual,2730.9,Walk-in,Under Review,Medium,18
+CW-00906,2026-12-11,Northern,Social Engineering,Individual,3278.55,Online,Closed,High,28
+CW-00907,2026-09-15,Eastern,Phishing,Business,1499.22,Email,Open,High,14
+CW-00908,2025-10-13,Western,Investment Scam,Business,1400.55,Online,Closed,Medium,4
+CW-00909,2025-02-04,Central,Phishing,Business,2604.31,Email,Open,Low,17
+CW-00910,2026-01-09,Western,Phishing,Business,5352.45,Phone,Under Review,Medium,5
+CW-00911,2025-04-09,Western,Online Fraud,Individual,1443.09,Phone,Under Review,Medium,27
+CW-00912,2026-06-28,Eastern,Identity Misuse,Business,1305.01,Phone,Closed,Low,6
+CW-00913,2026-04-07,Western,Online Fraud,Individual,519.71,Walk-in,Closed,Low,7
+CW-00914,2025-02-22,Central,Investment Scam,Business,2243.14,Walk-in,Under Review,Medium,1
+CW-00915,2025-06-10,Western,Identity Misuse,Business,4492.87,Walk-in,Closed,Medium,30
+CW-00916,2025-12-14,Eastern,Investment Scam,Individual,353.21,Walk-in,Open,High,19
+CW-00917,2025-06-04,Eastern,Investment Scam,Business,2532.54,Online,Open,Medium,26
+CW-00918,2025-01-26,Western,Social Engineering,Individual,1080.43,Walk-in,Under Review,Low,2
+CW-00919,2026-06-01,Northern,Social Engineering,Individual,592.88,Walk-in,Under Review,Medium,21
+CW-00920,2025-09-14,Central,Identity Misuse,Business,629.06,Phone,Open,Low,25
+CW-00921,2026-03-15,Western,Phishing,Business,4428.08,Online,Open,Medium,2
+CW-00922,2026-01-23,Western,Social Engineering,Business,1561.63,Email,Open,Medium,26
+CW-00923,2026-01-21,Western,Social Engineering,Individual,3235.12,Email,Under Review,High,7
+CW-00924,2025-06-11,Central,Investment Scam,Individual,3321.48,Online,Closed,Medium,4
+CW-00925,2027-01-28,Central,Investment Scam,Individual,3584.24,Walk-in,Open,High,30
+CW-00926,2026-02-12,Central,Investment Scam,Individual,2667.7,Email,Closed,High,19
+CW-00927,2026-11-08,Central,Phishing,Individual,2367.81,Online,Closed,Medium,17
+CW-00928,2025-01-31,Eastern,Online Fraud,Individual,4882.76,Walk-in,Closed,Medium,18
+CW-00929,2025-09-19,Western,Investment Scam,Individual,3278.31,Online,Closed,Low,1
+CW-00930,2025-05-05,Central,Phishing,Business,3243.71,Email,Under Review,Low,21
+CW-00931,2026-12-30,Western,Online Fraud,Business,2671.82,Email,Closed,Medium,12
+CW-00932,2026-06-04,Eastern,Phishing,Individual,2771.16,Email,Closed,Critical,22
+CW-00933,2026-06-14,Central,Investment Scam,Business,4161.35,Phone,Open,Low,3
+CW-00934,2026-06-25,Central,Social Engineering,Individual,1363.96,Email,Closed,Low,25
+CW-00935,2026-07-17,Central,Online Fraud,Individual,3468.38,Phone,Open,Low,22
+CW-00936,2026-11-30,Eastern,Investment Scam,Business,2529.07,Walk-in,Under Review,High,6
+CW-00937,2026-05-20,Central,Online Fraud,Business,6632.83,Walk-in,Under Review,High,17
+CW-00938,2026-09-06,Eastern,Online Fraud,Business,2041.58,Phone,Under Review,High,1
+CW-00939,2026-07-03,Eastern,Phishing,Individual,0.0,Email,Closed,Low,26
+CW-00940,2025-01-23,Western,Social Engineering,Individual,1921.47,Online,Open,Critical,7
+CW-00941,2025-08-31,Central,Online Fraud,Business,4873.83,Phone,Open,High,15
+CW-00942,2025-10-05,Western,Online Fraud,Individual,2113.67,Online,Open,Low,19
+CW-00943,2025-08-28,Northern,Investment Scam,Business,3331.46,Walk-in,Under Review,High,14
+CW-00944,2026-07-20,Northern,Investment Scam,Business,3943.62,Email,Open,Medium,23
+CW-00945,2026-03-21,Eastern,Investment Scam,Individual,2406.03,Email,Under Review,Low,25
+CW-00946,2025-03-03,Central,Social Engineering,Individual,2861.86,Email,Under Review,Medium,25
+CW-00947,2026-05-11,Central,Social Engineering,Individual,4147.23,Online,Closed,Medium,29
+CW-00948,2026-09-09,Eastern,Identity Misuse,Individual,1930.28,Online,Closed,High,18
+CW-00949,2026-10-06,Eastern,Phishing,Business,2202.27,Phone,Under Review,Medium,25
+CW-00950,2026-09-12,Northern,Social Engineering,Business,1177.16,Phone,Closed,High,18
+CW-00951,2025-05-23,Western,Phishing,Business,6007.02,Walk-in,Closed,Medium,4
+CW-00952,2026-04-07,Central,Social Engineering,Individual,2146.05,Walk-in,Open,High,2
+CW-00953,2025-07-04,Northern,Investment Scam,Business,3323.46,Email,Under Review,Medium,14
+CW-00954,2026-10-13,Northern,Investment Scam,Individual,2987.03,Phone,Under Review,Low,18
+CW-00955,2025-09-16,Eastern,Online Fraud,Individual,0.0,Walk-in,Closed,Medium,16
+CW-00956,2026-05-01,Western,Social Engineering,Business,3678.39,Email,Under Review,High,6
+CW-00957,2025-12-10,Eastern,Identity Misuse,Business,2580.31,Phone,Closed,High,18
+CW-00958,2025-03-10,Northern,Phishing,Business,3957.41,Phone,Under Review,High,27
+CW-00959,2025-11-12,Eastern,Identity Misuse,Business,3506.37,Phone,Closed,Medium,7
+CW-00960,2025-11-02,Central,Phishing,Individual,3405.69,Walk-in,Closed,Low,24
+CW-00961,2026-05-21,Western,Investment Scam,Business,2573.11,Phone,Open,Medium,30
+CW-00962,2026-01-11,Western,Social Engineering,Individual,0.0,Email,Closed,Medium,9
+CW-00963,2026-04-22,Northern,Investment Scam,Individual,2646.87,Phone,Open,High,6
+CW-00964,2025-08-06,Eastern,Investment Scam,Business,1151.48,Online,Under Review,Low,8
+CW-00965,2026-02-13,Northern,Identity Misuse,Business,2106.08,Walk-in,Closed,Critical,6
+CW-00966,2026-10-11,Western,Online Fraud,Business,1140.38,Phone,Closed,High,14
+CW-00967,2025-05-02,Northern,Phishing,Business,3974.02,Phone,Under Review,Critical,17
+CW-00968,2025-12-15,Western,Phishing,Business,399.89,Walk-in,Open,Medium,0
+CW-00969,2026-09-20,Eastern,Investment Scam,Individual,1405.34,Email,Open,Medium,5
+CW-00970,2026-12-26,Western,Online Fraud,Business,2522.23,Phone,Open,Low,16
+CW-00971,2026-03-12,Northern,Investment Scam,Business,1516.47,Email,Under Review,Low,17
+CW-00972,2026-10-28,Eastern,Identity Misuse,Individual,2146.43,Online,Under Review,Low,15
+CW-00973,2026-03-23,Eastern,Phishing,Business,4130.65,Online,Closed,Medium,26
+CW-00974,2026-01-24,Central,Online Fraud,Individual,2972.87,Email,Open,High,15
+CW-00975,2026-03-06,Central,Investment Scam,Business,4215.51,Online,Open,Low,25
+CW-00976,2025-09-09,Eastern,Phishing,Individual,4027.68,Online,Open,Medium,13
+CW-00977,2025-01-21,Central,Online Fraud,Individual,2413.24,Email,Closed,Medium,9
+CW-00978,2026-12-25,Eastern,Online Fraud,Business,2865.64,Phone,Open,Low,6
+CW-00979,2025-07-29,Western,Identity Misuse,Individual,1398.65,Phone,Open,Critical,30
+CW-00980,2026-08-21,Eastern,Identity Misuse,Individual,2287.71,Email,Closed,Low,28
+CW-00981,2026-07-27,Western,Phishing,Business,978.05,Online,Open,Medium,6
+CW-00982,2026-03-19,Western,Social Engineering,Business,1512.34,Walk-in,Closed,Low,28
+CW-00983,2026-04-08,Eastern,Phishing,Business,678.37,Email,Under Review,Low,0
+CW-00984,2025-12-21,Central,Investment Scam,Individual,3184.36,Online,Under Review,High,22
+CW-00985,2026-02-05,Eastern,Identity Misuse,Individual,3688.52,Walk-in,Under Review,Medium,12
+CW-00986,2025-03-15,Northern,Investment Scam,Individual,2941.37,Phone,Under Review,Low,12
+CW-00987,2025-03-19,Central,Online Fraud,Business,5437.71,Walk-in,Closed,Critical,26
+CW-00988,2026-02-01,Eastern,Identity Misuse,Business,0.0,Online,Under Review,High,16
+CW-00989,2025-06-09,Northern,Investment Scam,Individual,3909.97,Online,Closed,Low,15
+CW-00990,2026-11-30,Eastern,Online Fraud,Individual,1915.69,Phone,Closed,Medium,11
+CW-00991,2026-10-07,Northern,Social Engineering,Individual,3900.13,Online,Under Review,High,11
+CW-00992,2026-10-25,Central,Phishing,Business,0.0,Phone,Closed,Critical,7
+CW-00993,2026-12-21,Eastern,Investment Scam,Business,4818.72,Walk-in,Open,Critical,24
+CW-00994,2025-08-24,Western,Identity Misuse,Business,4147.79,Walk-in,Under Review,Medium,15
+CW-00995,2026-11-22,Northern,Online Fraud,Individual,3645.01,Phone,Closed,Low,1
+CW-00996,2025-12-06,Western,Online Fraud,Individual,165.96,Walk-in,Closed,Low,22
+CW-00997,2026-03-10,Eastern,Social Engineering,Business,1349.7,Walk-in,Open,High,16
+CW-00998,2026-11-12,Northern,Identity Misuse,Individual,2602.11,Phone,Closed,Critical,9
+CW-00999,2026-01-08,Eastern,Social Engineering,Individual,3695.36,Online,Closed,Medium,16
+CW-01000,2025-11-04,Eastern,Phishing,Business,4594.51,Email,Closed,Medium,5
+CW-01001,2026-12-06,Eastern,Investment Scam,Business,997.5,Online,Open,Low,16
+CW-01002,2026-07-12,Central,Phishing,Individual,3682.22,Online,Under Review,Medium,22
+CW-01003,2025-01-19,Eastern,Identity Misuse,Individual,3229.06,Online,Closed,Low,8
+CW-01004,2025-08-23,Eastern,Online Fraud,Business,0.0,Phone,Closed,Low,6
+CW-01005,2025-06-06,Central,Phishing,Individual,1461.47,Phone,Open,Low,29
+CW-01006,2026-08-16,Central,Investment Scam,Business,1511.44,Email,Closed,Low,4
+CW-01007,2025-03-22,Western,Online Fraud,Business,1990.84,Phone,Closed,Critical,4
+CW-01008,2025-12-02,Central,Identity Misuse,Individual,1374.21,Phone,Closed,Medium,10
+CW-01009,2025-12-08,Central,Investment Scam,Individual,2441.15,Online,Open,Medium,16
+CW-01010,2026-09-24,Western,Phishing,Business,0.0,Walk-in,Open,Low,5
+CW-01011,2025-12-06,Eastern,Identity Misuse,Business,3443.15,Online,Under Review,Medium,0
+CW-01012,2026-06-20,Western,Investment Scam,Business,1963.94,Email,Under Review,Medium,22
+CW-01013,2027-01-08,Central,Online Fraud,Business,2312.67,Phone,Open,Low,21
+CW-01014,2025-06-06,Eastern,Social Engineering,Individual,2523.55,Email,Closed,High,13
+CW-01015,2025-12-20,Northern,Social Engineering,Business,1123.04,Walk-in,Open,Low,1
+CW-01016,2027-01-12,Northern,Online Fraud,Business,5096.75,Phone,Closed,Low,12
+CW-01017,2025-12-01,Western,Identity Misuse,Business,2954.05,Email,Open,Medium,16
+CW-01018,2026-04-03,Central,Online Fraud,Business,2804.02,Phone,Under Review,Low,10
+CW-01019,2026-04-02,Eastern,Social Engineering,Individual,1606.72,Online,Under Review,Medium,3
+CW-01020,2026-09-16,Central,Phishing,Business,2712.67,Walk-in,Under Review,Medium,24
+CW-01021,2025-09-05,Western,Online Fraud,Business,2191.02,Phone,Closed,Medium,2
+CW-01022,2025-11-07,Northern,Online Fraud,Individual,1641.39,Phone,Open,Medium,19
+CW-01023,2026-11-03,Eastern,Investment Scam,Individual,5041.15,Walk-in,Closed,Medium,8
+CW-01024,2025-07-19,Eastern,Identity Misuse,Individual,1171.04,Online,Under Review,Low,2
+CW-01025,2025-03-15,Western,Phishing,Business,1051.33,Email,Under Review,Medium,17
+CW-01026,2026-09-07,Central,Identity Misuse,Individual,1692.14,Phone,Open,High,9
+CW-01027,2025-08-20,Central,Investment Scam,Business,4444.13,Phone,Open,Medium,19
+CW-01028,2025-10-23,Northern,Social Engineering,Individual,1799.59,Walk-in,Open,Medium,4
+CW-01029,2027-01-10,Western,Phishing,Business,5671.62,Online,Closed,High,23
+CW-01030,2026-06-29,Central,Phishing,Business,3062.75,Walk-in,Under Review,Low,4
+CW-01031,2026-02-10,Western,Identity Misuse,Business,3515.81,Phone,Under Review,High,19
+CW-01032,2026-01-06,Eastern,Investment Scam,Business,880.67,Phone,Under Review,Low,0
+CW-01033,2026-01-17,Northern,Social Engineering,Individual,1922.44,Online,Open,Critical,6
+CW-01034,2026-08-06,Eastern,Social Engineering,Business,0.0,Online,Open,Low,18
+CW-01035,2025-06-16,Eastern,Phishing,Individual,982.29,Email,Open,Medium,17
+CW-01036,2026-01-10,Northern,Identity Misuse,Business,3715.75,Online,Open,Medium,4
+CW-01037,2027-01-21,Western,Investment Scam,Individual,234.94,Online,Under Review,Low,21
+CW-01038,2026-10-10,Eastern,Investment Scam,Individual,2169.19,Online,Under Review,High,4
+CW-01039,2026-12-22,Central,Phishing,Individual,3362.64,Walk-in,Open,High,15
+CW-01040,2025-03-03,Central,Social Engineering,Individual,4295.79,Walk-in,Closed,Medium,20
+CW-01041,2026-10-04,Western,Online Fraud,Individual,4338.21,Walk-in,Under Review,Critical,25
+CW-01042,2025-03-29,Central,Online Fraud,Individual,2224.89,Email,Under Review,Low,28
+CW-01043,2025-07-17,Central,Phishing,Business,6104.53,Email,Under Review,Low,29
+CW-01044,2026-09-16,Eastern,Social Engineering,Business,3154.79,Walk-in,Under Review,High,27
+CW-01045,2026-07-25,Western,Phishing,Business,2169.37,Online,Open,Medium,30
+CW-01046,2025-08-04,Eastern,Phishing,Individual,881.2,Online,Under Review,High,28
+CW-01047,2026-06-30,Northern,Investment Scam,Business,1256.34,Online,Open,Medium,1
+CW-01048,2026-07-24,Northern,Investment Scam,Individual,92.87,Online,Open,Low,30
+CW-01049,2026-11-09,Western,Identity Misuse,Individual,4544.84,Walk-in,Open,Medium,27
+CW-01050,2027-01-13,Western,Investment Scam,Business,2044.56,Phone,Closed,Low,26
+CW-01051,2025-02-04,Central,Phishing,Individual,2579.98,Phone,Open,Medium,15
+CW-01052,2025-08-14,Western,Phishing,Individual,1495.93,Phone,Under Review,High,11
+CW-01053,2025-06-08,Western,Phishing,Business,1136.85,Email,Under Review,Low,29
+CW-01054,2025-03-05,Eastern,Phishing,Business,5026.79,Online,Under Review,Low,11
+CW-01055,2025-07-11,Northern,Investment Scam,Individual,1967.33,Email,Open,Medium,26
+CW-01056,2027-01-03,Northern,Online Fraud,Individual,550.54,Online,Closed,Low,25
+CW-01057,2026-05-02,Eastern,Online Fraud,Business,368.88,Email,Under Review,High,10
+CW-01058,2025-07-03,Western,Online Fraud,Business,4621.92,Walk-in,Closed,Low,25
+CW-01059,2026-12-22,Central,Social Engineering,Individual,1222.69,Online,Under Review,Low,15
+CW-01060,2025-11-08,Western,Phishing,Business,2509.41,Online,Open,Low,15
+CW-01061,2025-12-18,Eastern,Identity Misuse,Business,1644.53,Email,Closed,Medium,22
+CW-01062,2025-09-18,Northern,Investment Scam,Business,731.34,Email,Closed,High,8
+CW-01063,2025-12-06,Western,Phishing,Business,1343.2,Walk-in,Open,Low,30
+CW-01064,2025-06-15,Northern,Identity Misuse,Business,0.0,Walk-in,Under Review,Low,30
+CW-01065,2026-11-03,Central,Investment Scam,Business,1453.58,Walk-in,Closed,Medium,18
+CW-01066,2025-03-17,Eastern,Identity Misuse,Individual,1068.92,Email,Closed,Low,29
+CW-01067,2025-03-17,Eastern,Online Fraud,Individual,3534.37,Phone,Open,Medium,3
+CW-01068,2025-10-25,Northern,Online Fraud,Individual,3134.51,Online,Under Review,Medium,23
+CW-01069,2026-08-10,Western,Investment Scam,Business,3928.05,Email,Closed,Medium,9
+CW-01070,2025-06-30,Western,Investment Scam,Business,6023.65,Walk-in,Closed,Low,29
+CW-01071,2026-04-11,Eastern,Identity Misuse,Business,2394.49,Email,Under Review,Medium,16
+CW-01072,2025-07-26,Western,Identity Misuse,Individual,1152.45,Walk-in,Under Review,Low,30
+CW-01073,2025-12-12,Western,Social Engineering,Business,3416.63,Online,Under Review,Medium,14
+CW-01074,2025-10-17,Western,Online Fraud,Business,2935.3,Email,Closed,Low,19
+CW-01075,2026-12-27,Eastern,Online Fraud,Individual,2748.11,Email,Open,High,24
+CW-01076,2025-12-13,Northern,Investment Scam,Individual,426.97,Email,Under Review,Low,4
+CW-01077,2026-10-18,Northern,Online Fraud,Business,1212.13,Email,Under Review,Medium,28
+CW-01078,2025-12-06,Western,Online Fraud,Individual,3233.58,Walk-in,Open,Low,2
+CW-01079,2026-09-21,Northern,Identity Misuse,Individual,125.31,Walk-in,Open,Low,4
+CW-01080,2025-06-26,Central,Identity Misuse,Individual,759.13,Phone,Open,Low,19
+CW-01081,2026-10-26,Northern,Identity Misuse,Individual,3625.38,Phone,Closed,High,22
+CW-01082,2026-10-22,Northern,Investment Scam,Individual,1225.45,Walk-in,Under Review,Medium,7
+CW-01083,2026-10-29,Northern,Online Fraud,Business,3637.27,Online,Closed,High,3
+CW-01084,2026-03-07,Eastern,Investment Scam,Individual,490.01,Email,Open,High,29
+CW-01085,2025-01-19,Western,Phishing,Business,2844.85,Email,Open,High,8
+CW-01086,2025-08-21,Northern,Investment Scam,Individual,1727.42,Online,Closed,Medium,24
+CW-01087,2026-06-26,Western,Phishing,Business,1563.23,Online,Under Review,Critical,21
+CW-01088,2026-02-18,Western,Social Engineering,Business,3620.47,Phone,Open,Low,14
+CW-01089,2025-07-16,Northern,Phishing,Business,1983.9,Online,Closed,Medium,14
+CW-01090,2026-04-12,Western,Investment Scam,Individual,1938.2,Email,Closed,Medium,20
+CW-01091,2025-12-28,Northern,Social Engineering,Individual,0.0,Walk-in,Open,Medium,16
+CW-01092,2025-07-27,Northern,Phishing,Individual,1953.27,Walk-in,Open,Critical,21
+CW-01093,2025-01-28,Central,Social Engineering,Business,4240.52,Phone,Closed,Low,0
+CW-01094,2026-08-12,Eastern,Investment Scam,Business,2979.68,Email,Closed,Medium,7
+CW-01095,2025-10-17,Northern,Phishing,Individual,3229.25,Walk-in,Under Review,Low,14
+CW-01096,2025-03-25,Northern,Investment Scam,Business,2012.05,Online,Closed,Low,17
+CW-01097,2026-02-12,Northern,Investment Scam,Individual,4752.56,Walk-in,Under Review,Low,27
+CW-01098,2026-11-19,Western,Online Fraud,Individual,2435.56,Phone,Under Review,Critical,15
+CW-01099,2026-09-01,Western,Phishing,Individual,2991.72,Walk-in,Open,Low,7
+CW-01100,2025-05-13,Central,Investment Scam,Business,3928.72,Walk-in,Under Review,Critical,2
+CW-01101,2025-06-26,Eastern,Investment Scam,Individual,4500.08,Online,Closed,Low,14
+CW-01102,2026-05-11,Western,Identity Misuse,Individual,3372.81,Phone,Closed,High,14
+CW-01103,2026-08-12,Eastern,Phishing,Business,5158.91,Walk-in,Closed,High,4
+CW-01104,2026-10-17,Eastern,Identity Misuse,Business,667.29,Phone,Under Review,Low,20
+CW-01105,2025-01-23,Eastern,Identity Misuse,Individual,1710.95,Email,Under Review,Critical,10
+CW-01106,2025-09-18,Western,Social Engineering,Business,4190.85,Phone,Open,Low,23
+CW-01107,2025-02-25,Central,Identity Misuse,Individual,0.0,Walk-in,Closed,Low,12
+CW-01108,2025-04-15,Western,Phishing,Business,0.0,Walk-in,Closed,Medium,16
+CW-01109,2026-11-25,Central,Identity Misuse,Individual,1215.01,Walk-in,Under Review,Critical,0
+CW-01110,2026-08-05,Western,Phishing,Business,1394.51,Phone,Open,Critical,14
+CW-01111,2025-10-10,Northern,Identity Misuse,Individual,3451.85,Phone,Open,High,22
+CW-01112,2025-04-26,Western,Online Fraud,Business,2329.04,Walk-in,Closed,Low,7
+CW-01113,2025-09-07,Northern,Online Fraud,Individual,1684.79,Online,Under Review,High,6
+CW-01114,2025-08-17,Western,Social Engineering,Individual,1935.15,Phone,Under Review,Medium,8
+CW-01115,2026-10-04,Western,Online Fraud,Individual,1985.19,Walk-in,Under Review,High,27
+CW-01116,2026-04-11,Northern,Phishing,Business,0.0,Phone,Closed,Medium,24
+CW-01117,2026-11-02,Western,Identity Misuse,Individual,2299.73,Email,Open,Medium,4
+CW-01118,2025-11-15,Western,Identity Misuse,Business,2715.52,Walk-in,Under Review,Low,13
+CW-01119,2026-08-05,Western,Investment Scam,Individual,1510.04,Online,Under Review,Medium,14
+CW-01120,2027-01-19,Northern,Investment Scam,Individual,4123.24,Walk-in,Under Review,Medium,23
+CW-01121,2026-10-16,Western,Investment Scam,Business,2652.63,Walk-in,Under Review,Medium,14
+CW-01122,2026-05-29,Western,Investment Scam,Business,3000.11,Online,Open,Critical,16
+CW-01123,2025-03-03,Western,Investment Scam,Individual,2612.04,Online,Under Review,High,24
+CW-01124,2025-02-24,Central,Online Fraud,Business,4052.5,Online,Under Review,Low,7
+CW-01125,2025-09-23,Western,Identity Misuse,Individual,565.92,Phone,Under Review,High,9
+CW-01126,2025-06-21,Western,Social Engineering,Individual,4462.78,Online,Open,Low,27
+CW-01127,2026-03-12,Northern,Online Fraud,Business,2544.15,Email,Closed,Low,2
+CW-01128,2025-09-10,Central,Phishing,Individual,3274.97,Email,Open,Low,23
+CW-01129,2026-02-10,Eastern,Investment Scam,Individual,3546.38,Walk-in,Under Review,Medium,24
+CW-01130,2025-06-17,Northern,Investment Scam,Individual,1245.86,Online,Open,Low,8
+CW-01131,2026-04-18,Northern,Social Engineering,Individual,2544.15,Phone,Under Review,Low,15
+CW-01132,2025-01-29,Northern,Identity Misuse,Individual,762.68,Phone,Under Review,Medium,12
+CW-01133,2025-05-21,Central,Online Fraud,Individual,7147.45,Phone,Open,High,26
+CW-01134,2025-05-18,Central,Phishing,Business,2112.74,Walk-in,Under Review,Low,16
+CW-01135,2026-10-30,Eastern,Social Engineering,Individual,2398.42,Phone,Open,Medium,0
+CW-01136,2026-04-16,Central,Identity Misuse,Business,4287.61,Phone,Closed,Medium,10
+CW-01137,2025-08-17,Central,Identity Misuse,Business,4837.28,Online,Closed,Medium,24
+CW-01138,2026-09-29,Western,Investment Scam,Individual,0.0,Phone,Under Review,Medium,21
+CW-01139,2026-06-27,Western,Identity Misuse,Individual,4453.52,Walk-in,Open,Low,0
+CW-01140,2026-05-23,Western,Social Engineering,Individual,1166.56,Walk-in,Closed,Low,14
+CW-01141,2026-04-24,Northern,Online Fraud,Individual,2776.46,Walk-in,Under Review,Medium,5
+CW-01142,2025-08-26,Northern,Social Engineering,Individual,1869.96,Phone,Closed,Low,3
+CW-01143,2025-04-03,Northern,Investment Scam,Business,0.0,Email,Under Review,High,3
+CW-01144,2025-04-05,Central,Social Engineering,Business,2739.31,Phone,Closed,Medium,28
+CW-01145,2026-06-17,Central,Social Engineering,Individual,4448.05,Email,Closed,Low,27
+CW-01146,2025-07-25,Western,Online Fraud,Individual,6396.38,Email,Open,Medium,22
+CW-01147,2026-08-05,Central,Identity Misuse,Individual,1514.3,Online,Open,Critical,11
+CW-01148,2026-02-08,Western,Phishing,Individual,1453.42,Online,Under Review,High,16
+CW-01149,2026-05-06,Central,Social Engineering,Individual,1856.43,Phone,Open,Medium,20
+CW-01150,2025-11-13,Northern,Online Fraud,Individual,3204.11,Walk-in,Closed,Medium,23
+CW-01151,2026-04-13,Central,Identity Misuse,Business,0.0,Online,Closed,Low,19
+CW-01152,2025-05-24,Central,Online Fraud,Business,1973.83,Walk-in,Closed,Medium,0
+CW-01153,2026-02-21,Central,Investment Scam,Business,5043.22,Email,Under Review,Low,0
+CW-01154,2026-08-06,Central,Identity Misuse,Individual,3556.11,Phone,Under Review,High,30
+CW-01155,2026-05-04,Central,Investment Scam,Individual,2763.18,Email,Closed,High,22
+CW-01156,2025-12-16,Northern,Investment Scam,Individual,2817.44,Walk-in,Under Review,Low,23
+CW-01157,2026-09-23,Central,Online Fraud,Individual,2757.2,Online,Open,Low,23
+CW-01158,2026-05-22,Western,Online Fraud,Business,0.0,Walk-in,Under Review,High,25
+CW-01159,2025-06-10,Eastern,Social Engineering,Business,2880.56,Phone,Closed,Low,0
+CW-01160,2025-01-12,Western,Online Fraud,Individual,1154.12,Email,Closed,High,0
+CW-01161,2025-05-04,Eastern,Phishing,Business,3525.85,Phone,Open,Medium,18
+CW-01162,2026-12-27,Northern,Investment Scam,Individual,3828.85,Online,Closed,Low,15
+CW-01163,2026-03-13,Northern,Social Engineering,Business,0.0,Online,Open,Low,20
+CW-01164,2025-01-29,Central,Phishing,Individual,257.87,Phone,Open,High,9
+CW-01165,2026-05-04,Western,Social Engineering,Individual,2754.65,Email,Open,Medium,3
+CW-01166,2026-06-01,Central,Identity Misuse,Individual,1117.01,Email,Under Review,Medium,24
+CW-01167,2026-04-30,Northern,Investment Scam,Business,514.06,Online,Closed,Critical,13
+CW-01168,2026-07-22,Western,Social Engineering,Business,1059.22,Phone,Closed,Critical,24
+CW-01169,2025-07-16,Central,Phishing,Business,4979.96,Email,Closed,High,13
+CW-01170,2026-05-29,Central,Online Fraud,Individual,3434.63,Online,Closed,Medium,18
+CW-01171,2025-01-23,Western,Investment Scam,Individual,871.26,Online,Closed,Low,15
+CW-01172,2026-09-01,Central,Phishing,Individual,5671.26,Walk-in,Under Review,Low,17
+CW-01173,2026-02-16,Central,Phishing,Individual,1143.6,Phone,Open,Low,25
+CW-01174,2026-10-02,Central,Online Fraud,Individual,1681.77,Email,Closed,Medium,17
+CW-01175,2025-02-15,Northern,Identity Misuse,Individual,346.97,Email,Open,Low,8
+CW-01176,2026-10-23,Eastern,Identity Misuse,Individual,1630.97,Online,Open,Low,4
+CW-01177,2025-02-26,Western,Phishing,Business,2278.99,Phone,Open,High,24
+CW-01178,2026-09-16,Central,Phishing,Business,3945.89,Walk-in,Open,Medium,12
+CW-01179,2025-01-29,Western,Phishing,Individual,2743.53,Phone,Open,Critical,6
+CW-01180,2026-07-08,Northern,Investment Scam,Individual,914.02,Phone,Open,Medium,1
+CW-01181,2026-09-20,Central,Social Engineering,Business,2752.31,Email,Closed,High,16
+CW-01182,2025-10-07,Central,Investment Scam,Individual,3922.03,Walk-in,Under Review,Low,20
+CW-01183,2027-01-28,Central,Investment Scam,Individual,4200.0,Walk-in,Open,Medium,30
+CW-01184,2025-11-03,Central,Investment Scam,Business,679.06,Online,Closed,High,14
+CW-01185,2026-03-20,Eastern,Social Engineering,Business,2558.58,Online,Open,Low,17
+CW-01186,2026-05-05,Northern,Social Engineering,Individual,3619.26,Walk-in,Closed,Low,2
+CW-01187,2026-01-11,Northern,Identity Misuse,Individual,4686.23,Online,Under Review,High,17
+CW-01188,2025-05-29,Eastern,Identity Misuse,Individual,3706.16,Online,Open,Medium,2
+CW-01189,2026-01-25,Eastern,Social Engineering,Individual,3608.23,Phone,Closed,Low,25
+CW-01190,2026-12-09,Eastern,Identity Misuse,Individual,4420.5,Walk-in,Open,Low,21
+CW-01191,2027-01-10,Eastern,Phishing,Business,1310.06,Online,Open,Low,22
+CW-01192,2025-05-22,Central,Investment Scam,Business,3149.27,Email,Under Review,Low,18
+CW-01193,2026-08-26,Northern,Identity Misuse,Individual,1748.37,Walk-in,Open,High,16
+CW-01194,2026-01-01,Western,Investment Scam,Individual,3219.11,Phone,Closed,High,30
+CW-01195,2025-03-26,Eastern,Social Engineering,Individual,2913.54,Walk-in,Under Review,Medium,13
+CW-01196,2026-06-04,Western,Phishing,Individual,2004.42,Email,Open,Medium,28
+CW-01197,2025-06-21,Northern,Social Engineering,Business,3733.53,Phone,Open,High,8
+CW-01198,2025-03-28,Eastern,Investment Scam,Individual,1244.53,Walk-in,Open,Medium,17
+CW-01199,2026-06-30,Eastern,Identity Misuse,Individual,491.46,Phone,Open,High,17
+CW-01200,2026-07-18,Western,Identity Misuse,Individual,4343.89,Phone,Closed,Medium,4
+CW-01201,2026-11-18,Central,Phishing,Business,381.07,Email,Closed,Critical,12
+CW-01202,2026-12-09,Northern,Investment Scam,Individual,3825.9,Online,Open,Low,22
+CW-01203,2026-02-12,Central,Social Engineering,Business,4435.82,Walk-in,Under Review,High,27
+CW-01204,2026-01-21,Western,Online Fraud,Business,3797.73,Walk-in,Open,Critical,22
+CW-01205,2025-07-05,Central,Investment Scam,Individual,3586.89,Email,Closed,Low,11
+CW-01206,2026-01-18,Central,Identity Misuse,Business,3172.73,Phone,Open,Medium,6
+CW-01207,2025-02-04,Northern,Social Engineering,Business,0.0,Online,Under Review,Medium,4
+CW-01208,2026-08-09,Northern,Social Engineering,Individual,3835.02,Walk-in,Open,Medium,20
+CW-01209,2025-02-09,Eastern,Social Engineering,Business,5617.62,Walk-in,Open,Critical,15
+CW-01210,2025-12-02,Western,Online Fraud,Business,3043.62,Walk-in,Under Review,High,16
+CW-01211,2026-07-10,Eastern,Investment Scam,Business,3230.97,Phone,Closed,Critical,1
+CW-01212,2025-07-17,Western,Online Fraud,Individual,1958.34,Walk-in,Closed,Medium,29
+CW-01213,2026-12-16,Eastern,Investment Scam,Business,2051.77,Phone,Closed,Low,9
+CW-01214,2026-02-08,Eastern,Online Fraud,Business,1962.63,Email,Under Review,Medium,23
+CW-01215,2026-10-09,Northern,Phishing,Business,3591.18,Email,Closed,Medium,8
+CW-01216,2025-05-18,Western,Social Engineering,Business,3710.86,Email,Open,Low,28
+CW-01217,2025-07-10,Northern,Phishing,Individual,6698.47,Online,Under Review,High,25
+CW-01218,2025-08-05,Western,Investment Scam,Business,3323.01,Phone,Open,Medium,10
+CW-01219,2025-07-01,Central,Identity Misuse,Business,273.81,Walk-in,Under Review,Low,19
+CW-01220,2025-12-27,Northern,Investment Scam,Individual,0.0,Email,Open,Critical,22
+CW-01221,2026-09-07,Central,Social Engineering,Individual,3369.8,Walk-in,Closed,Medium,15
+CW-01222,2026-10-09,Central,Online Fraud,Individual,4071.53,Phone,Closed,Medium,0
+CW-01223,2026-01-03,Western,Online Fraud,Individual,1220.86,Email,Closed,Critical,19
+CW-01224,2025-02-07,Central,Phishing,Individual,3343.64,Online,Closed,Low,2
+CW-01225,2026-04-26,Eastern,Investment Scam,Individual,0.0,Phone,Open,Low,13
+CW-01226,2025-05-19,Central,Investment Scam,Business,4009.91,Walk-in,Closed,Medium,12
+CW-01227,2026-12-03,Central,Online Fraud,Individual,994.84,Phone,Under Review,High,8
+CW-01228,2026-03-07,Western,Social Engineering,Individual,2002.97,Walk-in,Under Review,Medium,28
+CW-01229,2026-07-06,Western,Phishing,Individual,2081.94,Phone,Under Review,High,2
+CW-01230,2026-07-09,Northern,Social Engineering,Business,2896.41,Online,Open,Low,19
+CW-01231,2026-06-23,Central,Phishing,Individual,940.55,Walk-in,Under Review,Medium,29
+CW-01232,2026-02-01,Central,Online Fraud,Individual,3131.63,Online,Under Review,Low,16
+CW-01233,2026-04-13,Central,Investment Scam,Individual,939.7,Email,Under Review,Low,30
+CW-01234,2026-12-04,Western,Investment Scam,Individual,3548.22,Online,Under Review,Low,28
+CW-01235,2026-12-27,Western,Phishing,Individual,2667.91,Walk-in,Closed,Critical,10
+CW-01236,2025-08-24,Western,Phishing,Business,3107.77,Walk-in,Open,Critical,24
+CW-01237,2025-09-28,Eastern,Social Engineering,Business,1886.31,Phone,Open,Medium,22
+CW-01238,2026-11-17,Western,Phishing,Business,2740.77,Walk-in,Under Review,Medium,11
+CW-01239,2025-01-30,Western,Identity Misuse,Business,1918.19,Email,Closed,Medium,9
+CW-01240,2025-03-30,Eastern,Identity Misuse,Business,4459.11,Email,Under Review,Low,28
+CW-01241,2025-09-02,Northern,Investment Scam,Business,1403.13,Phone,Under Review,Medium,24
+CW-01242,2025-10-06,Central,Phishing,Business,3816.57,Phone,Closed,Low,16
+CW-01243,2026-07-28,Central,Identity Misuse,Individual,2284.51,Email,Closed,Medium,29
+CW-01244,2026-08-27,Northern,Social Engineering,Individual,2252.38,Online,Under Review,Medium,0
+CW-01245,2025-12-09,Eastern,Identity Misuse,Individual,0.0,Online,Under Review,Low,19
+CW-01246,2025-03-17,Central,Phishing,Business,2147.09,Online,Closed,High,1
+CW-01247,2026-11-30,Eastern,Phishing,Individual,4354.04,Phone,Open,Medium,1
+CW-01248,2026-08-01,Central,Phishing,Business,1575.02,Email,Under Review,High,18
+CW-01249,2025-08-15,Western,Investment Scam,Business,1900.48,Walk-in,Under Review,Low,19
+CW-01250,2025-10-11,Central,Social Engineering,Individual,1281.36,Phone,Under Review,High,30
+CW-01251,2025-12-18,Northern,Social Engineering,Business,599.65,Phone,Under Review,Medium,7
+CW-01252,2026-07-05,Eastern,Identity Misuse,Business,3158.0,Online,Under Review,Medium,25
+CW-01253,2025-01-20,Northern,Online Fraud,Business,3019.17,Email,Under Review,Critical,1
+CW-01254,2026-08-30,Northern,Online Fraud,Business,4286.87,Online,Closed,Low,10
+CW-01255,2026-03-31,Western,Online Fraud,Individual,2533.2,Email,Under Review,Medium,26
+CW-01256,2026-03-26,Eastern,Investment Scam,Individual,1730.58,Email,Open,Critical,4
+CW-01257,2026-11-19,Western,Phishing,Individual,3949.06,Phone,Under Review,Critical,26
+CW-01258,2026-01-18,Northern,Identity Misuse,Business,4535.99,Walk-in,Closed,Low,5
+CW-01259,2025-07-24,Western,Investment Scam,Business,1674.12,Phone,Under Review,Low,18
+CW-01260,2025-07-03,Eastern,Identity Misuse,Individual,3264.53,Walk-in,Under Review,Medium,13
+CW-01261,2025-11-09,Northern,Identity Misuse,Business,482.0,Email,Under Review,Low,16
+CW-01262,2026-10-20,Central,Online Fraud,Business,2078.25,Online,Closed,Low,27
+CW-01263,2026-05-11,Northern,Online Fraud,Individual,1350.93,Walk-in,Open,Critical,24
+CW-01264,2025-05-29,Western,Social Engineering,Business,1808.1,Online,Under Review,Low,27
+CW-01265,2027-01-16,Western,Investment Scam,Individual,3458.28,Email,Under Review,Low,16
+CW-01266,2025-01-22,Central,Phishing,Individual,5202.7,Phone,Under Review,Medium,4
+CW-01267,2026-06-27,Central,Phishing,Individual,2009.98,Email,Open,High,30
+CW-01268,2025-01-28,Eastern,Social Engineering,Business,1985.41,Email,Closed,Low,16
+CW-01269,2025-10-15,Western,Investment Scam,Business,1808.19,Online,Closed,Low,20
+CW-01270,2026-04-21,Central,Phishing,Individual,3124.9,Walk-in,Closed,Medium,2
+CW-01271,2026-02-13,Northern,Investment Scam,Individual,3103.4,Phone,Open,High,19
+CW-01272,2025-04-08,Eastern,Phishing,Individual,4481.49,Online,Under Review,Medium,29
+CW-01273,2025-11-30,Western,Investment Scam,Individual,3157.87,Walk-in,Closed,High,12
+CW-01274,2026-03-15,Western,Phishing,Business,444.96,Email,Open,Critical,27
+CW-01275,2026-03-16,Eastern,Online Fraud,Business,3352.28,Email,Closed,High,16
+CW-01276,2026-04-01,Northern,Social Engineering,Business,1455.97,Online,Open,Medium,9
+CW-01277,2025-07-26,Western,Identity Misuse,Individual,982.13,Email,Closed,Low,25
+CW-01278,2025-12-20,Central,Online Fraud,Individual,3173.23,Email,Closed,Low,1
+CW-01279,2026-10-06,Northern,Investment Scam,Business,2926.74,Email,Closed,Medium,18
+CW-01280,2026-07-03,Eastern,Social Engineering,Business,3498.98,Online,Open,High,17
+CW-01281,2025-06-14,Northern,Investment Scam,Business,1036.08,Online,Closed,Medium,25
+CW-01282,2025-07-30,Northern,Investment Scam,Business,3493.25,Online,Under Review,Low,21
+CW-01283,2027-01-20,Northern,Identity Misuse,Individual,0.0,Online,Under Review,Medium,30
+CW-01284,2025-05-29,Northern,Identity Misuse,Individual,2233.76,Online,Closed,Low,27
+CW-01285,2026-08-24,Eastern,Online Fraud,Business,3335.27,Online,Under Review,Low,26
+CW-01286,2026-03-28,Eastern,Social Engineering,Individual,0.0,Email,Closed,Low,15
+CW-01287,2025-09-16,Central,Investment Scam,Individual,0.0,Email,Closed,Low,5
+CW-01288,2025-12-31,Western,Identity Misuse,Business,4450.98,Email,Open,Low,24
+CW-01289,2025-09-29,Central,Online Fraud,Individual,3280.57,Email,Open,Medium,25
+CW-01290,2025-04-02,Eastern,Identity Misuse,Individual,2392.45,Online,Open,Medium,11
+CW-01291,2026-08-18,Central,Online Fraud,Business,2095.07,Online,Under Review,Medium,24
+CW-01292,2025-12-30,Western,Identity Misuse,Individual,184.82,Online,Closed,Low,16
+CW-01293,2027-01-06,Northern,Phishing,Business,944.9,Email,Closed,Low,17
+CW-01294,2025-09-17,Central,Investment Scam,Business,1059.55,Walk-in,Closed,High,17
+CW-01295,2025-04-23,Eastern,Social Engineering,Business,2107.57,Phone,Closed,High,21
+CW-01296,2025-10-25,Northern,Social Engineering,Individual,0.0,Online,Closed,Medium,18
+CW-01297,2026-12-07,Central,Investment Scam,Individual,3791.14,Online,Under Review,Low,26
+CW-01298,2026-11-19,Western,Investment Scam,Individual,1824.9,Phone,Closed,Low,19
+CW-01299,2026-11-30,Eastern,Identity Misuse,Business,1518.2,Email,Under Review,Low,0
+CW-01300,2025-09-16,Eastern,Identity Misuse,Business,0.0,Online,Closed,Low,7
+CW-01301,2026-11-12,Eastern,Phishing,Individual,4597.77,Email,Closed,Medium,27
+CW-01302,2026-08-27,Central,Investment Scam,Individual,1900.9,Phone,Closed,Low,15
+CW-01303,2026-02-20,Eastern,Social Engineering,Business,1649.98,Walk-in,Closed,Medium,7
+CW-01304,2025-08-24,Northern,Investment Scam,Individual,923.77,Online,Open,Low,29
+CW-01305,2025-02-26,Central,Online Fraud,Business,3312.03,Online,Closed,High,13
+CW-01306,2025-05-29,Eastern,Online Fraud,Business,2046.27,Walk-in,Open,Low,8
+CW-01307,2026-05-14,Central,Online Fraud,Business,1890.86,Walk-in,Closed,Low,22
+CW-01308,2026-02-16,Central,Social Engineering,Business,116.97,Email,Open,Critical,22
+CW-01309,2026-09-26,Western,Online Fraud,Business,3053.52,Phone,Open,Low,29
+CW-01310,2026-06-28,Northern,Social Engineering,Individual,2686.43,Walk-in,Open,Low,23
+CW-01311,2026-05-08,Western,Phishing,Business,1892.36,Phone,Open,Low,8
+CW-01312,2026-04-02,Northern,Social Engineering,Individual,3551.04,Walk-in,Closed,Low,8
+CW-01313,2025-10-01,Northern,Identity Misuse,Business,2143.29,Online,Closed,Medium,28
+CW-01314,2025-06-25,Central,Social Engineering,Business,3199.65,Online,Open,Medium,6
+CW-01315,2025-04-28,Northern,Investment Scam,Individual,0.0,Online,Open,Medium,19
+CW-01316,2025-02-04,Eastern,Online Fraud,Individual,400.48,Email,Open,Medium,9
+CW-01317,2026-05-27,Northern,Investment Scam,Individual,4651.46,Online,Under Review,Low,24
+CW-01318,2025-11-26,Eastern,Investment Scam,Business,2927.13,Phone,Open,Medium,13
+CW-01319,2026-12-15,Western,Identity Misuse,Business,3000.05,Email,Closed,Low,5
+CW-01320,2026-02-28,Eastern,Investment Scam,Individual,0.0,Walk-in,Under Review,Low,28
+CW-01321,2025-10-11,Western,Social Engineering,Business,2720.95,Walk-in,Closed,High,13
+CW-01322,2025-11-24,Northern,Online Fraud,Individual,1479.26,Online,Closed,Low,19
+CW-01323,2025-09-21,Central,Identity Misuse,Individual,1429.79,Phone,Under Review,Low,4
+CW-01324,2026-06-11,Northern,Phishing,Individual,240.08,Phone,Closed,Low,13
+CW-01325,2026-09-16,Central,Social Engineering,Business,3841.35,Online,Closed,Medium,4
+CW-01326,2025-03-26,Northern,Phishing,Individual,1350.52,Online,Open,Medium,22
+CW-01327,2025-10-04,Eastern,Identity Misuse,Business,3729.61,Walk-in,Open,Medium,18
+CW-01328,2025-06-14,Central,Online Fraud,Business,2206.79,Online,Closed,Low,0
+CW-01329,2026-12-24,Western,Phishing,Business,0.0,Walk-in,Closed,Low,30
+CW-01330,2025-12-15,Central,Investment Scam,Individual,747.73,Online,Under Review,Low,19
+CW-01331,2026-04-14,Western,Social Engineering,Business,2515.95,Walk-in,Under Review,Low,7
+CW-01332,2026-07-28,Central,Social Engineering,Business,496.0,Walk-in,Closed,Medium,28
+CW-01333,2025-09-12,Central,Online Fraud,Business,68.49,Walk-in,Closed,Critical,21
+CW-01334,2026-05-04,Northern,Phishing,Individual,1453.26,Email,Open,Medium,14
+CW-01335,2025-05-24,Central,Online Fraud,Individual,0.0,Walk-in,Open,High,12
+CW-01336,2026-11-03,Northern,Social Engineering,Individual,0.0,Phone,Under Review,Low,20
+CW-01337,2025-09-13,Eastern,Social Engineering,Individual,3282.92,Phone,Closed,Critical,3
+CW-01338,2025-10-28,Central,Social Engineering,Individual,2318.32,Email,Under Review,Medium,26
+CW-01339,2026-12-07,Northern,Phishing,Business,6941.3,Walk-in,Closed,Low,28
+CW-01340,2026-07-06,Northern,Social Engineering,Individual,3703.61,Email,Closed,Low,9
+CW-01341,2025-02-01,Central,Identity Misuse,Individual,2114.46,Phone,Closed,Low,12
+CW-01342,2025-04-17,Western,Online Fraud,Business,3896.91,Phone,Open,Low,6
+CW-01343,2025-06-14,Western,Online Fraud,Business,2638.08,Email,Closed,Medium,9
+CW-01344,2025-08-30,Western,Online Fraud,Individual,3214.36,Phone,Open,Critical,9
+CW-01345,2026-12-19,Western,Identity Misuse,Business,2650.29,Phone,Under Review,High,14
+CW-01346,2026-07-10,Central,Social Engineering,Individual,5902.09,Email,Open,High,11
+CW-01347,2025-10-24,Eastern,Social Engineering,Individual,475.11,Email,Under Review,Low,11
+CW-01348,2025-02-08,Eastern,Phishing,Business,1817.2,Email,Open,Critical,26
+CW-01349,2025-06-03,Northern,Investment Scam,Individual,1302.84,Phone,Under Review,Low,24
+CW-01350,2026-08-14,Eastern,Online Fraud,Business,1751.26,Email,Closed,Medium,18
+CW-01351,2025-07-12,Western,Social Engineering,Individual,3397.81,Email,Closed,Low,18
+CW-01352,2026-08-05,Western,Online Fraud,Business,1518.75,Email,Closed,Low,3
+CW-01353,2026-07-16,Eastern,Online Fraud,Business,3133.65,Online,Open,Low,29
+CW-01354,2026-07-20,Central,Investment Scam,Individual,1800.72,Walk-in,Closed,Medium,8
+CW-01355,2026-06-30,Western,Investment Scam,Business,1470.19,Phone,Under Review,High,22
+CW-01356,2026-07-12,Central,Investment Scam,Individual,4245.06,Walk-in,Closed,Medium,20
+CW-01357,2026-03-25,Central,Identity Misuse,Business,2884.69,Email,Under Review,Medium,30
+CW-01358,2025-10-02,Eastern,Phishing,Business,2368.79,Walk-in,Under Review,Low,19
+CW-01359,2025-05-01,Northern,Social Engineering,Business,1125.87,Phone,Under Review,High,28
+CW-01360,2025-02-10,Western,Investment Scam,Individual,1873.41,Email,Under Review,Low,21
+CW-01361,2025-08-02,Northern,Identity Misuse,Business,4438.08,Email,Open,High,15
+CW-01362,2025-01-22,Northern,Investment Scam,Business,573.04,Phone,Under Review,Low,15
+CW-01363,2025-05-06,Western,Phishing,Business,501.33,Phone,Open,Medium,22
+CW-01364,2026-03-22,Eastern,Identity Misuse,Business,4256.75,Phone,Under Review,Critical,11
+CW-01365,2025-05-05,Central,Investment Scam,Business,4175.02,Phone,Open,High,22
+CW-01366,2026-09-21,Central,Identity Misuse,Business,2848.14,Phone,Under Review,Medium,17
+CW-01367,2026-11-01,Central,Online Fraud,Business,750.52,Email,Under Review,Low,9
+CW-01368,2025-05-03,Northern,Social Engineering,Business,2483.51,Online,Under Review,Medium,4
+CW-01369,2025-03-08,Eastern,Identity Misuse,Business,1831.32,Email,Open,Medium,21
+CW-01370,2026-06-07,Eastern,Phishing,Individual,3243.59,Walk-in,Closed,Medium,12
+CW-01371,2027-01-11,Northern,Phishing,Individual,618.76,Online,Open,Medium,26
+CW-01372,2025-05-06,Northern,Social Engineering,Business,1667.47,Email,Under Review,Low,29
+CW-01373,2025-08-19,Eastern,Social Engineering,Business,2080.97,Online,Closed,Low,14
+CW-01374,2026-11-26,Central,Social Engineering,Individual,2494.74,Phone,Open,Low,22
+CW-01375,2026-09-05,Northern,Identity Misuse,Business,4519.86,Online,Under Review,Critical,17
+CW-01376,2025-10-07,Eastern,Phishing,Business,4665.51,Email,Under Review,Medium,22
+CW-01377,2027-01-27,Eastern,Social Engineering,Individual,1710.27,Online,Closed,High,28
+CW-01378,2025-02-09,Central,Identity Misuse,Individual,2976.42,Phone,Closed,Medium,15
+CW-01379,2026-10-27,Northern,Social Engineering,Individual,1582.6,Walk-in,Under Review,Medium,27
+CW-01380,2025-09-30,Eastern,Investment Scam,Business,1739.18,Email,Open,Low,19
+CW-01381,2026-04-11,Eastern,Online Fraud,Individual,3966.47,Online,Closed,Low,3
+CW-01382,2025-06-12,Central,Social Engineering,Business,1622.3,Email,Open,Low,30
+CW-01383,2026-01-01,Western,Investment Scam,Individual,4177.57,Online,Under Review,Low,23
+CW-01384,2026-06-13,Northern,Identity Misuse,Individual,447.22,Walk-in,Under Review,Critical,27
+CW-01385,2026-09-21,Central,Investment Scam,Individual,3228.57,Walk-in,Closed,Low,28
+CW-01386,2025-12-08,Western,Investment Scam,Business,4913.07,Online,Open,Medium,21
+CW-01387,2025-09-30,Central,Social Engineering,Individual,3597.85,Email,Under Review,Medium,21
+CW-01388,2025-02-08,Northern,Identity Misuse,Business,4381.78,Email,Under Review,Medium,27
+CW-01389,2026-12-20,Eastern,Social Engineering,Business,1694.19,Email,Under Review,Low,28
+CW-01390,2026-08-25,Central,Online Fraud,Individual,4358.52,Walk-in,Under Review,Medium,11
+CW-01391,2026-05-27,Central,Social Engineering,Individual,6566.19,Phone,Under Review,Medium,16
+CW-01392,2026-08-18,Central,Investment Scam,Business,2404.38,Walk-in,Under Review,Low,0
+CW-01393,2025-12-29,Northern,Phishing,Individual,2106.68,Email,Closed,Medium,13
+CW-01394,2025-02-27,Eastern,Investment Scam,Individual,2799.5,Phone,Under Review,Low,1
+CW-01395,2026-06-23,Central,Social Engineering,Business,1648.12,Online,Under Review,High,8
+CW-01396,2026-06-06,Eastern,Investment Scam,Business,2976.47,Phone,Under Review,Medium,0
+CW-01397,2025-09-24,Western,Phishing,Individual,3370.11,Phone,Under Review,Low,2
+CW-01398,2026-08-02,Eastern,Online Fraud,Individual,2636.95,Phone,Under Review,High,13
+CW-01399,2025-03-09,Northern,Investment Scam,Business,1708.01,Email,Closed,High,22
+CW-01400,2026-05-29,Eastern,Identity Misuse,Individual,4529.6,Walk-in,Under Review,Low,12
+CW-01401,2026-02-21,Northern,Identity Misuse,Business,3268.7,Email,Closed,Low,4
+CW-01402,2026-01-12,Central,Investment Scam,Business,3682.64,Walk-in,Open,Medium,24
+CW-01403,2026-02-17,Central,Investment Scam,Business,3322.1,Email,Under Review,Low,24
+CW-01404,2026-02-21,Eastern,Investment Scam,Individual,490.77,Email,Open,Low,23
+CW-01405,2025-06-02,Western,Social Engineering,Individual,4280.62,Phone,Under Review,Critical,3
+CW-01406,2025-12-31,Western,Investment Scam,Individual,1052.82,Online,Closed,High,0
+CW-01407,2025-10-01,Northern,Identity Misuse,Business,2075.27,Phone,Closed,Medium,6
+CW-01408,2026-08-01,Northern,Phishing,Individual,0.0,Phone,Under Review,Medium,11
+CW-01409,2025-06-09,Western,Investment Scam,Individual,5163.24,Email,Closed,Critical,0
+CW-01410,2025-01-20,Central,Social Engineering,Individual,281.21,Phone,Under Review,High,3
+CW-01411,2025-04-17,Western,Phishing,Business,6051.12,Email,Under Review,Low,10
+CW-01412,2026-08-13,Western,Investment Scam,Business,1933.35,Phone,Closed,Medium,9
+CW-01413,2026-03-30,Central,Investment Scam,Business,5540.2,Email,Under Review,Low,8
+CW-01414,2025-12-22,Central,Social Engineering,Individual,5589.88,Online,Under Review,Low,3
+CW-01415,2025-08-21,Eastern,Investment Scam,Business,2867.67,Walk-in,Under Review,Low,16
+CW-01416,2026-12-03,Central,Phishing,Individual,3590.19,Walk-in,Closed,Low,2
+CW-01417,2026-01-20,Eastern,Investment Scam,Business,1219.27,Phone,Closed,High,20
+CW-01418,2025-05-28,Eastern,Identity Misuse,Individual,1535.22,Online,Closed,Low,12
+CW-01419,2026-11-13,Eastern,Phishing,Individual,3951.96,Online,Open,Critical,16
+CW-01420,2025-04-13,Eastern,Social Engineering,Individual,3903.8,Email,Under Review,High,14
+CW-01421,2026-10-05,Northern,Social Engineering,Business,2625.55,Online,Under Review,Critical,5
+CW-01422,2026-02-25,Eastern,Identity Misuse,Individual,2823.4,Online,Under Review,Medium,23
+CW-01423,2026-02-07,Northern,Identity Misuse,Business,2997.68,Online,Open,Low,21
+CW-01424,2025-10-25,Eastern,Identity Misuse,Individual,156.01,Phone,Under Review,Low,10
+CW-01425,2026-12-12,Northern,Social Engineering,Individual,3792.59,Walk-in,Closed,Medium,9
+CW-01426,2025-01-16,Eastern,Social Engineering,Individual,1664.48,Online,Open,Medium,5
+CW-01427,2025-01-22,Eastern,Identity Misuse,Business,1811.96,Email,Closed,Low,19
+CW-01428,2026-11-18,Eastern,Phishing,Individual,3091.73,Phone,Closed,Medium,20
+CW-01429,2026-03-08,Western,Phishing,Individual,0.0,Online,Under Review,Low,20
+CW-01430,2026-10-20,Northern,Social Engineering,Individual,1537.41,Walk-in,Under Review,Low,22
+CW-01431,2025-08-05,Northern,Identity Misuse,Individual,1168.29,Online,Closed,Medium,5
+CW-01432,2026-05-01,Eastern,Online Fraud,Business,1210.48,Walk-in,Closed,Medium,23
+CW-01433,2025-12-16,Western,Phishing,Business,4189.74,Email,Closed,Low,25
+CW-01434,2026-07-30,Eastern,Social Engineering,Business,3660.46,Email,Open,Low,8
+CW-01435,2025-12-18,Western,Investment Scam,Business,3139.42,Email,Under Review,Medium,3
+CW-01436,2025-05-06,Central,Phishing,Individual,4017.23,Online,Closed,Medium,12
+CW-01437,2025-04-07,Western,Identity Misuse,Business,1488.54,Walk-in,Open,Low,28
+CW-01438,2026-02-13,Western,Social Engineering,Business,3720.36,Online,Closed,Low,25
+CW-01439,2026-10-06,Western,Identity Misuse,Individual,3794.06,Online,Closed,High,4
+CW-01440,2025-12-10,Northern,Investment Scam,Individual,0.0,Email,Under Review,Medium,7
+CW-01441,2025-09-30,Central,Phishing,Individual,1360.49,Phone,Under Review,High,1
+CW-01442,2026-09-29,Eastern,Online Fraud,Individual,3495.47,Walk-in,Open,Low,14
+CW-01443,2025-09-05,Central,Phishing,Business,5472.29,Online,Closed,High,27
+CW-01444,2026-05-21,Western,Identity Misuse,Individual,1833.28,Email,Open,Low,2
+CW-01445,2025-09-18,Northern,Identity Misuse,Business,3448.59,Phone,Open,High,15
+CW-01446,2026-12-11,Western,Phishing,Individual,1700.43,Phone,Closed,Low,11
+CW-01447,2025-01-30,Central,Social Engineering,Business,7414.6,Phone,Open,High,5
+CW-01448,2025-05-03,Eastern,Phishing,Individual,3310.04,Email,Open,High,27
+CW-01449,2025-10-20,Northern,Identity Misuse,Business,1742.96,Walk-in,Closed,Medium,11
+CW-01450,2025-08-21,Western,Investment Scam,Individual,2691.6,Walk-in,Open,High,20
+CW-01451,2025-08-08,Central,Identity Misuse,Business,1155.0,Email,Closed,Medium,6
+CW-01452,2026-08-28,Eastern,Online Fraud,Individual,0.0,Phone,Open,Medium,2
+CW-01453,2025-05-22,Central,Social Engineering,Individual,1316.31,Phone,Open,Low,16
+CW-01454,2026-07-24,Northern,Investment Scam,Business,2776.86,Online,Open,Medium,9
+CW-01455,2025-02-14,Western,Investment Scam,Individual,2636.75,Walk-in,Open,Critical,29
+CW-01456,2025-02-14,Eastern,Identity Misuse,Individual,3682.31,Email,Under Review,Low,20
+CW-01457,2026-02-10,Eastern,Identity Misuse,Individual,3266.17,Email,Under Review,Low,17
+CW-01458,2025-05-05,Western,Phishing,Individual,114.01,Phone,Closed,Critical,13
+CW-01459,2025-01-27,Eastern,Online Fraud,Business,1049.68,Email,Open,Medium,14
+CW-01460,2025-07-08,Western,Identity Misuse,Business,4272.34,Email,Open,Low,21
+CW-01461,2026-03-15,Central,Identity Misuse,Individual,1550.01,Email,Under Review,High,30
+CW-01462,2026-07-04,Northern,Investment Scam,Business,5468.77,Online,Open,High,29
+CW-01463,2025-02-06,Central,Online Fraud,Individual,3780.09,Online,Closed,High,21
+CW-01464,2025-10-09,Central,Phishing,Individual,0.0,Walk-in,Under Review,Low,17
+CW-01465,2025-07-03,Northern,Online Fraud,Business,2533.77,Email,Closed,Low,21
+CW-01466,2025-02-02,Northern,Investment Scam,Individual,0.0,Walk-in,Under Review,Medium,27
+CW-01467,2025-11-12,Central,Investment Scam,Individual,3097.09,Email,Open,Low,21
+CW-01468,2025-11-04,Northern,Phishing,Individual,4979.12,Phone,Closed,Low,14
+CW-01469,2026-11-26,Eastern,Phishing,Individual,1722.1,Email,Under Review,Medium,12
+CW-01470,2026-05-01,Western,Social Engineering,Business,3392.01,Online,Closed,Critical,21
+CW-01471,2025-04-22,Central,Phishing,Business,3100.72,Phone,Open,Low,21
+CW-01472,2025-03-28,Eastern,Investment Scam,Individual,2455.49,Walk-in,Closed,Medium,29
+CW-01473,2026-01-16,Central,Online Fraud,Individual,1481.2,Email,Under Review,Low,10
+CW-01474,2025-07-14,Northern,Phishing,Business,1092.99,Email,Closed,Low,4
+CW-01475,2026-05-07,Western,Phishing,Individual,5393.27,Online,Under Review,High,17
+CW-01476,2026-06-20,Northern,Social Engineering,Individual,2569.79,Phone,Under Review,High,16
+CW-01477,2026-04-19,Western,Phishing,Business,4470.67,Phone,Open,Low,0
+CW-01478,2025-04-05,Eastern,Phishing,Business,2476.79,Walk-in,Open,Low,30
+CW-01479,2025-08-03,Central,Identity Misuse,Individual,1432.21,Walk-in,Under Review,Medium,29
+CW-01480,2026-02-19,Central,Phishing,Business,2304.84,Email,Under Review,High,7
+CW-01481,2025-09-16,Western,Phishing,Individual,679.94,Online,Open,Medium,22
+CW-01482,2026-09-23,Northern,Investment Scam,Individual,1393.67,Online,Closed,High,1
+CW-01483,2026-08-05,Western,Phishing,Business,941.17,Email,Closed,Low,19
+CW-01484,2025-07-13,Central,Investment Scam,Business,3726.97,Phone,Under Review,Low,1
+CW-01485,2026-08-01,Central,Identity Misuse,Business,2202.73,Email,Closed,High,27
+CW-01486,2026-12-10,Central,Identity Misuse,Business,3599.91,Online,Closed,High,21
+CW-01487,2025-12-02,Western,Identity Misuse,Individual,1153.51,Walk-in,Under Review,Low,14
+CW-01488,2025-06-29,Eastern,Online Fraud,Business,1543.77,Phone,Under Review,Low,2
+CW-01489,2025-08-02,Northern,Identity Misuse,Individual,4140.54,Email,Under Review,Medium,20
+CW-01490,2025-05-20,Western,Phishing,Individual,7140.14,Email,Closed,Medium,23
+CW-01491,2026-06-22,Central,Phishing,Business,4109.39,Online,Closed,Medium,20
+CW-01492,2026-05-13,Northern,Identity Misuse,Business,1219.9,Online,Closed,Low,28
+CW-01493,2026-05-05,Eastern,Phishing,Individual,6407.07,Email,Under Review,Low,20
+CW-01494,2026-02-17,Eastern,Online Fraud,Business,3093.31,Email,Open,Critical,16
+CW-01495,2025-08-25,Northern,Identity Misuse,Individual,0.0,Phone,Under Review,Medium,13
+CW-01496,2025-01-21,Eastern,Social Engineering,Business,728.75,Walk-in,Closed,Medium,18
+CW-01497,2026-05-10,Northern,Investment Scam,Business,3839.78,Online,Under Review,Low,0
+CW-01498,2025-02-26,Central,Phishing,Business,3462.84,Online,Under Review,Low,11
+CW-01499,2026-10-27,Western,Phishing,Individual,1943.01,Walk-in,Closed,Low,16
+CW-01500,2026-02-10,Western,Investment Scam,Individual,2475.75,Phone,Under Review,High,11
+CW-01501,2026-09-18,Western,Social Engineering,Business,5647.05,Email,Closed,High,4
+CW-01502,2026-04-22,Central,Identity Misuse,Business,4786.69,Email,Closed,Medium,29
+CW-01503,2025-12-25,Northern,Social Engineering,Business,3167.34,Email,Closed,Medium,30
+CW-01504,2025-07-14,Northern,Investment Scam,Individual,3776.08,Walk-in,Open,Medium,13
+CW-01505,2026-10-06,Western,Social Engineering,Individual,1409.84,Phone,Under Review,Critical,2
+CW-01506,2025-10-07,Central,Investment Scam,Individual,1183.57,Walk-in,Closed,High,8
+CW-01507,2025-05-07,Northern,Phishing,Individual,3365.79,Phone,Open,Critical,8
+CW-01508,2025-12-28,Western,Online Fraud,Individual,656.47,Phone,Open,Low,7
+CW-01509,2026-10-12,Northern,Phishing,Business,1145.91,Online,Open,Medium,18
+CW-01510,2025-05-13,Eastern,Phishing,Business,2191.18,Online,Open,Low,24
+CW-01511,2025-10-24,Central,Social Engineering,Individual,1760.44,Online,Under Review,High,24
+CW-01512,2025-11-12,Eastern,Online Fraud,Individual,2635.42,Walk-in,Closed,Critical,0
+CW-01513,2025-08-18,Eastern,Social Engineering,Business,3462.56,Phone,Closed,High,29
+CW-01514,2025-09-03,Eastern,Phishing,Individual,5326.0,Online,Under Review,Low,12
+CW-01515,2026-07-02,Central,Social Engineering,Individual,0.0,Email,Closed,Medium,9
+CW-01516,2025-09-18,Northern,Identity Misuse,Individual,1554.13,Email,Closed,Medium,15
+CW-01517,2025-07-15,Eastern,Online Fraud,Business,3593.55,Phone,Open,Low,24
+CW-01518,2025-09-26,Eastern,Online Fraud,Business,4808.92,Email,Closed,High,0
+CW-01519,2025-07-12,Western,Investment Scam,Individual,2158.34,Online,Open,Low,19
+CW-01520,2026-12-15,Eastern,Online Fraud,Business,1089.98,Phone,Open,High,17
+CW-01521,2025-03-01,Northern,Investment Scam,Business,0.0,Walk-in,Under Review,Medium,14
+CW-01522,2026-05-20,Eastern,Online Fraud,Business,2180.16,Email,Under Review,Medium,0
+CW-01523,2026-05-08,Western,Investment Scam,Business,1444.45,Online,Closed,Medium,4
+CW-01524,2027-01-03,Central,Online Fraud,Business,3461.43,Phone,Closed,High,27
+CW-01525,2025-08-11,Central,Phishing,Business,3365.61,Email,Closed,Medium,29
+CW-01526,2026-05-19,Eastern,Investment Scam,Business,2232.97,Phone,Under Review,High,30
+CW-01527,2026-04-26,Eastern,Investment Scam,Business,352.62,Online,Open,High,15
+CW-01528,2025-01-23,Western,Identity Misuse,Business,3062.46,Online,Under Review,Critical,14
+CW-01529,2026-08-13,Eastern,Social Engineering,Business,3462.92,Phone,Closed,Medium,21
+CW-01530,2026-11-30,Western,Social Engineering,Individual,2094.6,Email,Closed,Critical,1
+CW-01531,2025-11-12,Central,Online Fraud,Business,5854.83,Walk-in,Closed,Medium,12
+CW-01532,2026-01-03,Central,Online Fraud,Business,3035.9,Walk-in,Open,Low,14
+CW-01533,2025-05-25,Northern,Social Engineering,Individual,4436.43,Online,Open,Low,17
+CW-01534,2025-09-09,Western,Online Fraud,Business,1731.55,Online,Open,Low,12
+CW-01535,2025-12-24,Central,Social Engineering,Business,2407.06,Online,Closed,Critical,23
+CW-01536,2025-07-12,Western,Social Engineering,Business,3793.86,Email,Closed,High,14
+CW-01537,2026-04-12,Central,Online Fraud,Business,3293.78,Email,Under Review,Low,22
+CW-01538,2026-10-03,Western,Phishing,Individual,3099.37,Phone,Open,Low,12
+CW-01539,2026-12-25,Northern,Phishing,Individual,2366.63,Email,Under Review,Medium,10
+CW-01540,2026-05-04,Eastern,Social Engineering,Individual,1466.91,Email,Under Review,Critical,18
+CW-01541,2025-06-17,Eastern,Identity Misuse,Business,5538.95,Email,Under Review,Low,21
+CW-01542,2026-03-24,Central,Phishing,Individual,2139.91,Online,Under Review,Low,29
+CW-01543,2025-02-06,Central,Phishing,Individual,489.81,Walk-in,Under Review,Low,23
+CW-01544,2025-02-09,Northern,Identity Misuse,Individual,1771.48,Phone,Open,Critical,26
+CW-01545,2025-04-04,Eastern,Online Fraud,Individual,3659.54,Phone,Closed,Low,11
+CW-01546,2026-02-22,Western,Investment Scam,Individual,4910.11,Phone,Under Review,Medium,23
+CW-01547,2026-10-16,Eastern,Social Engineering,Business,916.63,Email,Closed,Low,6
+CW-01548,2026-09-13,Western,Social Engineering,Individual,3950.23,Walk-in,Open,Low,0
+CW-01549,2025-10-25,Eastern,Investment Scam,Individual,1923.51,Phone,Closed,High,12
+CW-01550,2026-12-13,Eastern,Investment Scam,Individual,1747.22,Walk-in,Closed,Critical,13
+CW-01551,2025-04-06,Northern,Investment Scam,Individual,3535.38,Phone,Under Review,Medium,19
+CW-01552,2025-11-07,Northern,Online Fraud,Individual,0.0,Online,Under Review,Low,1
+CW-01553,2025-11-09,Northern,Investment Scam,Individual,3249.04,Email,Under Review,High,7
+CW-01554,2026-06-05,Central,Investment Scam,Business,1990.43,Phone,Under Review,Low,18
+CW-01555,2026-03-21,Eastern,Phishing,Individual,146.44,Phone,Under Review,Low,6
+CW-01556,2025-02-07,Northern,Online Fraud,Business,3265.32,Email,Closed,Low,14
+CW-01557,2025-08-03,Northern,Social Engineering,Business,4045.37,Phone,Open,Medium,7
+CW-01558,2026-04-08,Central,Online Fraud,Business,1929.94,Online,Under Review,Critical,16
+CW-01559,2025-04-15,Central,Online Fraud,Business,1018.2,Email,Closed,Medium,7
+CW-01560,2026-08-03,Central,Online Fraud,Individual,3584.56,Walk-in,Under Review,High,1
+CW-01561,2026-10-08,Western,Online Fraud,Business,2968.93,Online,Closed,Critical,13
+CW-01562,2026-04-15,Western,Identity Misuse,Individual,2778.49,Walk-in,Open,Low,6
+CW-01563,2025-07-26,Eastern,Online Fraud,Business,447.73,Email,Open,Medium,13
+CW-01564,2025-02-13,Eastern,Social Engineering,Individual,2052.84,Phone,Under Review,Medium,3
+CW-01565,2026-06-28,Central,Investment Scam,Business,1549.22,Email,Under Review,Medium,25
+CW-01566,2025-10-27,Eastern,Investment Scam,Business,2212.11,Walk-in,Closed,Medium,19
+CW-01567,2026-03-27,Eastern,Social Engineering,Individual,1385.27,Walk-in,Open,Low,19
+CW-01568,2026-09-22,Central,Phishing,Business,480.35,Walk-in,Under Review,Critical,19
+CW-01569,2025-07-15,Northern,Online Fraud,Business,0.0,Phone,Closed,Low,19
+CW-01570,2026-04-11,Western,Identity Misuse,Individual,2294.52,Walk-in,Under Review,Medium,5
+CW-01571,2026-08-17,Western,Phishing,Individual,4026.57,Online,Closed,High,7
+CW-01572,2025-02-11,Northern,Identity Misuse,Individual,0.0,Email,Closed,Medium,3
+CW-01573,2026-06-26,Central,Online Fraud,Business,1622.6,Online,Closed,High,17
+CW-01574,2026-06-05,Northern,Identity Misuse,Individual,2881.21,Walk-in,Under Review,Medium,20
+CW-01575,2025-04-16,Eastern,Identity Misuse,Business,3266.52,Email,Closed,Medium,7
+CW-01576,2025-09-19,Central,Investment Scam,Business,2379.55,Walk-in,Open,Low,23
+CW-01577,2025-03-19,Western,Investment Scam,Business,3323.24,Online,Open,High,6
+CW-01578,2026-09-05,Western,Identity Misuse,Individual,4408.74,Email,Open,Low,22
+CW-01579,2025-01-10,Central,Identity Misuse,Business,1572.45,Email,Open,Low,8
+CW-01580,2025-07-20,Northern,Social Engineering,Individual,1307.66,Email,Closed,Low,26
+CW-01581,2026-09-24,Central,Identity Misuse,Individual,311.86,Email,Closed,Low,0
+CW-01582,2025-10-13,Northern,Online Fraud,Business,2852.7,Phone,Open,Low,24
+CW-01583,2025-10-25,Western,Investment Scam,Individual,2841.42,Walk-in,Under Review,Medium,1
+CW-01584,2027-01-07,Northern,Online Fraud,Business,3367.43,Online,Closed,Medium,22
+CW-01585,2025-02-14,Northern,Social Engineering,Individual,2267.05,Phone,Closed,Medium,0
+CW-01586,2026-03-22,Central,Identity Misuse,Business,1756.17,Phone,Closed,Medium,4
+CW-01587,2026-02-09,Western,Social Engineering,Business,0.0,Online,Under Review,High,0
+CW-01588,2025-03-18,Central,Investment Scam,Business,596.53,Walk-in,Under Review,Medium,0
+CW-01589,2026-09-01,Northern,Identity Misuse,Individual,0.0,Online,Closed,High,10
+CW-01590,2026-03-04,Eastern,Identity Misuse,Business,3974.09,Walk-in,Closed,Low,27
+CW-01591,2025-11-26,Central,Phishing,Individual,2918.97,Phone,Under Review,Low,13
+CW-01592,2027-01-10,Central,Investment Scam,Business,2228.75,Email,Closed,Medium,15
+CW-01593,2025-05-08,Northern,Online Fraud,Individual,4506.99,Phone,Under Review,Medium,20
+CW-01594,2026-01-18,Eastern,Phishing,Business,1984.14,Online,Open,Medium,25
+CW-01595,2026-11-09,Western,Social Engineering,Business,466.44,Walk-in,Closed,Low,17
+CW-01596,2025-03-04,Western,Social Engineering,Business,713.18,Walk-in,Under Review,Medium,13
+CW-01597,2025-12-09,Central,Online Fraud,Business,2006.03,Email,Under Review,Medium,29
+CW-01598,2025-03-09,Northern,Social Engineering,Individual,3176.14,Phone,Open,Medium,0
+CW-01599,2026-10-09,Western,Phishing,Business,2893.75,Phone,Under Review,High,4
+CW-01600,2025-10-25,Central,Online Fraud,Business,1323.75,Phone,Under Review,High,7
+CW-01601,2026-04-10,Western,Social Engineering,Individual,3635.55,Online,Closed,Medium,3
+CW-01602,2026-07-15,Western,Phishing,Individual,2121.06,Email,Under Review,High,2
+CW-01603,2026-10-21,Eastern,Phishing,Business,0.0,Walk-in,Closed,High,2
+CW-01604,2025-08-28,Eastern,Investment Scam,Individual,1266.19,Online,Open,Medium,27
+CW-01605,2026-08-18,Eastern,Phishing,Business,1002.3,Email,Open,Critical,11
+CW-01606,2026-12-21,Northern,Identity Misuse,Individual,0.37,Phone,Closed,Low,23
+CW-01607,2025-02-19,Western,Identity Misuse,Business,2856.6,Walk-in,Open,Low,27
+CW-01608,2025-09-04,Eastern,Social Engineering,Business,2184.19,Online,Under Review,Low,3
+CW-01609,2025-02-06,Eastern,Identity Misuse,Business,2168.91,Email,Under Review,Low,14
+CW-01610,2025-03-07,Eastern,Identity Misuse,Individual,500.98,Walk-in,Under Review,Low,28
+CW-01611,2025-03-12,Northern,Investment Scam,Business,1851.04,Phone,Under Review,Low,3
+CW-01612,2026-03-25,Western,Identity Misuse,Business,5778.6,Walk-in,Open,Medium,6
+CW-01613,2025-09-13,Eastern,Phishing,Business,3871.12,Walk-in,Open,Medium,26
+CW-01614,2026-07-12,Western,Social Engineering,Individual,1019.43,Walk-in,Open,High,21
+CW-01615,2025-10-22,Western,Phishing,Business,1442.33,Online,Open,Medium,29
+CW-01616,2025-05-26,Central,Identity Misuse,Individual,475.59,Email,Closed,Low,4
+CW-01617,2026-06-16,Western,Phishing,Business,3012.34,Walk-in,Under Review,High,1
+CW-01618,2026-06-16,Central,Social Engineering,Individual,3091.19,Walk-in,Open,Low,25
+CW-01619,2026-03-17,Central,Identity Misuse,Individual,285.01,Phone,Closed,Low,6
+CW-01620,2027-01-09,Central,Identity Misuse,Business,4086.7,Walk-in,Closed,Medium,15
+CW-01621,2026-09-14,Western,Identity Misuse,Business,1203.57,Email,Open,Medium,12
+CW-01622,2026-08-10,Eastern,Online Fraud,Business,4203.43,Online,Closed,Medium,20
+CW-01623,2025-06-16,Central,Investment Scam,Business,4155.46,Online,Under Review,Critical,0
+CW-01624,2026-11-03,Western,Social Engineering,Individual,2764.86,Online,Under Review,High,26
+CW-01625,2025-07-20,Northern,Investment Scam,Business,2692.68,Email,Open,Low,11
+CW-01626,2026-05-31,Central,Investment Scam,Business,1613.04,Phone,Closed,Low,17
+CW-01627,2026-10-06,Central,Online Fraud,Business,3326.77,Walk-in,Open,Low,19
+CW-01628,2026-05-30,Northern,Social Engineering,Individual,2334.8,Phone,Closed,Medium,22
+CW-01629,2026-03-02,Eastern,Identity Misuse,Business,1856.7,Email,Under Review,Low,3
+CW-01630,2026-01-11,Northern,Investment Scam,Individual,3711.59,Online,Open,Medium,25
+CW-01631,2027-01-08,Eastern,Phishing,Business,1784.49,Email,Open,Low,21
+CW-01632,2026-08-01,Eastern,Social Engineering,Business,3716.29,Phone,Closed,Medium,23
+CW-01633,2025-03-19,Central,Phishing,Individual,2113.09,Email,Open,Low,7
+CW-01634,2026-01-29,Northern,Social Engineering,Individual,5513.1,Online,Closed,Medium,14
+CW-01635,2025-07-25,Central,Identity Misuse,Business,5790.17,Phone,Under Review,Medium,5
+CW-01636,2026-05-22,Central,Online Fraud,Individual,3933.56,Phone,Closed,Critical,17
+CW-01637,2025-03-12,Northern,Investment Scam,Individual,1615.83,Online,Open,Low,28
+CW-01638,2025-07-27,Eastern,Social Engineering,Business,3118.73,Email,Under Review,Low,23
+CW-01639,2025-07-28,Northern,Phishing,Business,1928.84,Walk-in,Under Review,Low,13
+CW-01640,2027-01-17,Eastern,Social Engineering,Business,2587.59,Email,Under Review,Medium,21
+CW-01641,2026-04-12,Eastern,Investment Scam,Business,3093.87,Online,Under Review,High,4
+CW-01642,2025-06-21,Northern,Identity Misuse,Individual,2324.24,Phone,Open,Medium,3
+CW-01643,2026-04-01,Western,Social Engineering,Business,3164.94,Walk-in,Under Review,High,15
+CW-01644,2026-01-06,Eastern,Social Engineering,Business,2773.16,Walk-in,Under Review,Low,14
+CW-01645,2026-02-10,Western,Phishing,Business,5678.86,Online,Closed,Low,25
+CW-01646,2025-09-26,Central,Online Fraud,Individual,512.63,Email,Open,Low,21
+CW-01647,2025-07-28,Eastern,Social Engineering,Individual,3358.13,Email,Closed,Medium,10
+CW-01648,2025-03-12,Northern,Online Fraud,Individual,5110.32,Email,Under Review,Low,12
+CW-01649,2026-09-29,Western,Social Engineering,Business,3466.78,Online,Open,Low,12
+CW-01650,2026-03-01,Central,Social Engineering,Business,1644.3,Email,Under Review,Low,13
+CW-01651,2025-01-23,Western,Investment Scam,Individual,3498.0,Online,Under Review,Medium,6
+CW-01652,2026-05-09,Western,Phishing,Individual,5814.41,Phone,Under Review,Low,5
+CW-01653,2025-04-05,Western,Online Fraud,Business,4010.96,Walk-in,Under Review,Low,13
+CW-01654,2026-07-06,Northern,Online Fraud,Business,2535.08,Walk-in,Open,Low,0
+CW-01655,2026-02-21,Western,Online Fraud,Individual,3474.41,Walk-in,Closed,Medium,10
+CW-01656,2025-02-11,Northern,Social Engineering,Individual,1476.48,Phone,Open,Medium,29
+CW-01657,2025-07-28,Eastern,Online Fraud,Individual,2436.61,Email,Under Review,Medium,11
+CW-01658,2026-11-15,Central,Online Fraud,Business,2082.36,Phone,Open,Low,15
+CW-01659,2026-07-05,Central,Online Fraud,Business,2330.26,Email,Open,Low,20
+CW-01660,2026-01-21,Central,Online Fraud,Individual,1667.09,Online,Under Review,Medium,6
+CW-01661,2026-08-18,Eastern,Investment Scam,Individual,3827.27,Online,Open,Medium,24
+CW-01662,2025-03-17,Western,Investment Scam,Individual,682.24,Online,Closed,Low,30
+CW-01663,2026-04-24,Western,Online Fraud,Business,0.0,Email,Open,High,9
+CW-01664,2026-10-23,Western,Online Fraud,Business,3072.71,Phone,Under Review,Low,20
+CW-01665,2026-10-08,Western,Investment Scam,Business,3493.46,Walk-in,Closed,Medium,21
+CW-01666,2026-07-08,Northern,Social Engineering,Business,2557.07,Phone,Closed,Medium,11
+CW-01667,2026-10-17,Western,Online Fraud,Individual,1208.53,Walk-in,Closed,Medium,10
+CW-01668,2025-08-23,Central,Social Engineering,Business,1216.64,Phone,Under Review,Medium,12
+CW-01669,2026-07-11,Central,Phishing,Business,0.0,Online,Open,Low,25
+CW-01670,2025-05-27,Northern,Identity Misuse,Individual,2647.95,Online,Under Review,Medium,20
+CW-01671,2026-02-10,Northern,Investment Scam,Individual,4248.03,Online,Under Review,Medium,8
+CW-01672,2027-01-08,Western,Social Engineering,Business,2377.98,Walk-in,Closed,High,29
+CW-01673,2026-02-04,Western,Phishing,Individual,4666.39,Email,Open,Low,14
+CW-01674,2026-12-20,Central,Social Engineering,Individual,347.78,Walk-in,Under Review,Critical,4
+CW-01675,2026-06-24,Central,Online Fraud,Business,0.0,Phone,Under Review,Medium,11
+CW-01676,2025-05-26,Western,Phishing,Individual,3146.51,Online,Closed,Medium,11
+CW-01677,2025-02-15,Western,Social Engineering,Individual,1450.6,Email,Under Review,Medium,2
+CW-01678,2026-04-19,Eastern,Identity Misuse,Individual,2185.94,Email,Open,High,2
+CW-01679,2026-04-16,Central,Investment Scam,Business,3791.63,Email,Open,Low,25
+CW-01680,2025-12-13,Northern,Online Fraud,Individual,3218.44,Email,Closed,Medium,17
+CW-01681,2025-07-18,Eastern,Social Engineering,Individual,3155.18,Online,Open,Low,19
+CW-01682,2026-03-25,Central,Social Engineering,Business,992.28,Online,Closed,Low,10
+CW-01683,2025-05-06,Eastern,Phishing,Business,6195.34,Phone,Closed,High,11
+CW-01684,2026-11-30,Western,Social Engineering,Business,2336.64,Online,Open,Low,29
+CW-01685,2026-06-28,Central,Identity Misuse,Individual,3544.09,Email,Open,Low,9
+CW-01686,2025-08-23,Western,Social Engineering,Business,0.0,Online,Under Review,Low,15
+CW-01687,2026-06-15,Northern,Phishing,Individual,4412.03,Phone,Closed,Critical,10
+CW-01688,2025-09-02,Northern,Social Engineering,Business,796.55,Email,Open,Low,10
+CW-01689,2025-12-15,Eastern,Online Fraud,Individual,2026.86,Phone,Under Review,Low,18
+CW-01690,2025-09-04,Eastern,Phishing,Individual,769.96,Walk-in,Under Review,Low,4
+CW-01691,2025-11-09,Western,Social Engineering,Business,2029.3,Walk-in,Closed,Low,25
+CW-01692,2026-03-21,Eastern,Phishing,Business,970.17,Walk-in,Under Review,Medium,25
+CW-01693,2025-12-21,Central,Investment Scam,Business,1296.62,Walk-in,Closed,Low,29
+CW-01694,2026-02-17,Western,Investment Scam,Individual,90.29,Walk-in,Open,Low,4
+CW-01695,2026-09-15,Eastern,Identity Misuse,Individual,3984.92,Walk-in,Closed,Critical,6
+CW-01696,2025-12-12,Northern,Identity Misuse,Individual,2567.82,Phone,Closed,High,9
+CW-01697,2025-03-05,Western,Online Fraud,Individual,5555.82,Phone,Open,Low,2
+CW-01698,2026-11-14,Western,Social Engineering,Individual,2720.62,Email,Under Review,Low,22
+CW-01699,2025-06-17,Northern,Social Engineering,Business,2792.45,Online,Under Review,High,17
+CW-01700,2026-09-07,Central,Identity Misuse,Business,1892.55,Walk-in,Open,Low,24
+CW-01701,2026-10-08,Eastern,Social Engineering,Business,2115.0,Phone,Closed,Critical,25
+CW-01702,2025-07-08,Eastern,Investment Scam,Business,1828.48,Online,Under Review,Medium,19
+CW-01703,2026-11-08,Western,Online Fraud,Business,2886.34,Online,Under Review,Low,0
+CW-01704,2026-01-20,Central,Investment Scam,Business,4949.16,Email,Open,High,3
+CW-01705,2026-05-07,Western,Investment Scam,Business,2710.87,Phone,Open,Low,27
+CW-01706,2026-05-23,Western,Identity Misuse,Individual,1870.35,Email,Open,Critical,5
+CW-01707,2025-03-25,Western,Phishing,Business,4965.29,Online,Closed,Low,1
+CW-01708,2026-03-07,Northern,Online Fraud,Individual,2984.46,Walk-in,Under Review,Low,12
+CW-01709,2026-05-05,Western,Identity Misuse,Business,3616.46,Walk-in,Open,High,2
+CW-01710,2025-06-04,Northern,Identity Misuse,Individual,4091.88,Walk-in,Under Review,High,13
+CW-01711,2026-12-21,Northern,Social Engineering,Business,2868.3,Walk-in,Closed,Medium,18
+CW-01712,2026-02-18,Western,Phishing,Individual,2384.66,Email,Closed,Low,27
+CW-01713,2025-06-13,Eastern,Investment Scam,Business,2578.69,Email,Open,Medium,24
+CW-01714,2026-01-11,Northern,Social Engineering,Individual,3669.74,Online,Closed,Low,20
+CW-01715,2026-02-06,Western,Online Fraud,Individual,2529.03,Online,Under Review,High,20
+CW-01716,2025-11-29,Western,Social Engineering,Individual,3898.81,Phone,Under Review,High,2
+CW-01717,2025-02-01,Western,Social Engineering,Individual,959.24,Online,Closed,High,22
+CW-01718,2026-02-03,Central,Social Engineering,Individual,3024.43,Email,Closed,Medium,8
+CW-01719,2025-07-30,Northern,Investment Scam,Business,4384.3,Email,Closed,Low,4
+CW-01720,2026-11-17,Eastern,Phishing,Business,4281.57,Phone,Under Review,Medium,2
+CW-01721,2027-01-13,Eastern,Phishing,Individual,617.56,Email,Under Review,Medium,18
+CW-01722,2025-11-13,Central,Identity Misuse,Business,3296.56,Email,Open,Low,19
+CW-01723,2025-12-18,Northern,Online Fraud,Business,3071.24,Email,Closed,Low,18
+CW-01724,2026-11-26,Western,Online Fraud,Business,4514.08,Phone,Under Review,Low,25
+CW-01725,2025-11-03,Central,Online Fraud,Business,3599.3,Walk-in,Open,Medium,3
+CW-01726,2026-12-05,Eastern,Social Engineering,Individual,1730.01,Online,Under Review,High,17
+CW-01727,2026-03-10,Northern,Identity Misuse,Business,982.33,Email,Under Review,Medium,4
+CW-01728,2026-04-04,Central,Identity Misuse,Individual,2007.9,Online,Open,Medium,22
+CW-01729,2026-02-16,Northern,Online Fraud,Individual,4623.87,Phone,Closed,Medium,30
+CW-01730,2026-11-23,Northern,Investment Scam,Individual,1709.66,Walk-in,Under Review,Low,7
+CW-01731,2026-03-31,Central,Identity Misuse,Individual,2566.83,Walk-in,Closed,Medium,6
+CW-01732,2026-10-04,Western,Identity Misuse,Business,450.83,Online,Open,Low,2
+CW-01733,2025-08-26,Northern,Investment Scam,Individual,2698.0,Walk-in,Under Review,Low,27
+CW-01734,2026-11-25,Northern,Online Fraud,Individual,2421.86,Online,Closed,Low,16
+CW-01735,2025-06-27,Central,Online Fraud,Business,1966.15,Phone,Closed,High,20
+CW-01736,2025-10-13,Northern,Social Engineering,Individual,4254.47,Email,Closed,Low,11
+CW-01737,2026-09-26,Eastern,Investment Scam,Business,3598.37,Walk-in,Closed,High,21
+CW-01738,2026-01-12,Northern,Social Engineering,Individual,4258.02,Walk-in,Under Review,Low,2
+CW-01739,2025-05-12,Western,Social Engineering,Business,1393.37,Phone,Closed,Medium,18
+CW-01740,2025-08-02,Eastern,Investment Scam,Individual,0.0,Phone,Closed,Low,1
+CW-01741,2025-06-02,Northern,Online Fraud,Business,1999.78,Email,Under Review,High,16
+CW-01742,2025-09-13,Eastern,Online Fraud,Business,369.88,Online,Closed,Medium,13
+CW-01743,2026-08-29,Northern,Investment Scam,Business,3255.22,Email,Closed,Low,7
+CW-01744,2025-03-29,Western,Online Fraud,Business,3604.98,Walk-in,Open,Medium,7
+CW-01745,2026-01-04,Western,Phishing,Individual,1018.0,Phone,Under Review,Low,8
+CW-01746,2025-05-20,Eastern,Investment Scam,Individual,2279.21,Online,Under Review,Medium,28
+CW-01747,2025-02-17,Northern,Identity Misuse,Business,755.59,Phone,Closed,Low,30
+CW-01748,2026-10-29,Northern,Social Engineering,Business,1963.88,Online,Open,Medium,26
+CW-01749,2026-11-08,Western,Online Fraud,Business,3500.6,Email,Closed,Low,0
+CW-01750,2025-04-27,Eastern,Phishing,Individual,182.42,Phone,Under Review,Low,14
+CW-01751,2025-09-13,Northern,Identity Misuse,Individual,2678.12,Online,Open,Low,21
+CW-01752,2026-10-27,Eastern,Phishing,Business,1230.85,Online,Under Review,Low,17
+CW-01753,2026-04-29,Western,Identity Misuse,Individual,3567.42,Phone,Under Review,Low,16
+CW-01754,2026-02-15,Western,Identity Misuse,Business,3102.6,Online,Open,Medium,17
+CW-01755,2025-09-09,Eastern,Phishing,Individual,174.67,Online,Open,Medium,24
+CW-01756,2025-02-11,Northern,Phishing,Individual,3906.14,Walk-in,Open,Medium,19
+CW-01757,2025-05-07,Eastern,Phishing,Individual,4255.12,Online,Under Review,Low,6
+CW-01758,2025-09-19,Northern,Online Fraud,Business,2092.66,Phone,Under Review,High,8
+CW-01759,2025-09-10,Western,Online Fraud,Individual,0.0,Walk-in,Open,Low,23
+CW-01760,2026-01-24,Central,Identity Misuse,Individual,1397.89,Online,Under Review,Low,11
+CW-01761,2026-08-13,Western,Phishing,Individual,1329.02,Email,Closed,Low,19
+CW-01762,2025-09-15,Eastern,Social Engineering,Business,2104.72,Online,Closed,Low,29
+CW-01763,2026-10-11,Central,Phishing,Business,2825.03,Walk-in,Under Review,Medium,24
+CW-01764,2025-02-09,Northern,Online Fraud,Business,2943.5,Email,Closed,High,6
+CW-01765,2026-09-16,Northern,Investment Scam,Business,3133.49,Walk-in,Open,Low,23
+CW-01766,2025-09-02,Eastern,Social Engineering,Business,807.05,Phone,Under Review,Medium,13
+CW-01767,2025-07-13,Eastern,Online Fraud,Business,4375.99,Online,Open,Low,27
+CW-01768,2026-06-21,Western,Identity Misuse,Business,716.16,Email,Closed,Low,15
+CW-01769,2025-07-02,Eastern,Investment Scam,Business,3119.23,Walk-in,Under Review,Medium,14
+CW-01770,2026-04-24,Eastern,Social Engineering,Individual,711.45,Phone,Open,Medium,14
+CW-01771,2025-12-20,Northern,Phishing,Business,3182.36,Email,Open,High,3
+CW-01772,2025-06-28,Central,Phishing,Individual,178.74,Email,Closed,Medium,22
+CW-01773,2025-12-27,Central,Identity Misuse,Individual,2341.97,Online,Open,Critical,29
+CW-01774,2026-02-03,Northern,Social Engineering,Individual,1017.36,Phone,Under Review,High,27
+CW-01775,2025-07-14,Central,Phishing,Individual,6070.07,Walk-in,Under Review,Critical,21
+CW-01776,2025-05-17,Northern,Social Engineering,Individual,2582.0,Walk-in,Open,High,27
+CW-01777,2025-09-07,Central,Phishing,Business,4798.57,Email,Closed,High,22
+CW-01778,2026-06-26,Central,Online Fraud,Business,3130.81,Phone,Under Review,Critical,15
+CW-01779,2025-03-03,Eastern,Identity Misuse,Business,4480.6,Walk-in,Closed,High,28
+CW-01780,2025-12-02,Western,Social Engineering,Individual,494.53,Email,Under Review,Medium,9
+CW-01781,2025-05-31,Eastern,Phishing,Individual,5078.72,Online,Open,Medium,18
+CW-01782,2026-10-08,Central,Investment Scam,Business,3306.39,Walk-in,Open,Medium,22
+CW-01783,2026-01-01,Central,Online Fraud,Individual,3358.15,Phone,Under Review,High,14
+CW-01784,2025-02-13,Central,Social Engineering,Individual,1928.39,Walk-in,Closed,High,2
+CW-01785,2025-03-29,Northern,Online Fraud,Business,1950.01,Phone,Closed,Low,30
+CW-01786,2026-03-06,Western,Social Engineering,Business,2341.29,Phone,Closed,Low,17
+CW-01787,2026-07-21,Northern,Investment Scam,Individual,47.11,Phone,Closed,High,25
+CW-01788,2025-04-24,Eastern,Investment Scam,Individual,2596.57,Online,Under Review,Low,23
+CW-01789,2026-08-23,Eastern,Social Engineering,Individual,851.98,Walk-in,Under Review,Medium,19
+CW-01790,2025-01-30,Eastern,Online Fraud,Individual,2566.85,Walk-in,Under Review,High,14
+CW-01791,2026-05-25,Central,Investment Scam,Individual,3709.96,Email,Under Review,Low,26
+CW-01792,2025-08-07,Western,Phishing,Business,2157.35,Walk-in,Closed,Medium,2
+CW-01793,2026-12-28,Eastern,Phishing,Individual,515.42,Phone,Open,Low,24
+CW-01794,2026-02-19,Western,Phishing,Business,5980.33,Walk-in,Closed,Medium,15
+CW-01795,2026-12-31,Central,Social Engineering,Individual,1982.73,Online,Open,Critical,28
+CW-01796,2025-05-05,Eastern,Identity Misuse,Business,5994.43,Email,Under Review,Low,7
+CW-01797,2026-08-12,Central,Social Engineering,Business,1753.38,Phone,Open,Low,3
+CW-01798,2026-08-31,Central,Phishing,Individual,4169.16,Walk-in,Open,Critical,3
+CW-01799,2026-01-16,Northern,Social Engineering,Business,3959.72,Phone,Open,Low,8
+CW-01800,2026-02-09,Western,Identity Misuse,Business,2643.42,Email,Open,Medium,25
+CW-01801,2026-06-06,Central,Investment Scam,Individual,321.79,Phone,Closed,Low,13
+CW-01802,2025-09-17,Eastern,Online Fraud,Individual,0.0,Phone,Under Review,Low,1
+CW-01803,2025-02-07,Eastern,Investment Scam,Individual,2234.39,Email,Open,Low,29
+CW-01804,2026-12-14,Western,Online Fraud,Individual,2717.8,Email,Open,High,11
+CW-01805,2026-06-24,Northern,Investment Scam,Individual,2410.57,Walk-in,Under Review,Medium,8
+CW-01806,2026-11-22,Northern,Phishing,Individual,2393.19,Walk-in,Closed,Low,16
+CW-01807,2026-05-26,Western,Online Fraud,Business,6082.67,Walk-in,Open,Low,3
+CW-01808,2026-02-03,Western,Phishing,Individual,4665.42,Online,Open,Low,22
+CW-01809,2026-06-18,Eastern,Identity Misuse,Business,5138.04,Walk-in,Open,Low,28
+CW-01810,2025-11-09,Western,Online Fraud,Business,5241.16,Walk-in,Under Review,Medium,26
+CW-01811,2025-07-20,Central,Phishing,Individual,1563.97,Email,Open,High,20
+CW-01812,2027-01-09,Central,Identity Misuse,Business,3766.79,Online,Open,Low,16
+CW-01813,2025-02-01,Northern,Online Fraud,Business,2384.92,Online,Open,Medium,17
+CW-01814,2026-12-14,Eastern,Phishing,Business,1745.66,Walk-in,Closed,Critical,0
+CW-01815,2026-01-31,Central,Identity Misuse,Individual,3018.19,Online,Closed,Low,3
+CW-01816,2025-06-18,Eastern,Online Fraud,Individual,3869.59,Online,Closed,Critical,14
+CW-01817,2026-07-15,Northern,Phishing,Business,2695.0,Phone,Under Review,Medium,15
+CW-01818,2025-11-26,Central,Online Fraud,Business,905.45,Email,Open,Low,12
+CW-01819,2025-04-18,Eastern,Social Engineering,Business,5385.27,Online,Open,Low,0
+CW-01820,2025-02-01,Northern,Identity Misuse,Individual,1070.44,Online,Closed,Low,18
+CW-01821,2025-07-31,Central,Social Engineering,Business,3881.83,Online,Under Review,Low,16
+CW-01822,2025-11-04,Eastern,Identity Misuse,Business,663.98,Phone,Closed,Low,23
+CW-01823,2025-11-28,Eastern,Social Engineering,Business,1680.18,Online,Open,High,30
+CW-01824,2025-05-08,Eastern,Social Engineering,Business,3433.21,Walk-in,Closed,Low,28
+CW-01825,2025-06-28,Western,Phishing,Business,3418.96,Phone,Under Review,Medium,14
+CW-01826,2026-11-03,Northern,Investment Scam,Individual,3518.89,Phone,Under Review,Low,6
+CW-01827,2025-03-31,Western,Online Fraud,Business,4499.69,Walk-in,Closed,Critical,16
+CW-01828,2026-10-25,Eastern,Investment Scam,Business,301.1,Email,Closed,High,30
+CW-01829,2026-06-27,Western,Social Engineering,Individual,3490.51,Online,Open,Low,7
+CW-01830,2026-07-10,Central,Identity Misuse,Business,3621.32,Email,Closed,High,12
+CW-01831,2026-07-21,Eastern,Identity Misuse,Individual,4166.37,Online,Closed,Critical,25
+CW-01832,2026-02-19,Western,Online Fraud,Business,248.8,Phone,Open,Low,16
+CW-01833,2026-12-21,Northern,Identity Misuse,Individual,2059.99,Email,Open,Medium,3
+CW-01834,2026-05-10,Eastern,Identity Misuse,Business,1831.98,Online,Closed,High,20
+CW-01835,2025-06-25,Central,Identity Misuse,Business,2968.86,Phone,Closed,Low,27
+CW-01836,2026-10-10,Western,Identity Misuse,Individual,3467.26,Walk-in,Under Review,Low,11
+CW-01837,2026-02-09,Western,Social Engineering,Individual,569.53,Email,Under Review,Critical,29
+CW-01838,2025-05-14,Northern,Investment Scam,Business,3171.84,Walk-in,Closed,High,26
+CW-01839,2025-04-17,Central,Social Engineering,Business,3572.85,Online,Under Review,Low,20
+CW-01840,2025-11-30,Western,Identity Misuse,Individual,1909.97,Online,Closed,Medium,23
+CW-01841,2026-05-05,Central,Social Engineering,Business,1232.92,Phone,Under Review,Low,15
+CW-01842,2025-11-10,Central,Investment Scam,Individual,2238.43,Phone,Closed,Low,26
+CW-01843,2026-12-12,Western,Social Engineering,Business,3824.48,Email,Under Review,Medium,12
+CW-01844,2025-12-02,Eastern,Phishing,Business,3274.84,Walk-in,Open,High,28
+CW-01845,2026-08-22,Eastern,Identity Misuse,Business,2839.69,Email,Open,Medium,0
+CW-01846,2026-07-31,Western,Phishing,Individual,4640.18,Walk-in,Open,Medium,16
+CW-01847,2026-02-15,Eastern,Phishing,Business,3347.1,Walk-in,Closed,Medium,16
+CW-01848,2025-09-23,Central,Social Engineering,Individual,4092.63,Phone,Closed,Low,20
+CW-01849,2025-02-03,Eastern,Investment Scam,Individual,3068.33,Online,Under Review,High,27
+CW-01850,2026-12-20,Western,Identity Misuse,Business,2250.33,Online,Open,Medium,14
+CW-01851,2026-05-16,Central,Identity Misuse,Individual,2355.68,Walk-in,Under Review,High,19
+CW-01852,2026-10-11,Northern,Online Fraud,Business,2888.4,Walk-in,Closed,Critical,0
+CW-01853,2025-05-23,Western,Phishing,Business,1472.78,Email,Under Review,Medium,13
+CW-01854,2026-04-25,Northern,Phishing,Individual,2358.6,Online,Under Review,Low,21
+CW-01855,2026-06-15,Northern,Identity Misuse,Business,3531.02,Walk-in,Under Review,Low,4
+CW-01856,2026-07-18,Northern,Identity Misuse,Individual,3669.22,Phone,Closed,Medium,20
+CW-01857,2026-07-12,Central,Identity Misuse,Individual,1936.88,Email,Under Review,Medium,3
+CW-01858,2026-12-12,Eastern,Online Fraud,Business,2114.61,Walk-in,Under Review,High,9
+CW-01859,2025-12-22,Western,Identity Misuse,Business,405.99,Walk-in,Under Review,Low,3
+CW-01860,2025-05-13,Central,Phishing,Individual,3045.45,Email,Closed,Critical,18
+CW-01861,2026-09-25,Northern,Online Fraud,Individual,2810.08,Phone,Under Review,Medium,6
+CW-01862,2025-03-02,Western,Online Fraud,Individual,3082.09,Online,Closed,Low,21
+CW-01863,2026-06-21,Northern,Investment Scam,Business,4044.41,Phone,Open,Medium,1
+CW-01864,2025-09-13,Northern,Phishing,Individual,5473.71,Walk-in,Open,Low,22
+CW-01865,2026-12-31,Eastern,Phishing,Individual,1253.82,Phone,Open,Low,16
+CW-01866,2026-09-10,Western,Social Engineering,Business,2010.42,Online,Closed,Medium,27
+CW-01867,2025-10-03,Western,Social Engineering,Individual,3393.98,Phone,Open,Low,19
+CW-01868,2026-09-02,Western,Identity Misuse,Business,2968.02,Phone,Closed,Medium,26
+CW-01869,2025-07-09,Northern,Phishing,Individual,3126.38,Walk-in,Open,Low,0
+CW-01870,2026-12-04,Western,Social Engineering,Individual,338.35,Phone,Under Review,Low,1
+CW-01871,2026-10-02,Northern,Identity Misuse,Business,1260.07,Phone,Under Review,Medium,5
+CW-01872,2026-08-13,Central,Online Fraud,Individual,2858.85,Online,Open,Low,20
+CW-01873,2025-07-03,Central,Online Fraud,Business,1441.25,Walk-in,Closed,Low,7
+CW-01874,2025-10-17,Central,Social Engineering,Individual,5126.81,Phone,Closed,High,7
+CW-01875,2025-12-25,Western,Phishing,Individual,3187.28,Email,Under Review,High,17
+CW-01876,2026-03-15,Northern,Online Fraud,Business,4359.1,Walk-in,Open,Medium,5
+CW-01877,2025-09-05,Northern,Online Fraud,Business,4265.05,Phone,Closed,Medium,30
+CW-01878,2025-11-05,Northern,Identity Misuse,Individual,2773.14,Online,Closed,Medium,16
+CW-01879,2026-12-01,Northern,Investment Scam,Individual,1602.41,Phone,Open,Critical,8
+CW-01880,2026-06-29,Eastern,Investment Scam,Individual,1353.22,Online,Open,Medium,29
+CW-01881,2026-10-17,Central,Investment Scam,Individual,3601.33,Walk-in,Under Review,Medium,7
+CW-01882,2026-07-30,Western,Investment Scam,Business,3894.02,Phone,Under Review,Medium,8
+CW-01883,2026-06-26,Central,Online Fraud,Business,2397.7,Walk-in,Open,Medium,29
+CW-01884,2025-11-28,Eastern,Online Fraud,Individual,389.92,Phone,Open,Medium,16
+CW-01885,2026-05-06,Eastern,Investment Scam,Business,4908.33,Online,Open,High,18
+CW-01886,2025-10-28,Northern,Social Engineering,Business,4625.24,Phone,Open,Low,9
+CW-01887,2025-05-30,Western,Online Fraud,Individual,3478.53,Online,Closed,Low,23
+CW-01888,2026-11-01,Eastern,Social Engineering,Individual,4293.65,Walk-in,Open,Critical,0
+CW-01889,2026-05-30,Western,Identity Misuse,Individual,1951.58,Online,Open,Low,14
+CW-01890,2025-10-31,Central,Phishing,Business,4963.81,Online,Open,Critical,1
+CW-01891,2025-04-22,Eastern,Online Fraud,Individual,4976.12,Walk-in,Closed,Low,5
+CW-01892,2026-02-26,Eastern,Social Engineering,Individual,3963.82,Email,Under Review,High,3
+CW-01893,2025-06-28,Western,Identity Misuse,Individual,0.0,Online,Under Review,Low,21
+CW-01894,2025-08-20,Central,Identity Misuse,Business,214.6,Walk-in,Closed,Critical,14
+CW-01895,2026-04-21,Northern,Identity Misuse,Business,2131.01,Email,Open,Medium,23
+CW-01896,2025-11-30,Eastern,Phishing,Individual,3170.06,Phone,Under Review,Low,25
+CW-01897,2026-01-07,Northern,Investment Scam,Individual,1141.0,Walk-in,Closed,High,15
+CW-01898,2026-02-10,Western,Social Engineering,Business,0.0,Phone,Closed,Low,1
+CW-01899,2026-09-15,Central,Investment Scam,Individual,3860.53,Email,Closed,Medium,29
+CW-01900,2025-02-18,Central,Online Fraud,Business,3275.13,Online,Closed,Low,30
+CW-01901,2025-07-10,Northern,Phishing,Business,1246.34,Online,Open,Low,30
+CW-01902,2025-09-21,Northern,Online Fraud,Individual,2996.0,Phone,Open,Low,22
+CW-01903,2027-01-11,Eastern,Phishing,Individual,4705.6,Email,Under Review,High,30
+CW-01904,2026-09-28,Eastern,Social Engineering,Individual,2372.69,Online,Closed,Low,19
+CW-01905,2025-04-23,Central,Identity Misuse,Individual,684.64,Online,Closed,High,8
+CW-01906,2026-02-28,Central,Investment Scam,Business,2868.5,Walk-in,Closed,High,5
+CW-01907,2025-05-28,Northern,Phishing,Business,2008.45,Online,Open,Medium,27
+CW-01908,2026-03-19,Central,Phishing,Business,2451.0,Online,Closed,Low,16
+CW-01909,2025-01-26,Eastern,Online Fraud,Individual,178.65,Online,Open,Medium,14
+CW-01910,2026-08-26,Western,Phishing,Business,2805.92,Walk-in,Closed,Low,26
+CW-01911,2026-08-22,Northern,Investment Scam,Business,3734.02,Email,Under Review,Critical,18
+CW-01912,2025-04-08,Northern,Identity Misuse,Business,3002.98,Email,Open,High,16
+CW-01913,2026-10-27,Central,Investment Scam,Individual,2782.42,Email,Closed,Medium,28
+CW-01914,2025-01-14,Eastern,Online Fraud,Individual,3242.72,Phone,Under Review,Medium,4
+CW-01915,2025-04-04,Western,Investment Scam,Business,2084.24,Email,Closed,Medium,6
+CW-01916,2025-09-28,Western,Investment Scam,Business,2435.08,Email,Under Review,Medium,29
+CW-01917,2025-08-27,Eastern,Online Fraud,Business,4347.07,Online,Closed,Medium,30
+CW-01918,2026-06-17,Eastern,Social Engineering,Individual,2934.06,Phone,Closed,Low,1
+CW-01919,2026-01-17,Northern,Phishing,Business,1242.06,Online,Closed,Critical,0
+CW-01920,2025-12-10,Western,Phishing,Business,1689.8,Online,Closed,Low,2
+CW-01921,2025-12-17,Northern,Online Fraud,Business,747.87,Phone,Open,Medium,19
+CW-01922,2026-10-06,Central,Identity Misuse,Individual,4020.5,Phone,Closed,High,0
+CW-01923,2025-09-09,Western,Phishing,Business,1844.8,Phone,Closed,Medium,21
+CW-01924,2025-02-19,Central,Investment Scam,Business,2441.8,Walk-in,Under Review,Low,24
+CW-01925,2026-08-13,Eastern,Phishing,Individual,3333.61,Email,Closed,High,22
+CW-01926,2026-05-13,Eastern,Investment Scam,Individual,5581.14,Phone,Under Review,Critical,11
+CW-01927,2025-12-30,Northern,Investment Scam,Business,3069.55,Email,Closed,Critical,14
+CW-01928,2025-10-02,Central,Identity Misuse,Business,2032.8,Walk-in,Open,Low,26
+CW-01929,2025-04-17,Northern,Social Engineering,Individual,835.82,Walk-in,Open,Medium,22
+CW-01930,2025-05-28,Central,Online Fraud,Business,5069.07,Online,Open,Low,29
+CW-01931,2025-08-22,Western,Investment Scam,Business,5212.88,Walk-in,Open,Low,15
+CW-01932,2026-08-31,Northern,Identity Misuse,Individual,3844.6,Phone,Under Review,Medium,12
+CW-01933,2026-01-10,Central,Investment Scam,Individual,2055.68,Walk-in,Closed,Medium,25
+CW-01934,2027-01-03,Northern,Investment Scam,Business,0.0,Walk-in,Under Review,Medium,20
+CW-01935,2026-02-03,Central,Investment Scam,Individual,4013.45,Phone,Open,Medium,4
+CW-01936,2026-01-24,Eastern,Social Engineering,Business,1280.83,Phone,Under Review,Low,2
+CW-01937,2026-10-22,Western,Online Fraud,Individual,2411.58,Walk-in,Closed,Low,5
+CW-01938,2025-12-09,Central,Identity Misuse,Business,2570.55,Walk-in,Under Review,Low,12
+CW-01939,2025-06-16,Eastern,Social Engineering,Business,1441.69,Email,Under Review,High,30
+CW-01940,2026-02-24,Northern,Investment Scam,Business,1230.94,Walk-in,Under Review,Low,12
+CW-01941,2026-04-17,Western,Phishing,Business,5120.18,Email,Open,Low,25
+CW-01942,2025-01-08,Eastern,Social Engineering,Business,0.0,Phone,Open,Medium,5
+CW-01943,2026-11-04,Central,Social Engineering,Business,1699.08,Walk-in,Under Review,Low,16
+CW-01944,2026-01-07,Western,Online Fraud,Individual,3138.26,Email,Under Review,High,27
+CW-01945,2025-01-27,Eastern,Online Fraud,Business,3476.0,Email,Closed,Medium,6
+CW-01946,2026-07-23,Northern,Online Fraud,Business,3138.87,Online,Open,Medium,21
+CW-01947,2025-09-05,Eastern,Phishing,Individual,0.0,Walk-in,Open,Low,18
+CW-01948,2025-09-04,Central,Investment Scam,Individual,3220.51,Online,Under Review,Critical,24
+CW-01949,2025-07-22,Eastern,Investment Scam,Business,980.97,Email,Under Review,Low,7
+CW-01950,2026-03-31,Western,Social Engineering,Individual,0.0,Walk-in,Open,Medium,7
+CW-01951,2025-05-28,Eastern,Identity Misuse,Individual,2526.81,Email,Under Review,Low,2
+CW-01952,2025-06-23,Central,Identity Misuse,Individual,2163.69,Phone,Under Review,High,7
+CW-01953,2025-02-07,Eastern,Online Fraud,Individual,1603.93,Phone,Under Review,High,9
+CW-01954,2027-01-03,Western,Investment Scam,Individual,2665.63,Phone,Under Review,High,23
+CW-01955,2026-07-28,Northern,Investment Scam,Business,3734.48,Email,Closed,Low,14
+CW-01956,2025-05-04,Eastern,Social Engineering,Individual,2562.31,Phone,Under Review,Medium,14
+CW-01957,2025-09-14,Western,Social Engineering,Individual,1603.47,Email,Under Review,Low,8
+CW-01958,2026-06-22,Western,Online Fraud,Business,1879.49,Phone,Under Review,High,10
+CW-01959,2025-03-01,Northern,Identity Misuse,Individual,334.91,Walk-in,Under Review,Medium,17
+CW-01960,2025-08-25,Central,Phishing,Business,5050.81,Online,Closed,Low,30
+CW-01961,2026-01-15,Northern,Phishing,Business,1257.56,Email,Open,Medium,11
+CW-01962,2026-09-23,Western,Phishing,Individual,2680.3,Email,Under Review,Low,2
+CW-01963,2027-01-08,Northern,Phishing,Individual,2166.14,Phone,Closed,Medium,23
+CW-01964,2026-12-20,Northern,Investment Scam,Individual,0.0,Phone,Open,High,10
+CW-01965,2026-08-06,Eastern,Social Engineering,Individual,2591.78,Online,Closed,Low,29
+CW-01966,2025-09-01,Central,Social Engineering,Business,2385.43,Phone,Open,Low,16
+CW-01967,2025-12-26,Central,Social Engineering,Individual,3088.9,Email,Closed,Medium,0
+CW-01968,2025-05-15,Central,Phishing,Individual,0.0,Walk-in,Open,Medium,6
+CW-01969,2025-11-02,Western,Identity Misuse,Individual,635.6,Online,Under Review,High,21
+CW-01970,2027-01-18,Western,Investment Scam,Business,2032.86,Walk-in,Open,Medium,23
+CW-01971,2026-02-19,Northern,Identity Misuse,Individual,2821.88,Online,Open,Low,16
+CW-01972,2025-05-02,Northern,Online Fraud,Individual,5415.38,Walk-in,Under Review,High,4
+CW-01973,2026-12-10,Northern,Social Engineering,Individual,1875.01,Online,Open,High,26
+CW-01974,2025-07-28,Western,Identity Misuse,Business,192.89,Online,Under Review,Low,23
+CW-01975,2025-10-15,Central,Investment Scam,Business,2170.42,Online,Open,Critical,5
+CW-01976,2025-10-01,Northern,Social Engineering,Individual,1226.82,Phone,Closed,Medium,13
+CW-01977,2025-09-03,Eastern,Online Fraud,Business,3469.72,Email,Under Review,High,22
+CW-01978,2025-11-21,Western,Social Engineering,Individual,2748.92,Phone,Closed,Critical,19
+CW-01979,2026-05-03,Central,Social Engineering,Business,3438.94,Phone,Closed,Low,21
+CW-01980,2026-08-24,Western,Online Fraud,Individual,2851.1,Walk-in,Open,Critical,29
+CW-01981,2025-07-13,Eastern,Online Fraud,Individual,2551.31,Online,Closed,Medium,15
+CW-01982,2025-04-18,Northern,Identity Misuse,Individual,1218.06,Phone,Closed,Medium,16
+CW-01983,2025-07-28,Western,Identity Misuse,Individual,1512.68,Email,Open,Medium,10
+CW-01984,2026-10-15,Eastern,Social Engineering,Business,817.18,Online,Open,Low,26
+CW-01985,2025-02-22,Northern,Identity Misuse,Individual,619.39,Email,Closed,Medium,22
+CW-01986,2026-04-13,Eastern,Online Fraud,Individual,2825.1,Phone,Under Review,Low,19
+CW-01987,2025-11-25,Western,Online Fraud,Individual,976.35,Phone,Closed,Low,1
+CW-01988,2025-10-15,Eastern,Identity Misuse,Individual,2454.85,Walk-in,Open,Medium,1
+CW-01989,2025-12-04,Western,Social Engineering,Individual,2476.79,Email,Closed,High,27
+CW-01990,2026-02-18,Central,Phishing,Business,1029.01,Online,Closed,Medium,20
+CW-01991,2025-09-15,Western,Social Engineering,Individual,0.0,Email,Under Review,High,24
+CW-01992,2025-12-14,Northern,Social Engineering,Individual,3414.0,Walk-in,Closed,Low,2
+CW-01993,2025-08-23,Central,Investment Scam,Business,2258.15,Email,Under Review,Medium,14
+CW-01994,2025-03-14,Eastern,Online Fraud,Individual,2902.1,Phone,Closed,Medium,26
+CW-01995,2025-07-23,Eastern,Social Engineering,Business,4541.94,Email,Under Review,Medium,26
+CW-01996,2026-05-28,Central,Social Engineering,Individual,263.89,Online,Under Review,Low,27
+CW-01997,2025-03-12,Western,Social Engineering,Individual,4242.25,Online,Open,Medium,20
+CW-01998,2025-04-14,Eastern,Online Fraud,Business,2222.68,Walk-in,Under Review,Critical,14
+CW-01999,2026-10-06,Eastern,Investment Scam,Business,1131.61,Walk-in,Under Review,Medium,20
+CW-02000,2026-05-16,Central,Online Fraud,Individual,3055.09,Phone,Open,High,14
